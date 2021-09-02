@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Yiran Lei</title>
+  <title>Yiran Lei - 雷怡然</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
@@ -23,19 +23,10 @@
       <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
     </header>
     <div id="container">
-      <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
+      <p class="tagline">
+          📧: leiyr20 [at] mails [dot] tsinghua [dot] edu [dot] cn &emsp | &emsp <a href="https://github.com/A-Dying-Pig">github</a> &emsp | &emsp <a href="https://gitlab.com/A-Dying-Pig">gitlab</a>
+      </p>
       <div id="main" role="main">
-        <div class="download-bar">
-        <div class="inner">
-          {% if site.show_downloads %}
-          <a href="{{ site.github.tar_url }}" class="download-button tar"><span>Download</span></a>
-          <a href="{{ site.github.zip_url }}" class="download-button zip"><span>Download</span></a>
-          {% endif %}
-          📧: leiyr20 [at] mails [dot] tsinghua [dot] edu [dot] cn | <a href="https://github.com/A-Dying-Pig">github</a> | <a href="https://gitlab.com/A-Dying-Pig">gitlab</a>
-<!--           <a href="{{ site.github.repository_url }}" class="code">View {{ site.title | default: site.github.repository_name }} on GitHub</a> -->
-        </div>
-        <span class="blc"></span><span class="trc"></span>
-        </div>
         <article class="markdown-body">
           {{ content }}
         </article>
