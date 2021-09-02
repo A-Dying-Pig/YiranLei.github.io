@@ -1,6 +1,6 @@
 # About Me
 <div>
-    <img align="right" src="YiranLei.jpg" style="zoom:25%;" />
+    <img align="right" src="assets/images/YiranLei.jpg" style="zoom:25%;" />
 </div>
 I am Yiran Lei, a second-year Master student at Department of Computer Science and Technology, Tsinghua Univerisity, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu). I received my B.Eng. degree in School of Software, Tsinghua University in 2020. 
 
