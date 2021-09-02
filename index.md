@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/A-Dying-Pig/YiranLei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Yiran Lei, a second-year Master student at Department of Computer Science and Technology, Tsinghua Univerisity, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu). I received my B.Eng. degree in School of Software, Tsinghua University in 2020. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am motivated to develop new mechanisms and algorithms in real network systems for finer measuring, controlling, and better network performance. My research interests include Software-Defined Networking, Network Telemetry, Programmable Data Planes.
 
-### Markdown
+# News
+* 9/2/2021: I am appointed as the TA of the course, *The Principle of Computer Network*.
+* 8/3/2021: Paper, *DOVE: Diagnosis-driven SLO Violation Detection*, is accepted at **ICNP'21**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Publications
+* <font color=red>[ICNP'21]</font> **Yiran Lei**, Yu Zhou, Yunsenxiao Lin, Mingwei Xu, Yangyang Wang. "DOVE: Diagnosis-driven SLO Violation Detection" To appear at the 29th IEEE International Conference on Network Protocols (ICNP) 2021.
+  * [PDF] [Slides] (released soon) [[Code-Tofino]](https://gitlab.com/A-Dying-Pig/dove) [[Code-BMv2]](https://gitlab.com/A-Dying-Pig/dove-bmv2)
 
-```markdown
-Syntax highlighted code block
+# Teaching
+### Teaching Assistant
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/A-Dying-Pig/YiranLei.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* *The Principle of Computer Network*, Fall Semester, 2021 - 2022, Department of Computer Science and Technology, Tsinghua University
