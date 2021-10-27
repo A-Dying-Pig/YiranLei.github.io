@@ -14,6 +14,9 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
 # Publications
 * [ICNP'21] **Yiran Lei**, Yu Zhou, Yunsenxiao Lin, Mingwei Xu, Yangyang Wang. "DOVE: Diagnosis-driven SLO Violation Detection" To appear at the 29th IEEE International Conference on Network Protocols (ICNP) 2021. 
   * [Paper] [[Slides]](/assets/papers/DOVE/DOVE.pdf) [[Code-Tofino]](https://gitlab.com/A-Dying-Pig/dove) [[Code-BMv2]](https://gitlab.com/A-Dying-Pig/dove-bmv2)
+  <div class="embed-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hDGp2wkwsf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 
 # Teaching
 ### Teaching Assistant
