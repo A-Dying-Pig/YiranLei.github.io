@@ -16,11 +16,11 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
   * [Paper] [[Slides]](/assets/papers/DOVE/DOVE.pdf) [[Code-Tofino]](https://gitlab.com/A-Dying-Pig/dove) [[Code-BMv2]](https://gitlab.com/A-Dying-Pig/dove-bmv2)
   <div class="embed-video-wrapper">
     <div class="embed-first">
-        Teaser Video
+        <p>Teaser Video</p>
         <iframe width="400" height="225" src="https://www.youtube.com/embed/hDGp2wkwsf0" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="embed-second">
-        Talk Video
+        <p>Talk Video</p>
         <iframe width="400" height="225" src="https://www.youtube.com/embed/opzT5JAfrt8" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
