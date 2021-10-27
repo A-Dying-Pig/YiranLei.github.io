@@ -496,4 +496,16 @@ footer .owner p a {
   vertical-align: middle;
 }
 
+#embed-video-wrapper {
+    width: 900px;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+#embed-first {
+    width: 300px;
+    float:left; /* add this */
+}
+#embed-second {
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+}
+
 @import "rouge-base16-dark";
