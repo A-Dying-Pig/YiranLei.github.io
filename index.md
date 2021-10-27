@@ -17,11 +17,11 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
   <div class="embed-video-wrapper">
     <div class="embed-first">
         Teaser Video
-        <iframe width="480" height="270" src="https://www.youtube.com/embed/hDGp2wkwsf0" frameborder="0" allowfullscreen></iframe>
+        <iframe width="400" height="225" src="https://www.youtube.com/embed/hDGp2wkwsf0" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="embed-second">
         Talk Video
-        <iframe width="480" height="270" src="https://www.youtube.com/embed/hDGp2wkwsf0" frameborder="0" allowfullscreen></iframe>
+        <iframe width="400" height="225" src="https://www.youtube.com/embed/opzT5JAfrt8" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
 
