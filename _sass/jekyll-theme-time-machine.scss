@@ -499,9 +499,10 @@ footer .owner p a {
 div.embed-video-wrapper {
     width: 900px;
     overflow: hidden; /* will contain if #first is longer than #second */
+    margin-top: -33px;
 }
 div.embed-first {
-    width: 300px;
+    width: 400px;
     float:left; /* add this */
     text-align: center;
 }
