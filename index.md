@@ -1,4 +1,4 @@
-<div class="content_div" id="aboutme">
+<br>
 # About Me
 <div>
     <img align="right" src="assets/images/YiranLei.jpg" style="zoom:25%;" />
@@ -6,16 +6,12 @@
 I am Yiran Lei, a second-year Master student at Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu). I received my B.Eng. degree in School of Software, Tsinghua University in 2020. 
 
 I am motivated to develop new mechanisms and algorithms in real network systems for finer measuring, controlling, and better network performance. My research interests include Software-Defined Networking, Network Telemetry, Programmable Data Planes.
-</div>
 
-<div class="content_div" id="news">
 # News
 * 10/25/2021: Awarded the Tsinghua Xinglan Scholarship.
 * 9/2/2021: Appointed as the TA of the course, *The Principle of Computer Network*.
 * 8/3/2021: Paper, *DOVE: Diagnosis-driven SLO Violation Detection*, is accepted at **ICNP'21**.
-</div>
 
-<div class="content_div" id="publications">
 # Publications
 * [ICNP'21] **Yiran Lei**, Yu Zhou, Yunsenxiao Lin, Mingwei Xu, Yangyang Wang. "DOVE: Diagnosis-driven SLO Violation Detection" To appear at the 29th IEEE International Conference on Network Protocols (ICNP) 2021. 
   * [Paper] [[Slides]](/assets/papers/DOVE/DOVE.pdf) [[Code-Tofino]](https://gitlab.com/A-Dying-Pig/dove) [[Code-BMv2]](https://gitlab.com/A-Dying-Pig/dove-bmv2)
@@ -29,15 +25,10 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
         <iframe width="400" height="225" src="https://www.youtube.com/embed/opzT5JAfrt8" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
-</div>
 
-<div class="content_div" id="teaching">
 # Teaching
 ### Teaching Assistant
 * *The Principle of Computer Network*, Fall Semester, 2021 - 2022, Department of Computer Science and Technology, Tsinghua University
-</div>
 
-<div class="content_div" id="blogs">
 # Blogs
 * A [tutorial](https://a-dying-pig.github.io/p4Installation.github.io/) to install P4. The guide helps you install P4 and its dependencies step by step. Upon success, you can start playing with P4 and learning P4 with program examples.
-</div>
