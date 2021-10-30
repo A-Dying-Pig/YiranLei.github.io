@@ -97,11 +97,8 @@
         scroll_to_certain_position: function(lid){
           console.log(lid)
           var id_string = ['h1#about-me', 'h1#news', 'h1#publications', 'h1#teaching', 'h1#blogs']
-          var content = $('div#container')
-          var target = content.find(id_string[lid])
-          console.log(target.offset())
-          console.log(content.offset())
-          $(window).scrollTop(target.offset().top)
+          var target = $('div#container').find(id_string[lid])
+          $(window).scrollTop(target.offset().top - 20)
         }
       }
     })
@@ -111,17 +108,17 @@
     padding: 5px 0px 5px 0px;
     background: rgb(51,51,51);
     color: white;
-    padding-top: 20px;
+    padding-top: 23px;
   }
   .el-card__body{
-    padding-top: 5px;
+    padding-top: 2px;
     padding-bottom: 5px;
   }
   div.slide_bar{
       width: 120px;
       position: fixed;
-      left: 10px;
-      top:120px;
+      left: 25px;
+      top: 130px;
       text-align: center;
   } 
 </style>
