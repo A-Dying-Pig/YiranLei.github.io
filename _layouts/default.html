@@ -31,8 +31,12 @@
 
 <body>
   <div class="slide_bar">
+
     <el-card class="slide_bar_box">
-<!--         <el-button type="text" class="button">About Me</el-button> -->
+      <div slot="header" class="slide_bar_title">
+        <span>navigation</span>
+      </div>
+        <el-link v-for="(text,id) in display_text" v-on:click="scroll_to_certain_position(id)">{{text}}</el-link>
     </el-card>
   </div>
   
@@ -75,14 +79,44 @@
     {% endif %}
     <p class="name"></p>
   </div> -->
+
 </body>
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
   <script>
-     
     
+     var slide_bar = new Vue({
+      el: '.slide_bar_box',
+      data:{
+        display_text: ['About Me', 'News','Publications', 'Teaching', 'Blogs']
+      },
+      methods:{
+        scroll_to_certain_position: function(lid){
+          console.log(lid)
+          var id_string = ['h1#about-me', 'h1#news', 'h1#publications', 'h1#teaching', 'h1#blogs']
+          var content = $('div#main')
+          var target = content.find(id_string[lid])
+          content.animate({
+          scrollTop: target.offset().top - content.offset().top + content.scrollTop()}, 1000);
+        }
+      }
+    })
   </script>
-  
-  
+  <style>
+  .el-card__header{
+    padding: 5px 0px 5px 0px;
+    background: rgb(51,51,51);
+    color: white;
+  }
+  .el-card__body{
+    padding-top: 5px;
+  }
+  div.slide_bar{
+      width: 120px;
+      position: fixed;
+      left: 10px;
+      top:200px;
+      text-align: center;
+  }  
+</style>
 </html>
-
