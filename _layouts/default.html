@@ -36,7 +36,7 @@
       <div slot="header" class="slide_bar_title">
         <span>navigation</span>
       </div>
-        <el-button type="text" v-for="(text,id) in display_text" v-on:click="scroll_to_certain_position(id)">{{text}}</el-button>
+        <el-link v-for="(value, index) in display_text"  v-bind:key="index" v-on:click="scroll_to_certain_position(index)">{{value.txt}}</el-link>
     </el-card>
   </div>
   
@@ -88,7 +88,7 @@
      var slide_bar = new Vue({
       el: '.slide_bar_box',
       data:{
-        display_text: ['About Me', 'News','Publications', 'Teaching', 'Blogs']
+        display_text: [{txt:'About Me'}, {txt:'News'},{txt:'Publications'}, {txt:'Teaching'}, {txt:'Blogs'}]
       },
       methods:{
         scroll_to_certain_position: function(lid){
