@@ -36,9 +36,8 @@
       <div slot="header" class="slide_bar_title">
       </div>
       
-      <div v-for="(item, index) in display_text" :key="index">
-      {{item}} {{index}}
-         <el-link v-on:click="scroll_to_certain_position(index)">#{{index}}: {{item.txt}}</el-link>
+      <div class="slide_entry" v-for="(item, index) in display_text" :key="item.txt">
+        {{item.txt}}
       </div>
     </el-card>
   </div>
@@ -89,7 +88,7 @@
   <script>
     
      var slide_bar = new Vue({
-      el: '.slide_bar_box',
+      el: '.slide_entry',
       data:{
         display_text: [],
       },
