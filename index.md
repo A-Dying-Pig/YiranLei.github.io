@@ -31,4 +31,4 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
 * *The Principle of Computer Network*, Fall Semester, 2021 - 2022, Department of Computer Science and Technology, Tsinghua University
 
 # Blogs
-* A [tutorial](https://a-dying-pig.github.io/p4Installation.github.io/) to install P4. The guide helps you install P4 and its dependencies step by step. Upon success, you can start playing with P4 and learning P4 with program examples.
+* A [tutorial](https://www.yiranlei.com/P4_Installation_Tutorial) to install P4. The guide helps you install P4 and its dependencies step by step. Upon success, you can start playing with P4 and learning P4 with program examples.
