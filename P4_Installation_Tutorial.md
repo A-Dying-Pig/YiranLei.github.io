@@ -201,7 +201,7 @@ Have fun with p4!
 
 # Step3 (optional): run a P4 program
 
-You can now follow [p4 tutorial](https://github.com/p4lang/tutorials) to learn p4. To run `Basic Forwarding` exercise, execute:
+You can now follow [p4 tutorial](./P4_Installation_Tutorial) to learn p4. To run `Basic Forwarding` exercise, execute:
 
   ```shell
   git clone https://github.com/p4lang/tutorials.git
