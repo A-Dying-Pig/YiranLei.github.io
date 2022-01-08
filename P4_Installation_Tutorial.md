@@ -201,7 +201,7 @@ Have fun with p4!
 
 # Step3 (optional): run a P4 program
 
-You can now follow [p4 tutorial](./P4_Installation_Tutorial) to learn p4. To run `Basic Forwarding` exercise, execute:
+You can now follow [p4 tutorial](https://github.com/p4lang/tutorials) to learn p4. To run `Basic Forwarding` exercise, execute:
 
   ```shell
   git clone https://github.com/p4lang/tutorials.git
@@ -228,4 +228,4 @@ And to delete all pcaps, build files, and logs:
   make clean
   ```
 
-The ping failed because each switch is programmed according to `basic.p4`, which drops all packets on arrival. Please visit [p4 tutorial](https://github.com/p4lang/tutorials) for more information.
+The ping failed because each switch is programmed according to `basic.p4`, which drops all packets on arrival.
