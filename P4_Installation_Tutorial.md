@@ -19,6 +19,7 @@ Last update: 2021.4.16
    ```shell
    sudo apt-get install -y cmake g++ git automake libtool libgc-dev bison flex libfl-dev libgmp-dev libboost-dev libboost-iostreams-dev libboost-graph-dev llvm pkg-config python python-scapy python-ipaddr python-ply tcpdump graphviz golang libpcre3-dev libpcre3 curl mininet lsb-release
    ```
+   
    install doxygen (optional)
    
    ```shell
