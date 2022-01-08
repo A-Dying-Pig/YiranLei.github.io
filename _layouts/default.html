@@ -30,14 +30,6 @@
 </head>
 
 <body>
-  <div class="slide_bar">
-    <el-card class="slide_bar_box">
-      <div slot="header" class="slide_bar_title">
-      </div>
-      <el-link v-for="(item, index) in display_text" :key="item.txt" v-on:click="scroll_to_certain_position(index)">{%item.txt%}</el-link>
-    </el-card>
-  </div>
-  
   <div class="wrapper">
     <header>
       <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
