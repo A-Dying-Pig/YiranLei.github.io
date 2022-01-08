@@ -1,3 +1,4 @@
+<br>
 # P4 Installation Tutorial
 
 Last update: 2021.4.16
@@ -11,7 +12,7 @@ Last update: 2021.4.16
 >
 > To check latest package and repo versions, visit https://github.com/p4lang/tutorials/blob/master/vm/user-bootstrap.sh and get new versions from the bash file.
 
-## Step1: Install dependencies
+# Step1: Install dependencies
 
 1. install basic dependencies needed for P4. 
 
@@ -124,7 +125,7 @@ Last update: 2021.4.16
    cd ../..
    ```
 
-## Step2: Install P4
+# Step2: Install P4
 
 1. `PI`
 
@@ -198,7 +199,7 @@ No error? Congratulations! You have successfully installed everything you need f
 
 Have fun with p4! 
 
-## Step3 (optional): run a P4 program
+# Step3 (optional): run a P4 program
 
 You can now follow [p4 tutorial](https://github.com/p4lang/tutorials) to learn p4. To run `Basic Forwarding` exercise, execute:
 
