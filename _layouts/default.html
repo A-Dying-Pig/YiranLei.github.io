@@ -31,14 +31,10 @@
 
 <body>
   <div class="slide_bar">
-
     <el-card class="slide_bar_box">
       <div slot="header" class="slide_bar_title">
       </div>
-      
-      <div class="slide_entry" v-for="(item, index) in display_text" :key="item.txt">
-        {{item.txt}}
-      </div>
+      <el-link v-for="(item, index) in display_text" :key="item.txt" v-on:click="scroll_to_certain_position(index)">{%item.txt%}</el-link>
     </el-card>
   </div>
   
@@ -88,7 +84,8 @@
   <script>
     
      var slide_bar = new Vue({
-      el: '.slide_entry',
+      el: '.slide_bar',
+      delimiters: ['{%', '%}'],
       data:{
         display_text: [],
       },
