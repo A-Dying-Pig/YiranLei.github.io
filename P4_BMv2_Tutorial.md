@@ -1,7 +1,5 @@
 # p4 Installation Tutorial
 
-Author: A-Dying-Pig
-
 Last update: 2021.4.16
 
 
