@@ -1,9 +1,9 @@
-# p4 Installation Tutorial
+# P4 Installation Tutorial
 
 Last update: 2021.4.16
 
 
-> This tutorial shows how to install p4 and its dependencies from scratch. `PI` (An implementation framework for a P4Runtime server), `p4c` (P4_16 reference compiler) and `behavior-model` (The reference P4 software switch), which are all the components you need to run p4 programs, will be installed. When finishing installation, you can play with [p4 tutorial](https://github.com/p4lang/tutorials).
+> This tutorial shows how to install P4 and its dependencies from scratch. `PI` (An implementation framework for a P4Runtime server), `p4c` (P4_16 reference compiler) and `behavior-model` (The reference P4 software switch), which are all the components you need to run p4 programs, will be installed. When finishing installation, you can play with [p4 tutorial](https://github.com/p4lang/tutorials).
 >
 > The installation is tested on Ubuntu 18.04.5 LTS. The whole installation may take 2 hours depending on network condition. At least 25 Gbytes of free disk space is needed.
 >
