@@ -105,7 +105,7 @@
       beforeMount() {
         var ret = $('div#container').find('h1')
         console.log(ret);
-        for (let i = 0; i < target.length; i++){
+        for (let i = 0; i < ret.length; i++){
           this.display_text.append({txt: ret[i].innerText, id: ret[i].id})
         }
         console.log(this.display_text)
