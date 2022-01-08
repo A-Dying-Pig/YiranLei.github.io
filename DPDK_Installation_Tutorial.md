@@ -3,7 +3,7 @@
 
 Last update: 2022.1.8
 
-> This tutorial shows how to install DPDK and DPDK application- Pktgen from scratch. The tutorial is tested on CentOS 7.
+> This tutorial shows how to install DPDK and DPDK application- Pktgen from scratch. Tested on CentOS 7.
 
 ### Some useful link:
 
