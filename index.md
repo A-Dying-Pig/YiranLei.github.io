@@ -32,4 +32,4 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
 
 # Blogs
 * A [tutorial](https://www.yiranlei.com/P4_Installation_Tutorial) to install P4. The guide helps you install P4 and its dependencies step by step. Upon success, you can start playing with P4 and learning P4 with program examples.
-* A [tutorial]() to install DPDK and DPDK-Pktgen. The guide introduces bugs and the ways of tackling them during the installation.
+* A [tutorial]() to install DPDK and DPDK-Pktgen. The guide introduces some possible bugs and the ways of tackling them during the installation.
