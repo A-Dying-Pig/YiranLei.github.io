@@ -298,7 +298,7 @@ cd dpdk-21.11/examples/helloworld/build
 
   * set up hugepage. 
 
-    execute commands introduced in DPDK hughpage setup. 
+    execute commands introduced in DPDK hughpage setup. then
 
   ```shell
   sudo vi /etc/sysctl.conf
