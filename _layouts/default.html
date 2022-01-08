@@ -35,7 +35,10 @@
     <el-card class="slide_bar_box">
       <div slot="header" class="slide_bar_title">
       </div>
-        <el-link  v-for="(item, index) in display_text" :key="item.txt" v-on:click="scroll_to_certain_position(index)">#{{index}}: {{item.txt}}</el-link>
+      
+      <div v-for="(item, index) in display_text" :key="item.txt">
+         <el-link v-on:click="scroll_to_certain_position(index)">#{{index}}: {{item.txt}}</el-link>
+      </div>
     </el-card>
   </div>
   
