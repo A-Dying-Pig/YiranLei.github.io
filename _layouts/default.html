@@ -100,6 +100,10 @@
           var target = $('div#container').find(id_string[lid])
           $(window).scrollTop(target.offset().top - 20)
         }
+      },
+      beforeMount() {
+        var target = $('div#container').find('h1');
+        console.log(target); 
       }
     })
   </script>
