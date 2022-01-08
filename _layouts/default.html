@@ -35,11 +35,7 @@
     <el-card class="slide_bar_box">
       <div slot="header" class="slide_bar_title">
       </div>
-        <el-link v-on:click="scroll_to_certain_position(0)">About Me</el-link>
-        <el-link v-on:click="scroll_to_certain_position(1)">News</el-link>
-        <el-link v-on:click="scroll_to_certain_position(2)">Publications</el-link>
-        <el-link v-on:click="scroll_to_certain_position(3)">Teaching</el-link>
-        <el-link v-on:click="scroll_to_certain_position(4)">Blogs</el-link>
+        <el-link  v-for="(item, index) in display_text" :key="item.name" v-on:click="scroll_to_certain_position(index)">{{item.txt}}</el-link>
     </el-card>
   </div>
   
