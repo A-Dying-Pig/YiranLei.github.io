@@ -3,7 +3,7 @@
 Last update: 2021.4.16
 
 
-> This tutorial shows how to install P4 and its dependencies from scratch. `PI` (An implementation framework for a P4Runtime server), `p4c` (P4_16 reference compiler) and `behavior-model` (The reference P4 software switch), which are all the components you need to run p4 programs, will be installed. When finishing installation, you can play with [p4 tutorial](https://github.com/p4lang/tutorials).
+> This tutorial shows how to install P4 and its dependencies from scratch. `PI` (An implementation framework for a P4Runtime server), `p4c` (P4_16 reference compiler) and `behavior-model` (The reference P4 software switch), which are all the components you need to run P4 programs, will be installed. When finishing installation, you can play with [p4 tutorial](https://github.com/p4lang/tutorials).
 >
 > The installation is tested on Ubuntu 18.04.5 LTS. The whole installation may take 2 hours depending on network condition. At least 25 Gbytes of free disk space is needed.
 >
@@ -13,7 +13,7 @@ Last update: 2021.4.16
 
 ## Step1: Install dependencies
 
-1. install basic dependencies needed for p4. 
+1. install basic dependencies needed for P4. 
 
    ```shell
    sudo apt-get install -y cmake g++ git automake libtool libgc-dev bison flex libfl-dev libgmp-dev libboost-dev libboost-iostreams-dev libboost-graph-dev llvm pkg-config python python-scapy python-ipaddr python-ply tcpdump graphviz golang libpcre3-dev libpcre3 curl mininet lsb-release
@@ -24,7 +24,7 @@ Last update: 2021.4.16
    sudo apt-get install -y texlive-full doxygen
    ```
 
-2. install dependencies needed for p4 behavior model version 2
+2. install dependencies needed for P4 behavior model version 2
 
    ```shell
    git clone https://github.com/p4lang/behavioral-model.git
@@ -124,7 +124,7 @@ Last update: 2021.4.16
    cd ../..
    ```
 
-## Step2: Install p4
+## Step2: Install P4
 
 1. `PI`
 
@@ -198,7 +198,7 @@ No error? Congratulations! You have successfully installed everything you need f
 
 Have fun with p4! 
 
-## Step3 (optional): run a p4 program
+## Step3 (optional): run a P4 program
 
 You can now follow [p4 tutorial](https://github.com/p4lang/tutorials) to learn p4. To run `Basic Forwarding` exercise, execute:
 
