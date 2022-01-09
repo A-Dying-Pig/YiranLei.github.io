@@ -7,9 +7,9 @@ Last update: 2022.1.8
 
 ### Some useful link:
 
-* DKDK Document: http://doc.dpdk.org/guides/linux_gsg/
-* Pktgen Document: https://pktgen-dpdk.readthedocs.io/en/latest/getting_started.html
-* `igb_uio`: https://doc.dpdk.org/dts/gsg/usr_guide/igb_uio.html
+* DKDK Document: [http://doc.dpdk.org/guides/linux_gsg/](http://doc.dpdk.org/guides/linux_gsg/)
+* Pktgen Document: [https://pktgen-dpdk.readthedocs.io/en/latest/getting_started.html](https://pktgen-dpdk.readthedocs.io/en/latest/getting_started.html)
+* `igb_uio`: [https://doc.dpdk.org/dts/gsg/usr_guide/igb_uio.html](https://doc.dpdk.org/dts/gsg/usr_guide/igb_uio.html)
 
 # DPDK
 
@@ -42,11 +42,11 @@ To build and run a DPDK program:
 
 * check whether the NIC is supported by DPDK by checking whether its driver is on the list.
 
-  The list: https://core.dpdk.org/supported/
+  The list: [https://core.dpdk.org/supported/](https://core.dpdk.org/supported/)
 
 ## Download and Install Dependencies and DPDK
 
-* go to https://core.dpdk.org/download/ and download DPDK:
+* go to [https://core.dpdk.org/download/](https://core.dpdk.org/download/) and download DPDK:
 
   ```shell
   wget https://fast.dpdk.org/rel/dpdk-21.11.tar.xz
@@ -313,6 +313,6 @@ cd dpdk-21.11/examples/helloworld/build
   sudo chmod 777 /mnt/huge
   ```
 
-  * Visit https://pktgen-dpdk.readthedocs.io/en/latest/usage_pktgen.html to check the parameters of Pktgen.
+  * Visit [https://pktgen-dpdk.readthedocs.io/en/latest/usage_pktgen.html](https://pktgen-dpdk.readthedocs.io/en/latest/usage_pktgen.html) to check the parameters of Pktgen.
 
     Note that for a port (=NIC) which is on `NUMA` node `i`, the `RX` and `TX` of the port must be processed by the logical cores (`lcore`) listed on that node. The topology of CPU can be checked by `lstopo` and `page cpu` in Pktgen. 
