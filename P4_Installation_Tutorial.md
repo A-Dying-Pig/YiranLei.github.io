@@ -1,232 +1,323 @@
 <br>
-# P4 Installation Tutorial
 
-Last update: 2021.4.16
+# DPDK and Pktgen Installation Tutorial
 
+Last update: 2022.1.8
 
-> This tutorial shows how to install P4 and its dependencies from scratch. `PI` (An implementation framework for a P4Runtime server), `p4c` (P4_16 reference compiler) and `behavior-model` (The reference P4 software switch), which are all the components you need to run P4 programs, will be installed. When finishing installation, you can play with [p4 tutorial](https://github.com/p4lang/tutorials).
->
-> The installation is tested on Ubuntu 18.04.5 LTS. The whole installation may take 2 hours depending on network condition. At least 25 Gbytes of free disk space is needed.
->
-> It is recommended to install the parts following the order listed below. The version of the packages and repos must follow the instructions. Any mismatch version may cause unsuccessful installation. 
->
-> To check latest package and repo versions, visit https://github.com/p4lang/tutorials/blob/master/vm/user-bootstrap.sh and get new versions from the bash file.
+> This tutorial shows how to install DPDK and DPDK application - Pktgen from scratch. Tested on CentOS 7.
 
-# Step1: Install dependencies
+### Some useful link:
 
-1. install basic dependencies needed for P4. 
+* DKDK Document: [http://doc.dpdk.org/guides/linux_gsg/](http://doc.dpdk.org/guides/linux_gsg/)
+* Pktgen Document: [https://pktgen-dpdk.readthedocs.io/en/latest/getting_started.html](https://pktgen-dpdk.readthedocs.io/en/latest/getting_started.html)
+* `igb_uio`: [https://doc.dpdk.org/dts/gsg/usr_guide/igb_uio.html](https://doc.dpdk.org/dts/gsg/usr_guide/igb_uio.html)
 
-   ```shell
-   sudo apt-get install -y cmake g++ git automake libtool libgc-dev bison flex libfl-dev libgmp-dev libboost-dev libboost-iostreams-dev libboost-graph-dev llvm pkg-config python python-scapy python-ipaddr python-ply tcpdump graphviz golang libpcre3-dev libpcre3 curl mininet lsb-release
-   ```
-   
-   install doxygen (optional)
-   
-   ```shell
-   sudo apt-get install -y texlive-full doxygen
-   ```
+# DPDK
 
-2. install dependencies needed for P4 behavior model version 2
+The installation of DPDK consists of:
 
-   ```shell
-   git clone https://github.com/p4lang/behavioral-model.git
-   cd behavioral-model
-   ./install_deps.sh
-   cd ..
-   ```
+* check NIC's Compatiblity with DPDK
+* download and install dependencies and DPDK
 
-3. install  `protobuf`
+To build and run a DPDK program:
 
-   ```shell
-   sudo pip install protobuf==3.2.0
-   ```
+* set up hugepage
+* bind the NIC to the specific drivers
 
-   ```shell
-   git clone https://github.com/protocolbuffers/protobuf.git
-   cd protobuf
-   git checkout v3.2.0
-   export CFLAGS="-Os"
-   export CXXFLAGS="-Os"
-   export LDFLAGS="-Wl,-s"
-   ./autogen.sh
-   ./configure --prefix=/usr
-   make
-   sudo make install
-   sudo ldconfig
-   unset CFLAGS CXXFLAGS LDFLAGS
-   cd ..
-   ```
-   Note: when `./configure`runs with `--prefix=/usr`, `protobuf v3.2` will be installed under `/usr` directory. Otherwise `protobuf v3.2` will be installed under `/usr/local` directory. Programs under `/usr/local` have higher priority than those under `/usr` by default. 
-   
-   If there are multiple `protobuf`s of different versions installed, please ensure that the `protobuf v3.2` acquires highest priority to meet the requirement from PI,p4c,etc.
-   ```shell
-   protoc --version
-   > libprotoc 3.2.0
-   ```
-   To delete different version of `protobuf`, delete `libprotoc*`, `protoc` in `bin`,`include`,`share`,`lib` folder.
+## Check NIC's Compatibility with DPDK
 
-4. install `grpc`
-
-   ```shell
-   sudo pip install grpcio
-   sudo pip install psutil
-   ```
-
-   ```shell
-   git clone https://github.com/google/grpc.git
-   cd grpc
-   git checkout v1.3.2
-   git submodule update --init --recursive
-   export LDFLAGS="-Wl,-s"
-   make
-   ```
-
-   submodule `boringssl` and `boringssl-with-bazel` are different branches of the same repo `boringssl`.
-   If the compiling process stops and the following error occurs:
-
-   ```shell
-   cc1: warnings being treated as errors
-   ```
-
-   Open and edit `Makefile`. In the line that starts with `CPPFLAGS`, remove `-Werror` flag. Save and close `Makefile`. Then run  `make clean`  and `make`. This time the compiling should work well.
-
-   ```shell
-   sudo make install
-   sudo ldconfig
-   unset LDFLAGS
-   cd ..
-   ```
-
-
-5. install `sysrepo` and its dependencies `libyang`
-
-   ```shell
-   git clone https://github.com/CESNET/libyang.git
-   cd libyang
-   git checkout v1.0.184
-   mkdir build
-   cd build
-   cmake ..
-   make
-   sudo make install
-   sudo ldconfig
-   cd ../..
-   ```
-
-   ```shell
-   git clone https://github.com/sysrepo/sysrepo.git
-   cd sysrepo
-   git checkout v1.4.70
-   mkdir build
-   cd build
-   cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_EXAMPLES=Off -DCALL_TARGET_BINS_DIRECTLY=Off ..
-   make
-   sudo make install
-   sudo ldconfig
-   cd ../..
-   ```
-
-# Step2: Install P4
-
-1. `PI`
-
-   ```shell
-   git clone https://github.com/p4lang/PI
-   cd PI
-   git checkout 41358da0ff32c94fa13179b9cee0ab597c9ccbcc
-   git submodule update --init --recursive
-   ./autogen.sh
-   ./configure --with-proto
-   make
-   make check
-   sudo make install
-   sudo ldconfig
-   cd ..
-   ```
-
-2. `behavioral-model`
-
-   ```shell
-   cd behavioral-model
-   git checkout b447ac4c0cfd83e5e72a3cc6120251c1e91128ab
-   ./autogen.sh
-   ```
-   To enable switch logging:
-   ```shell
-   ./configure --enable-debugger --with-pi
-   ```
-   For higher performance:
-   ```shell
-   ./configure --with-pi 'CXXFLAGS=-g -O3' 'CFLAGS=-g -O3' --disable-logging-macros --disable-elogger
-   ```
-   
-   ```shell
-   make
-   make check
-   sudo make install
-   sudo ldconfig
-   ```
-
-   ```shell
-   cd targets/simple_switch_grpc
-   ./autogen.sh
-   ./configure --with-thrift
-   make
-   sudo make install
-   sudo ldconfig
-   cd ../../..
-   ```
-   run `simple_switch` to check whether successfully installed `simple_switch`.
-
-3. `p4c`
-
-   ```shell
-   git clone https://github.com/p4lang/p4c.git
-   cd p4c
-   git checkout 69e132d0d663e3408d740aaf8ed534ecefc88810
-   git submodule update --init --recursive
-   mkdir build
-   cd build
-   cmake ..
-   make
-   make check
-   sudo make install
-   sudo ldconfig
-   cd ../..
-   ```
-   run `p4c --help` to check whether successfully installed `p4c`.
-
-No error? Congratulations! You have successfully installed everything you need for p4.
-
-Have fun with p4! 
-
-# Step3 (optional): run a P4 program
-
-You can now follow [p4 tutorial](https://github.com/p4lang/tutorials) to learn p4. To run `Basic Forwarding` exercise, execute:
+* check the driver of NIC
 
   ```shell
-  git clone https://github.com/p4lang/tutorials.git
-  cd tutorials/exercises/basic
-  make clean
-  make run
+  ifconfig	# check the interface through which DPDK is about to send packets
+  ethtool -i [INTERFACE NAME]  # check the driver of the NIC
   ```
 
-You should now see a Mininet command prompt. Try to ping between hosts in the topology:
+  if the NIC is not shown as an interface,  get the NIC name and find the corresponding driver:
 
   ```shell
-  h1 ping h2
+  lspci       # find NIC name
+  dmesg | grep -i [NIC NAME] # get the driver for the NIC
   ```
 
-Type `exit` to leave each xterm and the Mininet command line. Then, to stop mininet:
+* check whether the NIC is supported by DPDK by checking whether its driver is on the list.
+
+  The list: https://core.dpdk.org/supported/
+
+## Download and Install Dependencies and DPDK
+
+* go to https://core.dpdk.org/download/ and download DPDK:
 
   ```shell
-  make stop
+  wget https://fast.dpdk.org/rel/dpdk-21.11.tar.xz
+  tar xf dpdk-21.11.tar.xz
+  cd dpdk-21.11
   ```
 
-And to delete all pcaps, build files, and logs:
+  configure, build, install DPDK
+
+  ``` 
+  meson build
+  ninja -C build
+  cd build
+  sudo ninja install
+  sudo ldconfig
+  ```
+
+  `meson build` reports a list of drivers, libraries that are (not) going to be built and the reasons why they are not . Install the missing dependencies from the list.
+
+  If the machine supports `NUMA`, `NUMA` library (i.e.,`libnuma-dev` aka `numactl-devel`)  should be installed.
+
+* set `pkg-config` tool.
 
   ```shell
-  make clean
+  export PKG_CONFIG_PATH=[directory where libdpdk.pc is located]
   ```
 
-The ping failed because each switch is programmed according to `basic.p4`, which drops all packets on arrival.
+  or write to the bash file
+
+  ```shell
+  sudo vim /etc/bashrc
+  # add in the last line
+  PKG_CONFIG_PATH=[directory where libdpdk.pc is located]
+  ```
+
+* compile a DPDK program
+
+  ```shell
+  cd dpdk-21.11/examples/helloworld
+  make
+  ```
+
+## Set up Hugepages
+
+There are two ways to set up hugepages.
+
+* Manual Setup
+
+  ```shell
+  echo 1024 | sudo tee /sys/kernel/mm/hugepages/hugepages-2048kB/nr_hugepages
+  ```
+
+  on a `NUMA` machine, pages should be allocated explicitly on separate nodes
+
+  ```shell
+  echo 1024 | sudo tee /sys/devices/system/node/node0/hugepages/hugepages-2048kB/nr_hugepages
+  echo 1024 | sudo tee /sys/devices/system/node/node1/hugepages/hugepages-2048kB/nr_hugepages
+  ```
+
+* Script Setup
+
+  ```shell
+  sudo ./dpdk-21.11/usertools/dpdk-hugepages.py
+  sudo ./dpdk-21.11/usertools/dpdk-hugepages.py -p 1G --setup 2G
+  ```
+
+## Bind the NIC to the Specific Drivers
+
+DPDK supports **THREE** drivers: `vfio-pci`,  `igb_uio`,  `uio_pci_generic`. NIC has to be bound to one of the three drivers. 
+
+ First, check the `device_id`. `device_id` , e.g., `0000:82:00.1`, is used to identify any device connected to the board.
+
+```
+lspci | grep -i [NIC NAME]
+```
+
+In order to bind a NIC to a new driver, unbind the NIC from the original driver and then bind it to the new one. 
+With `device_id`, there are two ways to bind.
+
+* **Script Binding**
+
+  ```shell
+  sudo ./dpdk-21.11/usertools/dpdk-devbind -u [DEVICE_ID]
+  sudo ./dpdk-21.11/usertools/dpdk-devbind -b [DRIVER] [DEVICE_ID]
+  # the following is an example:
+  sudo ./dpdk-21.11/usertools/dpdk-devbind -u 0000:82:00.1
+  sudo ./dpdk-21.11/usertools/dpdk-devbind -b uio_pci_generic 0000:82:00.1
+  ```
+
+* **Manual Binding**
+
+  * load the corresponding driver into the kernel
+
+  ```shell
+  #vfio-pci
+  sudo modprobe vfio-pci
+  #uio_pci_generic
+  sudo modprobe uio_pci_generic
+  #igb_uio
+  sudo modprobe uio
+  sudo insmod igb_uio.ko
+  ```
+
+  * unbind a device, append `device_id`to file `/sys/bus/pci/drivers/[DRIVER]/unbind`
+
+  ```bash
+  echo -n [DEVICE_ID] | sudo tee -a /sys/bus/pci/drivers/[DRIVER]/unbind
+  # example
+  echo -n "0000:83:00.0" | sudo tee -a /sys/bus/pci/drivers/uio_pci_generic/unbind
+  ```
+
+  * overwrite the file `/sys/bus/pci/devices/[DEVICE_ID]/driver_override` with the name of driver
+
+  ```shell
+  echo -n [DRIVER] | sudo tee /sys/bus/pci/devices/[DEVICE_ID]/driver_override
+  #example
+  echo -n "uio_pci_generic" | sudo tee /sys/bus/pci/devices/0000:83:00.0/driver_override
+  ```
+
+  * append `device_id` to file `/sys/bus/pci/drivers/[DRIVER]/bind` 
+
+  ```shell
+  echo -n [DEVICE_ID] | sudo tee -a /sys/bus/pci/drivers/[DRIVER]/bind
+  # example
+  echo -n "0000:83:00.0" | sudo tee -a /sys/bus/pci/drivers/uio_pci_generic/bind
+  ```
+
+To check 1) which driver (`vfio-pci`, `igb_uio` or`uio_pci_generic`) should be bound to the NIC, and 2) whether the NIC is successfully bound. Execute the following script. `drv=` and `unused=` indicate the DPDK driver. The successfully bound driver is listed below `Network devices using DPDK-compatible driver`.
+
+  ```shell
+  sudo ./dpdk-21.11/usertools/dpdk-devbind -s
+  # example result
+  Network devices using DPDK-compatible driver
+  ============================================
+  0000:82:00.1 '82599ES 10-Gigabit SFI/SFP+ Network Connection 10fb' drv=uio_pci_generic unused=ixgbe
+  
+  Network devices using kernel driver
+  ===================================
+  0000:01:00.0 'NetXtreme BCM5720 2-port Gigabit Ethernet PCIe 165f' if=em1 drv=tg3 unused=uio_pci_generic *Active*
+  0000:01:00.1 'NetXtreme BCM5720 2-port Gigabit Ethernet PCIe 165f' if=em2 drv=tg3 unused=uio_pci_generic
+  0000:02:00.0 'NetXtreme BCM5720 2-port Gigabit Ethernet PCIe 165f' if=em3 drv=tg3 unused=uio_pci_generic
+  0000:02:00.1 'NetXtreme BCM5720 2-port Gigabit Ethernet PCIe 165f' if=em4 drv=tg3 unused=uio_pci_generic
+  0000:82:00.0 '82599ES 10-Gigabit SFI/SFP+ Network Connection 10fb' if=p4p1 drv=ixgbe unused=uio_pci_generic
+  ```
+
+## Compile Driver `igb_uio`
+
+The driver `igb_uio` is not directly included in the DPDK. It needs to be compiled by the user.
+
+* download `igb_uio`
+
+  ```shell
+  git clone http://dpdk.org/git/dpdk-kmods
+  ```
+
+* integrate `igb_uio` into DPDK (rebuild DPDK)
+
+  copy `igb_uio` source codes into `dpdk` source codes
+
+  ```
+  cp -r ./dpdk-kmods/linux/igb_uio ./dpdk-21.11/kernel/linux/
+  ```
+
+  add `igb_uio` in `dpdk-21.11/kernel/linux/meson.build` subdirs as below:
+
+  ```shell
+  subdirs = ['kni', 'igb_uio']
+  ```
+
+  create a file of `meson.build` in `dpdk-21.11/kernel/linux/igb_uio/` as below:
+
+  ```shell
+  # SPDX-License-Identifier: BSD-3-Clause
+  # Copyright(c) 2017 Intel Corporation
+  
+  mkfile = custom_target('igb_uio_makefile',
+          output: 'Makefile',
+          command: ['touch', '@OUTPUT@'])
+          
+  kernel_version = run_command('uname', '-r').stdout().strip()
+  kernel_dir = '/lib/modules/' + kernel_version
+  
+  custom_target('igb_uio',
+          input: ['igb_uio.c', 'Kbuild'],
+          output: 'igb_uio.ko',
+          command: ['make', '-C', kernel_dir + '/build',
+                  'M=' + meson.current_build_dir(),
+                  'src=' + meson.current_source_dir(),
+                  'EXTRA_CFLAGS=-I' + meson.current_source_dir() +
+                          '/../../../lib/librte_eal/include',
+                  'modules'],
+          depends: mkfile,
+          install: true,
+          install_dir: kernel_dir + '/extra/dpdk',
+          build_by_default: true)
+  ```
+
+* compile module `igb_uio`. `kernel headers` are needed when compiling a module. Install `kernel headers` according to your linux kernel version.
+
+  in  `meson.build` of the directory`dpdk-21.11`. Enable module building by changing
+
+  ```shell
+  if get_option('enable_kmods')
+  	subdir('kernel')
+  endif
+  ```
+
+  to
+
+  ```shell
+  subdir('kernel')
+  ```
+
+  configure, build, and install DPDK at this time. `igb_uio` will be built.
+
+Now we can run a DPDK program
+
+```shell
+cd dpdk-21.11/examples/helloworld/build
+./helloworld
+```
+
+# Pktgen
+
+* download and install Pktgen
+
+  * set environment variables required by DPDK
+
+  ```shell
+  export RTE_SDK=<DPDKInstallDir>  	#example: export RTE_SDK=/root/dpdk-21.11
+  export RTE_TARGET=x86_64-native-linux-gcc
+  ```
+
+  *	or write to bash file, e.g.,  `/etc/bashrc`
+
+  *	download and compile Pktgen
+
+  ```shell
+  git clone git://dpdk.org/apps/pktgen-dpdk
+  cd pktgen-dpdk
+  make
+  ```
+
+  you may need to modify `meson.build` in the `pktgen-dpdk` folder. Set
+
+  ```shell
+  'werror=false'
+  add_project_arguments('-std=c99', language: 'c')
+  ```
+
+* Run Pktgen
+
+  * bind the NIC to the driver
+
+  * set up hugepage. 
+
+    execute commands introduced in DPDK hughpage setup. then
+
+  ```shell
+  sudo vi /etc/sysctl.conf
+  # Add to the bottom of the file:
+  vm.nr_hugepages=256
+  
+  sudo vi /etc/fstab
+  # Add to the bottom of the file:
+  huge /mnt/huge hugetlbfs defaults 0 0
+  
+  sudo mkdir /mnt/huge
+  sudo chmod 777 /mnt/huge
+  ```
+
+  * Visit https://pktgen-dpdk.readthedocs.io/en/latest/usage_pktgen.html to check the parameters of Pktgen.
+
+    Note that for a port (=NIC) which is on `NUMA` node `i`, the `RX` and `TX` of the port must be processed by the logical cores (`lcore`) listed on that node. The topology of CPU can be checked by `lstopo` and `page cpu` in Pktgen. 
