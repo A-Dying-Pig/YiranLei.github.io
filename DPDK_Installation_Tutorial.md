@@ -131,7 +131,7 @@ In order to bind a NIC to a new driver, unbind the NIC from the original driver 
   sudo ./dpdk-21.11/usertools/dpdk-devbind -b uio_pci_generic 0000:82:00.1
   ```
 
-  check 1) which driver (`vfio-pci`, `igb_uio` or`uio_pci_generic`) should be bound to the NIC, and 2) whether the NIC is successfully bound with the following script:
+  check 1) which driver (`vfio-pci`, `igb_uio` or `uio_pci_generic`) should be bound to the NIC, and 2) whether the NIC is successfully bound with the following script:
 
   ```shell
   sudo ./dpdk-21.11/usertools/dpdk-devbind -s
@@ -163,7 +163,7 @@ In order to bind a NIC to a new driver, unbind the NIC from the original driver 
   sudo insmod igb_uio.ko
   ```
 
-  * unbind a device, append `device_id`to file `/sys/bus/pci/drivers/[DRIVER]/unbind`
+  * unbind a device, append `device_id` to file `/sys/bus/pci/drivers/[DRIVER]/unbind`
 
   ```bash
   echo -n [DEVICE_ID] | sudo tee -a /sys/bus/pci/drivers/[DRIVER]/unbind
