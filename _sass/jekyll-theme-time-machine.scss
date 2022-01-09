@@ -22,7 +22,11 @@ a:hover {
 }
 
 code, pre {
-  font-family: 'Monaco', 'Lucida Console', monospace;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+code {
+  background-color: #D4F2E7;
 }
 
 h1.title {
@@ -350,9 +354,9 @@ footer .owner p a {
 }
 
 .markdown-body pre {
-  padding: 10px 70px 10px 0;
-  margin-left: -20px;
-  margin-right: -20px;
+  padding: 10px 70px 10px 20px;
+//   margin-left: -20px;
+  margin-right: 20px;
   font-family: 'Monaco', 'Lucida Console', monospace;
   font-size: 13px;
   line-height: 20px;
@@ -398,7 +402,7 @@ footer .owner p a {
 .markdown-body li pre.lines,
 .markdown-body dd pre,
 .markdown-body dd pre.lines {
-  margin-left: -35px;
+//   margin-left: -35px;
 }
 
 .markdown-body dt {
