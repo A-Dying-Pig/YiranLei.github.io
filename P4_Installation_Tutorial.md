@@ -10,7 +10,7 @@ Last update: 2021.4.16
 >
 > It is recommended to install the parts following the order listed below. The version of the packages and repos must follow the instructions. Any mismatch version may cause unsuccessful installation. 
 >
-> To check latest package and repo versions, visit https://github.com/p4lang/tutorials/blob/master/vm/user-bootstrap.sh and get new versions from the bash file.
+> To check latest package and repo versions, visit [https://github.com/p4lang/tutorials/blob/master/vm/user-bootstrap.sh](https://github.com/p4lang/tutorials/blob/master/vm/user-bootstrap.sh) and get new versions from the bash file.
 
 # Step1: Install dependencies
 
