@@ -85,11 +85,13 @@
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
   <script>
     
-     var slide_bar = new Vue({
-      el: 'div.slide_bar',
+     var slide_bar = createApp({
+//       el: 'div.slide_bar',
       delimiters: ['{|', '|}'],
-      data:{
+      data(): {
+       return {
         display_text: [],
+       }
       },
       methods:{
         scroll_to_certain_position: function(lid){
@@ -109,7 +111,7 @@
         }
         console.log(this.display_text)
       }
-    })
+    }).mount('div.slide_bar')
   </script>
   <style>
   .el-card__header{
