@@ -13,10 +13,7 @@
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
   <script src="https://kit.fontawesome.com/cded06a232.js" crossorigin="anonymous"></script>
-<!--   <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css"> -->
-    <script src="//unpkg.com/vue@3"></script>
-  <link rel="stylesheet" href="//unpkg.com/element-plus/dist/index.css" />
-  <script src="//unpkg.com/element-plus"></script>
+  <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
 
 {% seo %}
 
@@ -75,12 +72,12 @@
   </div> -->
 
 </body>
-<!--   <script src="https://unpkg.com/vue@3"></script> -->
-<!--   <script src="https://unpkg.com/element-ui/lib/index.js"></script> -->
+  <script src="https://unpkg.com/vue@2"></script>
+  <script src="https://unpkg.com/element-ui/lib/index.js"></script>
   
   <script>  
-     var slide_bar = Vue.createApp({
-//       el: 'div.slide_bar',
+     var slide_bar = new Vue({
+      el: 'div.slide_bar',
       delimiters: ['{|', '|}'],
       data() {
        return {
@@ -105,7 +102,7 @@
         }
         console.log(this.display_text)
       }
-    }).mount('div.slide_bar')
+    })
   </script>
   <style>
   .el-card__header{
