@@ -26,7 +26,7 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
     </div>
   </div>
   
-* [In submission] **Yiran Lei**, Liangcheng Yu, Vincent Liu and Mingwei Xu. PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane.
+* [In submission] PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane.
 
 # Teaching
 ### Teaching Assistant
