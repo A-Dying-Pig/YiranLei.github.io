@@ -1,0 +1,54 @@
+# Tips to install and update SDE
+
+Intel `SDE` (Software Development Environment) is the prerequisite to leverage Tofino ASIC. Derived from real testing, this article concludes the process and shares some tips to install and update SDE.
+
+## Get Software Package
+
+Login in Intel and download packages and documents. 
+
+* `Intel P4 Studio SDE x.x.x`: SDE source code
+* `Intel P4 Studio SDE x.x.x Reference BSP`: BSP (Board Support Package) is a need of SDE building.
+* `Intel P4 Studio SDE x.x.x Release Notes`: Introduce SDE updates.
+
+In `Release Notes`, check whether the SDE version is compatible with the `operating system`.
+
+## Key: Install Dependencies
+
+Normally, when building SDE with script `p4studio_build.py` (see next section), the dependencies should be correctly installed.  However,  manual installation is needed in cases of network failures, stale version having highest priority, etc.
+
+The version of each dependency is **certain and fixed**. The versions of SDE and dependencies should **match**. Using new or stale version of dependencies is likely to cause building failure. The dependencies and required versions are listed in `bf-sde-x.x.x/p4studio_build/dependencies.yaml`.
+
+Pay extra attention to versions of `thrift`, `grpc` and `protobuf`. For `thrift` and `protobuf`, the python wrapper version should be consistent with library version:
+
+```shell
+# thrift - 0.13.0
+# library version
+wget http://www.apache.org/dyn/closer.cgi?path=/thrift/0.13.0/thrift-0.13.0.tar.gz
+# python wrapper version
+pip install thrift==0.13.0
+
+# protobuf - 3.6.1
+# library version
+wget https://github.com/protocolbuffers/protobuf/releases/download/v3.6.1/protobuf-cpp-3.6.1.tar.gz
+# python wrapper version
+pip install protobuf==3.6.1
+```
+
+## Build SDE
+
+Run `p4studio_build.py`. The command line options are listed in README of folder p4studio_build.
+
+```shell
+./p4studio_build.py -up profiles/all_profile.yaml --bsp-path [path/to/bf-reference-bsp-x.x.x]
+```
+
+The libraries, kernel modules, headers, PD API are listed under `install` folder. 
+
+After successful building, set environment variables `SDE` and `SDE_INSTALL`:
+
+```
+vim ~/.bashrc
+export SDE=[path/to/bf-sde-x.x.x]
+export SDE_INSTALL=$SDE/install
+export PATH=$PATH:$SDE_INSTALL/bin
+```
