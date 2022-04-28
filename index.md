@@ -35,3 +35,4 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
 # Blogs
 * A [tutorial](https://www.yiranlei.com/P4_Installation_Tutorial) to install P4. The guide helps you install P4 and its dependencies step by step. Upon success, you can start playing with P4 and learning P4 with program examples.
 * A [tutorial](https://www.yiranlei.com/DPDK_Installation_Tutorial) to install DPDK and DPDK-Pktgen. The guide introduces some difficulties and the ways of tackling them during the installation.
+* [Tips](https://www.yiranlei.com/SDE) to install and update Intel SDE.
