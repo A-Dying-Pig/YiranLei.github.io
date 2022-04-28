@@ -1,8 +1,9 @@
+<br>
 # Tips to install and update SDE
 
 Intel `SDE` (Software Development Environment) is the prerequisite to leverage Tofino ASIC. Derived from real testing, this article concludes the process and shares some tips to install and update SDE.
 
-## Get Software Package
+# Get Software Package
 
 Login in Intel and download packages and documents. 
 
@@ -12,7 +13,7 @@ Login in Intel and download packages and documents.
 
 In `Release Notes`, check whether the SDE version is compatible with the `operating system`.
 
-## Key: Install Dependencies
+# Key: Install Dependencies
 
 Normally, when building SDE with script `p4studio_build.py` (see next section), the dependencies should be correctly installed.  However,  manual installation is needed in cases of network failures, stale version having highest priority, etc.
 
@@ -34,7 +35,7 @@ wget https://github.com/protocolbuffers/protobuf/releases/download/v3.6.1/protob
 pip install protobuf==3.6.1
 ```
 
-## Build SDE
+# Build SDE
 
 Run `p4studio_build.py`. The command line options are listed in README of folder p4studio_build.
 
