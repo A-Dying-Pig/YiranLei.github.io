@@ -8,11 +8,15 @@ I am Yiran Lei, a second-year Master student at Department of Computer Science a
 I am motivated to develop new mechanisms and algorithms in real network systems for finer measuring, controlling, and better network performance. My research interests include Software-Defined Networking, Network Telemetry, Programmable Data Planes.
 
 # News
+* 5/7/2022: PrintQueue is accepted in SIGCOMM'22!
 * 10/25/2021: Awarded the Tsinghua Hefei Talent Scholarship.
 * 9/2/2021: Appointed as the TA of the course, *The Principle of Computer Network*.
 * 8/3/2021: Paper, *DOVE: Diagnosis-driven SLO Violation Detection*, is accepted at **ICNP'21**.
 
 # Publications
+* [SIGCOMM'22]**Yiran Lei**, L. Yu, V. Liu and M. Xu , "PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane".
+  * To appear in SIGCOMM'22
+
 * [ICNP'21] **Yiran Lei**, Y. Zhou, Y. Lin, M. Xu and Y. Wang, "DOVE: Diagnosis-driven SLO Violation Detection," 2021 IEEE 29th International Conference on Network Protocols (ICNP), 2021, pp. 1-11, doi: 10.1109/ICNP52444.2021.9651986.
   * [[Paper]](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper9.pdf) [[Slides]](/assets/papers/DOVE/DOVE.pdf) [[Code-Tofino]](https://gitlab.com/A-Dying-Pig/dove) [[Code-BMv2]](https://gitlab.com/A-Dying-Pig/dove-bmv2)
   <div class="embed-video-wrapper">
@@ -26,7 +30,6 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
     </div>
   </div>
   
-* [In submission] PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane.
 
 # Teaching
 ### Teaching Assistant
