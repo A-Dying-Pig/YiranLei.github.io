@@ -5,7 +5,7 @@
 </div>
 I am Yiran Lei, a second-year Master student at Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu). I received my B.Eng. degree in School of Software, Tsinghua University in 2020. 
 
-I am motivated to develop new mechanisms and algorithms in real network systems for finer measuring, controlling, and better network performance. My research interests include Software-Defined Networking, Network Telemetry, Programmable Data Planes.
+I am motivated to develop new mechanisms and algorithms in real network systems for finer measuring, controlling, and better network performance. My research interests include Network Telemetry and Programmable Data Planes. I worked closely with professor [Vincent Liu](https://vincen.tl/). 
 
 # News
 * 05/07/2022: <font color=red>PrintQueue is accepted in SIGCOMM'22.</font>
