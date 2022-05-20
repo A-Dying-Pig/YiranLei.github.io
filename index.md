@@ -8,7 +8,7 @@ I am Yiran Lei, a second-year Master student at Department of Computer Science a
 I am motivated to develop new mechanisms and algorithms in real network systems for finer measuring, controlling, and better network performance. My research interests include Network Telemetry and Programmable Data Planes. I worked closely with professor [Vincent Liu](https://vincen.tl/). 
 
 # News
-* 05/07/2022: <font color=red>PrintQueue is accepted in SIGCOMM'22.</font>
+* 05/07/2022: PrintQueue is accepted in <font color=purple>SIGCOMM'22</font>.
 * 10/25/2021: Awarded the Tsinghua Hefei Talent Scholarship.
 * 09/02/2021: Appointed as the TA of the course, *The Principle of Computer Network*.
 * 08/03/2021: Paper, *DOVE: Diagnosis-driven SLO Violation Detection*, is accepted in **ICNP'21**.
