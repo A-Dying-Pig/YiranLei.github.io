@@ -359,7 +359,7 @@ function heart_2022_5_20() {
     var path = svg.append("g").append("path")
     .attr("d", line(data))
     .style("stroke", "#FF0000")
-    .style("stroke-width", 2)
+    .style("stroke-width", 1)
     .style("opacity", 0.4)
     .style("fill", "none");
 
