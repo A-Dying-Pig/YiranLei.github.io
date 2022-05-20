@@ -12,9 +12,11 @@
   <link rel="shortcut icon" href="assets/images/favicon-32x32.png"/>
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+  <script type="text/javascript"  src="{{ '/assets/js/2022_5_20.js' | relative_url }}"></script>
   <script src="https://kit.fontawesome.com/cded06a232.js" crossorigin="anonymous"></script>
+  <script src="https://d3js.org/d3.v3.min.js"></script>
   <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
-
+   
 {% seo %}
 
   {% include head-custom.html %} 
@@ -70,7 +72,7 @@
     {% endif %}
     <p class="name"></p>
   </div> -->
-
+<div id="chart"></div>
 </body>
   <script src="https://unpkg.com/vue@2"></script>
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
@@ -103,6 +105,28 @@
         console.log(this.display_text)
       }
     })
+   
+  var secret_input = [];
+  var secret_input_len = 0;
+  var secret_revealed = false;
+  $("body").keypress(function(e) {
+      secret_input[secret_input_len] = e.key;
+      secret_input_len += 1;
+      if (secret_input_len === 6 && !secret_revealed){
+          if (secret_input[0] === 'd' &&
+              secret_input[1] === 'o' &&
+              secret_input[2] === 'u' &&
+              secret_input[3] === 'd' &&
+              secret_input[4] === 'o' &&
+              secret_input[5] === 'u'){
+              console.log("You have found my secret!");
+              $('div#main').hide();
+              secret_revealed = true;
+              heart_2022_5_20();
+          }
+      }
+  }); 
+   
   </script>
   <style>
   .el-card__header{
