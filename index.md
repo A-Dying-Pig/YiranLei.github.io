@@ -15,12 +15,17 @@ I am motivated to develop new mechanisms and algorithms in real network systems 
 
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane**
+
   *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), Mingwei Xu
+  
   To appear in SIGCOMM, Aug 2022 (Acceptance: 55/279=19.7%)
 
 * **DOVE: Diagnosis-driven SLO Violation Detection**
+
   *Yiran Lei*, [Yu Zhou](https://zhouyu-sunny.github.io/), Yunsenxiao Lin, Mingwei Xu, Yangyang Wang
+  
   ICNP, Nov 2021 (Acceptance: 38/154=24.7%)
+  
   [[Paper]](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper9.pdf) [[Slides]](/assets/papers/DOVE/DOVE.pdf) [[Code-Tofino]](https://gitlab.com/A-Dying-Pig/dove) [[Code-BMv2]](https://gitlab.com/A-Dying-Pig/dove-bmv2)
   <div class="embed-video-wrapper">
     <div class="embed-first">
