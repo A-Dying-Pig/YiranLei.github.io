@@ -105,7 +105,7 @@
         console.log(this.display_text)
       }
     })
-   
+  // add heart beat to homepage
   var secret_input = [];
   var secret_input_len = 0;
   var secret_revealed = false;
@@ -123,6 +123,7 @@
               $('div#main').hide();
               secret_revealed = true;
               heart_2022_5_20();
+              d3.selectAll("body").style("background","none");
           }
       }
   }); 
