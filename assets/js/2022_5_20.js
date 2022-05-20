@@ -1,5 +1,4 @@
-
-    function heart_2022_5_20() {
+function heart_2022_5_20() {
     window.onerror = function () {
         location.reload();
     }
