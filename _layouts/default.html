@@ -105,28 +105,6 @@
         console.log(this.display_text)
       }
     })
-  // add heart beat to homepage
-  var secret_input = [];
-  var secret_input_len = 0;
-  var secret_revealed = false;
-  $("body").keypress(function(e) {
-      secret_input[secret_input_len] = e.key;
-      secret_input_len += 1;
-      if (secret_input_len === 6 && !secret_revealed){
-          if (secret_input[0] === 'd' &&
-              secret_input[1] === 'o' &&
-              secret_input[2] === 'u' &&
-              secret_input[3] === 'd' &&
-              secret_input[4] === 'o' &&
-              secret_input[5] === 'u'){
-              console.log("You have found my secret!");
-              $('div#main').hide();
-              secret_revealed = true;
-              heart_2022_5_20();
-              d3.selectAll("body").style("background","none");
-          }
-      }
-  }); 
    
   </script>
   <style>
