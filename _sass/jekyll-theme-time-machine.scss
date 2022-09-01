@@ -55,7 +55,7 @@ h1.title {
 
 div.tagline {
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 div.tagline_right {
@@ -65,7 +65,14 @@ div.tagline_right {
 div.tagline_left {
   padding: 25px 0px 0px 15px; 
 }
-  
+
+div.tagline > a {
+  color: #fff;
+}
+
+div.tagline > a:hover {
+  color: #00BFFF;
+}
 
 #main {
   margin-top: 20px;
