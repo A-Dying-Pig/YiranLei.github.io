@@ -21,7 +21,7 @@ I am applying for Ph.D starting in 2023.
   *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu) <br />
   SIGCOMM, Aug 2022 (Acceptance: 55/279=19.7%) <br />
   [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
-  <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=10>*Artifacts Available* *Artifacts Functional* *Results Reproduced*
+  <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20> *Artifacts Available*    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20> *Artifacts Functional*    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20> *Results Reproduced*
 
 * **DOVE: Diagnosis-driven SLO Violation Detection**<br />
   *Yiran Lei*, [Yu Zhou](https://zhouyu-sunny.github.io/), Yunsenxiao Lin, [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), Yangyang Wang <br />
