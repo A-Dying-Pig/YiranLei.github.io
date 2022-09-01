@@ -7,9 +7,14 @@ I am Yiran Lei, a final-year Master student at Department of Computer Science an
 
 I am motivated to develop new mechanisms and systems in real networks for finer measurement, control, optimization, and new applications. My research interests include network measurement, programmable data planes, and smart systems.
 
-I am applying for Ph.D starting in 2023. Ready to explore directions not limited to programmable data planes.
-
-Currently in Seattle. Happy to chat!
+<div class="highlight">
+    <div class="highlight_banner" style="float:left">
+    </div>
+    <div class="highlight_text">
+        I am applying for Ph.D starting in 2023. Ready to explore directions not limited to programmable data planes.
+        Currently in Seattle. Happy to chat!
+    </div>
+</div>
 
 # News
 * Sep. 2022: Visit Professor [Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind) at University of Washington.
