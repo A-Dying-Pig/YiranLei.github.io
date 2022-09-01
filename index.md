@@ -14,14 +14,14 @@ I am applying for Ph.D starting in 2023.
 * 08/25/2022: Attend [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/venue.html) in person! 
 * 05/07/2022: *PrintQueue* is accepted in [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/program.html).
 * 10/25/2021: Awarded the Tsinghua Hefei Talent Scholarship.
-* 09/02/2021: Appointed as the TA of the course, *The Principle of Computer Network*.
 * 08/03/2021: *DOVE: Diagnosis-driven SLO Violation Detection* is accepted in [ICNP 2021](https://icnp21.cs.ucr.edu/program.html).
 
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
   *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu) <br />
   SIGCOMM, Aug 2022 (Acceptance: 55/279=19.7%) <br />
-  [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[Artifact](https://github.com/A-Dying-Pig/PrintQueue)
+  [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
+  <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=10>*Artifacts Available* *Artifacts Functional* *Results Reproduced*
 
 * **DOVE: Diagnosis-driven SLO Violation Detection**<br />
   *Yiran Lei*, [Yu Zhou](https://zhouyu-sunny.github.io/), Yunsenxiao Lin, [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), Yangyang Wang <br />
