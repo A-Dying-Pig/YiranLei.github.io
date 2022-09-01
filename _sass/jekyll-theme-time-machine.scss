@@ -53,11 +53,19 @@ h1.title {
   box-shadow: 0 0 5px #b1b1b1;
 }
 
-p.tagline {
-  padding: 20px 20px 0;
+div.tagline {
   color: #fff;
-  font-size: 17px;
+  font-size: 14px;
 }
+
+div.tagline_right {
+  margin-top: 35px;
+}
+
+div.tagline_left {
+  padding: 25px 0px 0px 15px; 
+}
+  
 
 #main {
   margin-top: 20px;
