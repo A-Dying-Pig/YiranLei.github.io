@@ -24,6 +24,7 @@ I am applying for Ph.D starting in 2023.
   <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Available</em></span>
   <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Functional</em></span>    
   <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Results Reproduced</em></span>
+  <br />
 
 * **DOVE: Diagnosis-driven SLO Violation Detection**<br />
   *Yiran Lei*, [Yu Zhou](https://zhouyu-sunny.github.io/), Yunsenxiao Lin, [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), Yangyang Wang <br />
