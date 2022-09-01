@@ -4,7 +4,7 @@
 
 body {
   font-size: 15px;
-  font-family: Arial, Arial, Helvetica, sans-serif;
+  font-family: Avenir, Arial, Arial, Helvetica, sans-serif;
   line-height: 1.5;
   background: #D1D1D1;
 }
@@ -29,12 +29,16 @@ code.language-plaintext{
   background-color: #D4F2E7;
 }
 
+h1 {
+  font-family: Rockwell;
+}
+
 h1.title {
   margin: 30px 20px 10px;
   font-size: 60px;
   font-weight: bold;
 //   font-style: italic;
-  font-family:Georgia, serif, STFangsong;
+  font-family: Avenir, fangsong;
   text-align: center;
 }
 
