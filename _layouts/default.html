@@ -108,6 +108,7 @@
         this.display_text = []
         var ret = $('div#container').find('h1')
 //         console.log(ret);
+        this.display_text.push({txt: "Home", id: "home"})
         for (let i = 0; i < ret.length; i++){
           this.display_text.push({txt: ret[i].innerText, id: ret[i].id})
         }
