@@ -26,8 +26,10 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
   *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu) <br />
   SIGCOMM, Aug 2022, 55/279=19.7% <br />
   [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
-  <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Available</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Functional</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Results Reproduced</em></span>  <p style="clear:left"></p>
-  
+  <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Available</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Functional</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Results Reproduced</em></span>
+ 
+<p style="clear: left"></p>
+
 * **DOVE: Diagnosis-driven SLO Violation Detection**<br />
   *Yiran Lei*, [Yu Zhou](https://zhouyu-sunny.github.io/), Yunsenxiao Lin, [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), Yangyang Wang <br />
   ICNP, Nov 2021, 38/154=24.7% <br />
@@ -35,15 +37,16 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
   <div class="embed-video-wrapper">
     <div class="embed-first">
         <p>Teaser Video</p>
-        <iframe src="https://www.youtube.com/embed/hDGp2wkwsf0" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/hDGp2wkwsf0" frameborder="0" allowfullscreen style="margin-top: -10px"></iframe>
     </div>
     <div class="embed-second">
         <p>Talk Video</p>
-        <iframe src="https://www.youtube.com/embed/opzT5JAfrt8" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/opzT5JAfrt8" frameborder="0" allowfullscreen style="margin-top: -10px"></iframe>
     </div>
   </div>
   
 <p style="clear: left"></p>
+<br />
 # Teaching
 ### Teaching Assistant
 * *The Principle of Computer Network*, 2021 Fall, Department of Computer Science and Technology, Tsinghua University
