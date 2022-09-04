@@ -65,7 +65,8 @@
 
       </div> -->
       <div class="creds">
-        <small> <i class="far fa-copyright"></i> 2021-2022 Maintained by <a href="https://yiranlei.com">Yiran Lei</a></small>      </div>
+        <small> <i class="far fa-copyright"></i> 2021-2022 Maintained by <a href="https://yiranlei.com">Yiran Lei</a></small>
+      </div>
     </footer>
   </div>
 <!--   <div class="current-section">
@@ -95,7 +96,7 @@
         scroll_to_certain_position: function(lid){
 //           console.log(lid)
           if (lid === 0){
-            $(window).location = '/'
+            window.location = '/'
             return
           }
           var id_string = 'h1#' + this.display_text[lid].id
