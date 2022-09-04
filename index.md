@@ -27,16 +27,13 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
   SIGCOMM, Aug 2022, 55/279=19.7% <br />
   [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
   <div style="float: left">
-    <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20>
-    <span style="float: left"><em>Artifacts Available</em></span>
+    <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20><span style="float: left"><em>Artifacts Available</em></span>
   </div>
   <div style="float: left">
-    <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20>
-    <span style="float: left"><em>Artifacts Functional</em></span>
+    <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20><span style="float: left"><em>Artifacts Functional</em></span>
   </div>
   <div style="float: left">
-    <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20>
-    <span style="float: left"><em>Results Reproduced</em></span>
+    <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20><span style="float: left"><em>Results Reproduced</em></span>
   </div>
  
 <p style="clear: left; margin-bottom: 30px"></p>
