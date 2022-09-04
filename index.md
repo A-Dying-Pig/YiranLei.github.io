@@ -26,7 +26,17 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
   *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu) <br />
   SIGCOMM, Aug 2022, 55/279=19.7% <br />
   [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
-  <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Available</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Functional</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Results Reproduced</em></span>
+  <div style="float: left">
+    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20 >
+    <span><em>Artifacts Available</em></span>
+  </div>
+  <div style="float: left">
+    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20>     <span><em>Artifacts Functional</em></span>
+  </div>
+  <div style="float: left">
+    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20 >
+    <span><em>Results Reproduced</em></span>
+  </div>
  
 <p style="clear: left; margin-bottom: 30px"></p>
 
