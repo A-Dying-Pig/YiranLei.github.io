@@ -21,8 +21,23 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 * Oct. 2021: Awarded Tsinghua Hefei Talent Scholarship.
 * Aug. 2021: *DOVE* accepted in [ICNP 2021](https://icnp21.cs.ucr.edu/program.html).
 
+<div class="news_list">
+  <div v-for="(item, index) in news_content" :key="item.date">
+    <span class="news_date">{|item.date|}</span>
+    <span class="news_content">{|item.content|}</span>
+  </div>
+</div>
+
 <script>
-    console.log("test")
+    var news_list = new Vue({
+      el: 'div.news_list',
+      delimiters: ['{|', '|}'],
+      data(){
+        return {
+          news_content: [{date: 'Aug. 2022', content:'1231'}]
+        }
+      },
+    });
 </script>
 
 # Publications
