@@ -17,18 +17,18 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 </div>
 
 # News
-* Sep. 2022: Visit Professor [Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind) at University of Washington.
+* Sep. 2022: Visit Professor [Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind) @ University of Washington.
 * Aug. 2022: Attend [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/venue.html) in person! 
-* May. 2022: *PrintQueue* is accepted in [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/program.html).
-* Oct. 2021: Awarded the Tsinghua Hefei Talent Scholarship.
-* Aug. 2021: *DOVE: Diagnosis-driven SLO Violation Detection* is accepted in [ICNP 2021](https://icnp21.cs.ucr.edu/program.html).
+* May. 2022: *PrintQueue* accepted in [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/program.html).
+* Oct. 2021: Awarded Tsinghua Hefei Talent Scholarship.
+* Aug. 2021: *DOVE* accepted in [ICNP 2021](https://icnp21.cs.ucr.edu/program.html).
 
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
   *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu) <br />
   SIGCOMM, Aug 2022, 55/279=19.7% <br />
   [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
-  <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Available</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Functional</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Results Reproduced</em></span> <br />
+  <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Available</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Artifacts Functional</em></span><img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" width=20 style="float:left"> <span style="float:left"><em>Results Reproduced</em></span> <br /><br />
 
 * **DOVE: Diagnosis-driven SLO Violation Detection**<br />
   *Yiran Lei*, [Yu Zhou](https://zhouyu-sunny.github.io/), Yunsenxiao Lin, [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), Yangyang Wang <br />
