@@ -74,18 +74,13 @@ div.tagline a:hover {
   color: #00BFFF;
 }
 
-div.info_banner {
-  width: 10px;
-  height: 90px;
-  background: #adadad;
-}
-
 div.info_text {
   margin-left: 30px;
   padding-left: 10px;
   width: 500px;
   background: aliceblue;
   font-family: optima;
+  border-left: 6px solid #adadad;
 }
 
 #main {
