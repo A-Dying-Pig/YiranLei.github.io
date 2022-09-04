@@ -9,7 +9,7 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 
 <div class="info">
     <div class="info_text">
-        <p>I am applying for Ph.D starting in 2023. Ready to explore directions not limited to programmable data planes.</p>
+        <p>I am applying for Ph.D starting in 2023. Open to any topics!</p>
         <p>Currently in Seattle. Happy to chat!</p>
     </div>
 </div>
