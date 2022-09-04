@@ -22,9 +22,25 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 * Aug. 2021: *DOVE* accepted in [ICNP 2021](https://icnp21.cs.ucr.edu/program.html).
 
 <div class="news_list">
-  <div>
-    <span class="news_date">Sep. 2022</span>
-    <span class="news_content">Visit Professor [Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind) @ University of Washington</span>
+  <div class="news_list_item" id="nli0">
+    <div class="news_date">Sep. 2022</div>
+    <div class="news_content">Visit Professor <a href="https://www.cs.washington.edu/people/faculty/arvind">Arvind Krishnamurthy</a> @ University of Washington.</div>
+  </div>
+  <div class="news_list_item" id="nli1">
+    <div class="news_date">Aug. 2022</div>
+    <div class="news_content">Attend <a href="https://conferences.sigcomm.org/sigcomm/2022/venue.html">SIGCOMM 2022</a> in person! </div>
+  </div>
+  <div class="news_list_item" id="nli2">
+    <div class="news_date">May. 2022</div>
+    <div class="news_content"> <em>PrintQueue</em> accepted in <a href="https://conferences.sigcomm.org/sigcomm/2022/program.html">SIGCOMM 2022</a>. </div>
+  </div>
+  <div class="news_list_item" id="nli3">
+    <div class="news_date">Oct. 2021</div>
+    <div class="news_content"> Awarded Tsinghua Hefei Talent Scholarship.</div>
+  </div>
+  <div class="news_list_item" id="nli4">
+    <div class="news_date">Aug. 2021</div>
+    <div class="news_content"> <em>DOVE</em> accepted in <a href="https://icnp21.cs.ucr.edu/program.html">ICNP 2021</a>.</div>
   </div>
 </div>
 
