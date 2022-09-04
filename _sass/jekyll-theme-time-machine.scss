@@ -529,17 +529,17 @@ footer .owner p a {
 }
 
 div.embed-video-wrapper {
-    width: 900px;
-    overflow: hidden; /* will contain if #first is longer than #second */
+//     width: 900px;
+//     overflow: hidden; /* will contain if #first is longer than #second */
     margin-top: -27px;
 }
 div.embed-first {
-    width: 400px;
     float:left; /* add this */
     text-align: center;
+    margin-right: 50px;
 }
 div.embed-second {
-    overflow: hidden; /* if you don't want #second to wrap below #first */
+    float: left;
     text-align: center;
 }
 
