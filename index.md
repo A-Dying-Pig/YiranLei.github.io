@@ -22,23 +22,11 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 * Aug. 2021: *DOVE* accepted in [ICNP 2021](https://icnp21.cs.ucr.edu/program.html).
 
 <div class="news_list">
-  <div v-for="(item, index) in news_content" :key="item.date">
-    <span class="news_date">{|item.date|}</span>
-    <span class="news_content">{|item.content|}</span>
+  <div>
+    <span class="news_date">Sep. 2022</span>
+    <span class="news_content">Visit Professor [Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind) @ University of Washington</span>
   </div>
 </div>
-
-<script>
-    var news_list = new Vue({
-      el: 'div.news_list',
-      delimiters: ['{|', '|}'],
-      data(){
-        return {
-          news_content: [{date: 'Aug. 2022', content:'1231'}]
-        }
-      },
-    });
-</script>
 
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
