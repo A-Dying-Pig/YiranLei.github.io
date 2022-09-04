@@ -9,6 +9,18 @@ body {
   background: #D1D1D1;
 }
 
+div.news_date {
+  font-family: courier new, courier;
+  margin-left: 15px;
+  color: #0a0a0a;
+  float: left;
+}
+
+div.news_content {
+  margin-left: 120px;
+  overflow: hidden;
+}
+
 a {
   color: #1E90FF;
   text-decoration: none;
