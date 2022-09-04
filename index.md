@@ -1,15 +1,13 @@
 <br>
-# About Me
 <div>
     <img align="right" src="assets/images/YiranLei.jpg" style="zoom:25%;" />
 </div>
+# About Me
 I am Yiran Lei, a final-year Master student at Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu). I received my B.Eng. degree in School of Software, Tsinghua University in 2020. 
 
 I am motivated to develop new mechanisms and systems in real networks for finer measurement, control, optimization, and new applications. My research interests include network measurement, programmable data planes, and smart systems.
 
 <div class="info">
-    <div class="info_banner" style="float:left">
-    </div>
     <div class="info_text">
         <p>I am applying for Ph.D starting in 2023. Ready to explore directions not limited to programmable data planes.</p>
         <p>Currently in Seattle. Happy to chat!</p>
