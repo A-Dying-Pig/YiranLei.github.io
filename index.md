@@ -15,12 +15,6 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 </div>
 
 # News
-* Sep. 2022: Visit Professor [Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind) @ University of Washington.
-* Aug. 2022: Attend [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/venue.html) in person! 
-* May. 2022: *PrintQueue* accepted in [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/program.html).
-* Oct. 2021: Awarded Tsinghua Hefei Talent Scholarship.
-* Aug. 2021: *DOVE* accepted in [ICNP 2021](https://icnp21.cs.ucr.edu/program.html).
-
 <div class="news_list">
   <div class="news_list_item" id="nli0">
     <div class="news_date">Sep. 2022</div>
