@@ -51,5 +51,5 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 * *The Principle of Computer Network*, 2021 Fall, Department of Computer Science and Technology, Tsinghua University
 
 # Blogs
-* A [tutorial](https://www.yiranlei.com/P4_Installation_Tutorial) to install P4. The guide helps you install P4 and its dependencies step by step. Upon success, you can start playing with P4 and learning P4 with program examples. [Tofino](https://www.yiranlei.com/sde_tip).
-* A [tutorial](https://www.yiranlei.com/DPDK_Installation_Tutorial) to install DPDK and DPDK-Pktgen. The guide introduces some difficulties and the ways of tackling them during the installation.
+* A [tutorial](https://www.yiranlei.com/P4_Installation_Tutorial) to install P4 and its dependencies step by step. [Tofino](https://www.yiranlei.com/sde_tip).
+* A [tutorial](https://www.yiranlei.com/DPDK_Installation_Tutorial) to install DPDK and DPDK-Pktgen, highlighting steps that need extra attention.
