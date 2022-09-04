@@ -38,6 +38,13 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
   </div>
 </div>
 
+<a class="news_button onclick='news_list_shift'">More</a>
+<script>
+   function news_list_shift() {
+    console.log("123")
+   }
+</script>
+
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
   *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu) <br />
