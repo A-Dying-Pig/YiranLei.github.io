@@ -38,7 +38,7 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
   </div>
 </div>
 
-<a class="news_button" onclick='news_list_shift'>More</a>
+<a class="news_button" onclick='news_list_shift()'>More</a>
 
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
