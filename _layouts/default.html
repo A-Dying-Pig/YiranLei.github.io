@@ -40,7 +40,7 @@
     <div id="container">
       <div class="tagline">
         <div class="tagline_left">
-          Master student @ <a href="https://www.cs.tsinghua.edu.cn/csen/">Tsinghua CS</a>, visiting student @ <a href="https://www.cs.washington.edu/">UW CSE</a>, hosted by <a href="https://www.cs.washington.edu/people/faculty/arvind">Arvind Krishnamurthy</a> <br>
+          Master student @ <a href="https://www.cs.tsinghua.edu.cn/csen/">Tsinghua CS</a>, visiting student @ <a href="https://www.cs.washington.edu/">UW CSE</a> hosted by <a href="https://www.cs.washington.edu/people/faculty/arvind">Arvind Krishnamurthy</a> <br>
           <a href="mailto:yiranlei.yiranlei@gmail.com"><i class="far fa-envelope"></i></a> yiranlei.yiranlei<i class="fas fa-at"></i>gmail.com &nbsp  <a href="https://github.com/A-Dying-Pig"><i class="fab fa-github"></i></a> &nbsp <a href="./assets/CV_YiranLei.pdf">CV</a> (Sep. 2022)
         </div>
       </div>
@@ -81,9 +81,34 @@
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
   
   <script>  
-    function news_list_shift(){
-      console.log("123");
-    }
+      var news_visible_num = 3
+      var switch_state = 0
+      var news_list= document.querySelectorAll("div.news_list_item"); 
+        if (news_list.length > news_visible_num){
+          for (let i = news_visible_num; i < news_list.length; i++){
+            news_list[i].style.display = "none"
+          }
+          switch_state = 1
+        }else{
+          document.querySelector("a.news_button").style.display = "none"
+        }
+
+      function news_list_shift(){
+        var news_list= document.querySelectorAll("div.news_list_item");
+        if (switch_state === 1){
+          for (let i = news_visible_num; i < news_list.length; i++){
+            $('div#nli'+i).toggle('fast');
+          }
+          document.querySelector("a.news_button").innerHTML = "Hide"
+          switch_state = 0
+        }else if(switch_state === 0){
+          for (let i = news_visible_num; i < news_list.length; i++){
+            $('div#nli'+i).toggle('fast');
+          }
+          document.querySelector("a.news_button").innerHTML = "More"
+          switch_state = 1;
+        }
+      }
     
      var slide_bar = new Vue({
       el: 'div.slide_bar',
