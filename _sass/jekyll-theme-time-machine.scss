@@ -25,6 +25,17 @@ div.news_content {
   overflow: hidden;
 }
 
+a.news_button {
+  font-family: courier new, courier;
+  margin-left: 15px;
+  color: #0a0a0a;
+}
+
+a.news_button:hover {
+  text-decoration: underline;
+  color: #8f8f8f;
+}
+
 a {
   color: #1E90FF;
   text-decoration: none;
