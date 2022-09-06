@@ -84,6 +84,7 @@
       var news_visible_num = 3
       var switch_state = 0
       var news_list= document.querySelectorAll("div.news_list_item"); 
+      if (news_list.length != 0){
         if (news_list.length > news_visible_num){
           for (let i = news_visible_num; i < news_list.length; i++){
             news_list[i].style.display = "none"
@@ -92,7 +93,7 @@
         }else{
           document.querySelector("a.news_button").style.display = "none"
         }
-
+      }
       function news_list_shift(){
         var news_list= document.querySelectorAll("div.news_list_item");
         if (switch_state === 1){
