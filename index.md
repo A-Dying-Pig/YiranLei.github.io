@@ -42,9 +42,9 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
-  *Yiran Lei*, <a href="https://liangchengyu.com/" class="paperauthor">Liangcheng Yu</a>, <a href="https://vincen.tl/publications.html" class="paperauthor">Vincent Liu</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu" class="paperauthor">Mingwei Xu</a> <br />
+  *Yiran Lei*, <a href="https://liangchengyu.com/" class="paperauthor">Liangcheng Yu</a>, <a href="https://vincen.tl/index.html" class="paperauthor">Vincent Liu</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu" class="paperauthor">Mingwei Xu</a> <br />
   SIGCOMM 2022, 55/279=19.7% <br />
-  [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
+  <a href="https://dl.acm.org/doi/10.1145/3544216.3544257" class="paperlink">Paper</a> <a href="/assets/papers/PrintQueue/PrintQueue_v0.98.pdf" class="paperlink">Slides</a> <a href="https://github.com/A-Dying-Pig/PrintQueue" class="paperlink">Artifact</a> <br />
   <div style="float: left">
     <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20><span style="float: left"><em>Artifacts Available</em></span>
   </div>
@@ -63,9 +63,9 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 <p style="clear: left; margin-bottom: 30px"></p>
 
 * **DOVE: Diagnosis-driven SLO Violation Detection**<br />
-  *Yiran Lei*, [Yu Zhou](https://zhouyu-sunny.github.io/), Yunsenxiao Lin, [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), Yangyang Wang <br />
+  *Yiran Lei*, <a href="https://zhouyu-sunny.github.io/" class="paperauthor">Yu Zhou</a>, Yunsenxiao Lin, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu" class="paperauthor">Mingwei Xu</a>, Yangyang Wang <br />
   ICNP 2021, 38/154=24.7% <br />
-  [[Paper]](https://ieeexplore.ieee.org/document/9651986) [[Slides]](/assets/papers/DOVE/DOVE.pdf) [[Code-Tofino]](https://gitlab.com/A-Dying-Pig/dove) [[Code-BMv2]](https://gitlab.com/A-Dying-Pig/dove-bmv2)
+  <a href="https://ieeexplore.ieee.org/document/9651986" class="paperlink">Paper</a> <a href="/assets/papers/DOVE/DOVE.pdf" class="paperlink">Slides</a> <a href="https://gitlab.com/A-Dying-Pig/dove" class="paperlink">Code-Tofino</a> <a href="https://gitlab.com/A-Dying-Pig/dove-bmv2" class="paperlink">Code-BMv2</a>
   <div class="embed-video-wrapper">
     <div class="embed-first">
         <p>Teaser Video</p>
