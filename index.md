@@ -42,7 +42,7 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
-  *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu) <br />
+  *Yiran Lei*, <a href="https://liangchengyu.com/" class="paperauthor">Liangcheng Yu</a>, <a href="https://vincen.tl/publications.html" class="paperauthor">Vincent Liu</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu" class="paperauthor">Mingwei Xu</a> <br />
   SIGCOMM 2022, 55/279=19.7% <br />
   [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
   <div style="float: left">
