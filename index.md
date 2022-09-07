@@ -43,7 +43,7 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 # Publications
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
   *Yiran Lei*, [Liangcheng Yu](https://liangchengyu.com/), [Vincent Liu](https://vincen.tl/publications.html), [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu) <br />
-  SIGCOMM, Aug 2022, 55/279=19.7% <br />
+  SIGCOMM 2022, 55/279=19.7% <br />
   [[Paper]](https://dl.acm.org/doi/10.1145/3544216.3544257)[[Slides]](/assets/papers/PrintQueue/PrintQueue_v0.98.pdf)[[Artifact]](https://github.com/A-Dying-Pig/PrintQueue) <br />
   <div style="float: left">
     <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20><span style="float: left"><em>Artifacts Available</em></span>
@@ -64,7 +64,7 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 
 * **DOVE: Diagnosis-driven SLO Violation Detection**<br />
   *Yiran Lei*, [Yu Zhou](https://zhouyu-sunny.github.io/), Yunsenxiao Lin, [Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), Yangyang Wang <br />
-  ICNP, Nov 2021, 38/154=24.7% <br />
+  ICNP 2021, 38/154=24.7% <br />
   [[Paper]](https://ieeexplore.ieee.org/document/9651986) [[Slides]](/assets/papers/DOVE/DOVE.pdf) [[Code-Tofino]](https://gitlab.com/A-Dying-Pig/dove) [[Code-BMv2]](https://gitlab.com/A-Dying-Pig/dove-bmv2)
   <div class="embed-video-wrapper">
     <div class="embed-first">
