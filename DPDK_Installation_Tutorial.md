@@ -64,8 +64,13 @@ To build and run a DPDK program:
   sudo ldconfig
   ```
 
-  `meson build` reports a list of drivers, libraries that are (not) going to be built and the reasons why they are not . Install the missing dependencies from the list.
-
+  `meson build` reports a list of drivers, libraries that are (not) going to be built and the reasons why they are not. Install the missing dependencies from the list.
+  To explicitly avoid building certain drivers, use
+  ```
+  meson -Ddisable_drivers=event/*,net/tap  # disable tap driver and all eventdev PMDs for a smaller build
+  ```
+  [Click](https://doc.dpdk.org/guides/prog_guide/build-sdk-meson.html) to check more build configurations.
+  
   If the machine supports `NUMA`, `NUMA` library (i.e.,`libnuma-dev` aka `numactl-devel`)  should be installed.
 
 * set `pkg-config` tool.
