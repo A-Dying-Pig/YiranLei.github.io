@@ -113,7 +113,28 @@ To build and run a DPDK program:
   sudo ./dpdk-21.11/usertools/dpdk-hugepages.py
   sudo ./dpdk-21.11/usertools/dpdk-hugepages.py -p 1G --setup 2G
   ```
-
+### Hugepage Maintenance
+* check hugepage usage: 
+  ```
+  cat /proc/meminfo
+  # Example output
+  # HugePages_Total:   16384
+  # HugePages_Free:        0
+  # HugePages_Rsvd:        0
+  # HugePages_Surp:        0
+  # Hugepagesize:       2048 kB
+  ```
+* free hugepage:
+  ```
+  rm -rf /mnt/huge/*
+  rm -rf /dev/hugepages/*
+  ```
+  If the number of hugepages is too large and it makes `rm` fails, try:
+  ```
+  find /dev/hugepages/ -type f -delete
+  find /mnt/huge/ -type f -delete
+  ```
+  
 ## Bind the NIC to the Specific Drivers
 
 DPDK supports **THREE** drivers: `vfio-pci`, `igb_uio`, `uio_pci_generic`. NIC has to be bound to one of the three drivers. 
