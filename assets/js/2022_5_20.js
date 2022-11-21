@@ -373,7 +373,7 @@ function heart_2022_5_20() {
     .attr("stroke-dashoffset", 0);
 
     //text
-    txt = ["Love", "&#128151;", "兜兜"]
+    txt = ["Love", "&#128151;", "Mi"]
     svg.selectAll("text")
     .data(txt)
     .enter().append("text")
