@@ -159,13 +159,11 @@
       secret_input[secret_input_len] = e.key;
       secret_input_len += 1;
       if (secret_input_len === 6 && !secret_revealed){
-          if (secret_input[0] === 'd' &&
-              secret_input[1] === 'o' &&
-              secret_input[2] === 'u' &&
-              secret_input[3] === 'd' &&
-              secret_input[4] === 'o' &&
-              secret_input[5] === 'u'){
-              console.log("You have found my secret! I love DouDou.");
+          if (secret_input[0] === 'm' &&
+              secret_input[1] === 'i' &&
+              secret_input[2] === 'm' &&
+              secret_input[3] === 'i' &&){
+              console.log("You have found my secret! I love MiMi.");
               $('div#main').hide();
               secret_revealed = true;
               heart_2022_5_20();
