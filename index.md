@@ -1,7 +1,7 @@
 <br>
 <div class="avatar">
-    <img class="avatar_main" align="right" src="assets/images/YiranLei.jpeg" style="zoom:25%;" />
-    <img class="avatar_hover" align="right" src="assets/images/YiranLei_kid.jpeg" style="zoom:25%;" />
+    <img class="avatar_main" src="assets/images/YiranLei.jpeg"/>
+    <img class="avatar_hover" src="assets/images/YiranLei_kid.jpeg"/>
 </div>
 # About Me
 I am Yiran Lei, a final-year Master student at Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu). I received my B.Eng. degree in School of Software, Tsinghua University in 2020. 
