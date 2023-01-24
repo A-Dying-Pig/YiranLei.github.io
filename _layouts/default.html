@@ -48,7 +48,7 @@
       <div id="main" role="main">
         <article class="markdown-body">
           {{ content }}
-          <a class="geostats_button" onclick='geostats_click()'>Show webpage counter</a>
+          <a class="geostats_button" onclick='geostats_click()'>Page visits</a>
           <div class="geostats" style="display:none">
             <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=Hpt1jDuMbmsrCTIAzl-l8fpjRqP0DsXoAB_3sAzKqAA&co=87cefa" />
           </div>
@@ -121,11 +121,11 @@
     function geostats_click(){
         if (geostats_state === 1){
           $('div.geostats').toggle('fast')
-          document.querySelector("a.geostats_button").innerHTML = "Show webpage counter"
+          document.querySelector("a.geostats_button").innerHTML = "Page visits"
           geostats_state = 0
         }else if (geostats_state === 0){
           $('div.geostats').toggle('fast')
-          document.querySelector("a.geostats_button").innerHTML = "Hide webpage counter"
+          document.querySelector("a.geostats_button").innerHTML = "Hide"
           geostats_state = 1
         }
     }
