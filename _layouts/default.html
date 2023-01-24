@@ -49,7 +49,8 @@
         <article class="markdown-body">
           {{ content }}
           <div class="geostats">
-            <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Hpt1jDuMbmsrCTIAzl-l8fpjRqP0DsXoAB_3sAzKqAA&co=87cefa&cmo=808080&cmn=3cb371&ct=ffffff'></script>
+            <a class="geostats_button" onclick='geostats_click()'>Show webpage counter</a>
+            <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&d=Hpt1jDuMbmsrCTIAzl-l8fpjRqP0DsXoAB_3sAzKqAA&co=87cefa&cmo=808080&cmn=3cb371&ct=ffffff'></script>
           </div>
         </article>
       </div>
@@ -114,6 +115,22 @@
           switch_state = 1;
         }
       }
+    
+    var geostats_state = 0
+    document.querySelector("div.geostats").style.display = "none"
+    
+    function geostats_click(){
+        if (geostats_state === 1){
+          $('div.geostats').toggle('fast')
+          document.querySelector("a.geostats_button").innerHTML = "Show webpage counter"
+          geostats_state = 0
+        }else if (geostats_state === 0){
+          $('div.geostats').toggle('fast')
+          document.querySelector("a.geostats_button").innerHTML = "Hide webpage counter"
+          geostats_state = 1
+        }
+    }
+    
     
      var slide_bar = new Vue({
       el: 'div.slide_bar',
