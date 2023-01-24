@@ -49,7 +49,7 @@
         <article class="markdown-body">
           {{ content }}
           <a class="geostats_button" onclick='geostats_click()'>Show webpage counter</a>
-          <div class="geostats">
+          <div class="geostats" style="display:none">
             <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=Hpt1jDuMbmsrCTIAzl-l8fpjRqP0DsXoAB_3sAzKqAA&co=87cefa&cmo=808080&cmn=ff5353'></script>
           </div>
         </article>
@@ -116,7 +116,7 @@
         }
       }
     
-    var geostats_state = 1
+    var geostats_state = 0
     
     function geostats_click(){
         if (geostats_state === 1){
