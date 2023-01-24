@@ -48,8 +48,8 @@
       <div id="main" role="main">
         <article class="markdown-body">
           {{ content }}
-          <div class="geostats">
-            <a class="geostats_button" onclick='geostats_click()'>Show webpage counter</a>
+          <a class="geostats_button" onclick='geostats_click()'>Show webpage counter</a>
+          <div class="geostats" style="display:none">
             <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&d=Hpt1jDuMbmsrCTIAzl-l8fpjRqP0DsXoAB_3sAzKqAA&co=87cefa&cmo=808080&cmn=3cb371&ct=ffffff'></script>
           </div>
         </article>
@@ -117,7 +117,6 @@
       }
     
     var geostats_state = 0
-    document.querySelector("div.geostats").style.display = "none"
     
     function geostats_click(){
         if (geostats_state === 1){
