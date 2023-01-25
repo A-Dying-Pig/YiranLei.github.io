@@ -91,3 +91,4 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 # Blogs
 * A [tutorial](https://www.yiranlei.com/P4_Installation_Tutorial) to install P4 and its dependencies step by step.
 * A [tutorial](https://www.yiranlei.com/DPDK_Installation_Tutorial) to install DPDK and DPDK-Pktgen, highlighting steps that need extra attention.
+* [Advice](/phd_application_advice) for CS Ph.D. application.
