@@ -18,20 +18,20 @@ For universities, the research experience and its outcome, i.e., published paper
 
 Applicants should first decide the `research domain` to start the research journey. They can pick whatever they are interested or simply the hottest topics. But make sure that there are researchers working on that selected domain and they are available to advise the applicants. It is very important to learn from professionals at the beginning. 
 
-Applicants may have serveral choices when deciding their `research advisor`. I think advising style, labmates relationship, and research outcome are three worth-considering factors. Applicants can ask senior students to learn more about their advisors.
+Applicants may have serveral choices when deciding their `research advisor`. In my opinion, advising style, labmates relationship, and research outcome are three worth-considering factors. Applicants can ask senior students to learn more about their advisors.
 
 If applicants feel like not digging deep into one domain before application, it is okay to give themselves a bit more time. Applicants could pursue a research Master degree (like me) or be a research assistant in the lab.
 
 # Application Materials
 The purpose of the application materials is to convince committee/professor of your research passion and ability. The materials should be related to the research experience as much as possible. 
 ## Select Schools
-Remember application deadline of different programs. Typically, applicants should submit applications in December for next year's admission. Note the required materials could vary among programs and schools. In CS area, applicants can learn about the publication-based school ranking at [CSRankings](https://csrankings.org/).
+Remember application deadline of different programs. Typically, applicants should submit applications in December for next year's admission. Note the required materials could vary among programs and schools. In CS area, applicants can learn about the publication-based school ranking at [CSRankings](https://csrankings.org/), [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/).
 
 ## Test Score
 In most cases, international applicants can use TOEFL iBT to prove English proficiency. Check out minimal-score requirements. Many programs no longer need GRE. Again, this depends on programs and schools.
 
 ## Recommendation Letter
-Recommendation letter introduces applicants' research strengths, achievements, and chances of future success from the perspective of applicants' previous researcher advisors.  The letters should focus on research experience instead of academic performance or course works (as they are revealed by GPA). Remeber to leave enough time (e.g., one month) for writers to compose letters. 
+Recommendation letter introduces applicants' research strengths, achievements, and chances of future success from the perspective of applicants' previous research advisors.  The letters should focus on research experience instead of academic performance or course works (as they are revealed by GPA). Remeber to leave enough time (e.g., one month) for writers to compose letters. 
 
 Ideally, the letter writers are active in research and familiar to the professors of interest in the applied schools. Applicants usually need to submit 3 letters. So grab every research opportunity to get more connections. Remember to keep active and positive communications with the writers.
 
@@ -67,9 +67,6 @@ Some applicants prepare slides for interviews. I prefer not. Make eye contact wi
 * Admission timelines for some universities and programs: [link](https://forum.thegradcafe.com/topic/100449-decision-timelines-for-particular-universities-and-programs-derived-from-the-gradcafe-data-gregpa-distributions/)
 * UC Berkeley admission procedure: [link](https://github.com/davmre/blog/blob/master/_drafts/berkeley_admissions.md)
 * Worth-noting things from former CMU CS Ph.D. admission committee chair: [link](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html?m=1)
-* Resources for Ph.D. applications:
-	* Alicia Y. Tsai's [blog](https://www.aliciatsai.com/resources) 
-	* Chris (Yuhao) Liu's [blog](https://chrisliu298.io/posts/grad-school-application.html)
-	* Jialin Lu's [repo](https://github.com/LuxxxLucy/Phd_Apply)
+* Resources for Ph.D. applications: Alicia Y. Tsai's [blog](https://www.aliciatsai.com/resources), Chris (Yuhao) Liu's [blog](https://chrisliu298.io/posts/grad-school-application.html), Jialin Lu's [repo](https://github.com/LuxxxLucy/Phd_Apply)
 
 **Good luck!**
