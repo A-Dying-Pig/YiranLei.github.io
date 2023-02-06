@@ -120,11 +120,11 @@ div.tagline {
 }
 
 div.tagline_right {
-    padding: 25px 0px 0px 15px; 
+  margin: 40px 0px 0px 15px; 
 }
 
 div.tagline_left {
-  padding: 25px 0px 0px 15px; 
+  padding: 5px 0px 0px 15px; 
 }
 
 div.tagline a {
@@ -133,6 +133,11 @@ div.tagline a {
 
 div.tagline a:hover {
   color: #00BFFF;
+}
+
+span#homepage_name{
+  font-size: 40px;
+  font-family: fantasy;
 }
 
 div.info_text {
