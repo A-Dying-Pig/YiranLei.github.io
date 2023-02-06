@@ -116,10 +116,11 @@ h1.title {
 div.tagline {
   color: #fff;
   font-size: 16px;
+  display: flex;
 }
 
 div.tagline_right {
-  margin-top: 35px;
+    padding: 25px 0px 0px 15px; 
 }
 
 div.tagline_left {
