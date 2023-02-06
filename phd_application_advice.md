@@ -59,7 +59,7 @@ Applicants can usually ask interviewers a few questions. The following questions
 * Do you have any advice for first-year Ph.D. students?
 * How are Ph.D. students typically funded?
 * What is the possibility that I will be admitted?
-* what percentage of the interviewed students will be finally admitted?
+* What percentage of the interviewed students will be finally admitted?
 
 Some applicants prepare slides for interviews. I prefer not. Make eye contact with the interviewers. Pause and give interviewers time to think. Let interviewers ask questions. When the interview is completed, give positive feedback via emails.
 
