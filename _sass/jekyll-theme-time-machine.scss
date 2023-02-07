@@ -338,7 +338,7 @@ a.download-button {
   border: 1px solid black;
   border-radius: 3px;
   display: inline-block;
-  text-indent: 0!important;
+  text-indent: 0;
   width: auto;
   float: right;
   background: #999; /* for non-css3 browsers */
@@ -357,7 +357,7 @@ a.download-button span {
   padding: 5px 10px;
   padding-left: 45px;
   display: inline-block;
-  text-indent: 0!important;
+  text-indent: 0;
   color: #fff;
 }
 
