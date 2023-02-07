@@ -50,7 +50,7 @@
           MS student @ <a href="https://www.cs.tsinghua.edu.cn/csen/">Tsinghua</a>, visit @ <a href="https://www.cs.washington.edu/">UW CSE</a> hosted by <a href="https://www.cs.washington.edu/people/faculty/arvind">Arvind Krishnamurthy</a> <br>
           <a href="mailto:yiranlei.yiranlei@gmail.com"><i class="far fa-envelope"></i></a> yiranlei.yiranlei<i class="fas fa-at"></i>gmail.com <br> 
           Office: CSE 494 <br>
-          <a href="https://github.com/A-Dying-Pig"><i class="fab fa-github"></i></a> &nbsp <a href="./assets/CV_YiranLei.pdf">CV</a> (Sep. 2022) 
+          <a href="https://github.com/A-Dying-Pig"><i class="fab fa-github"></i></a> &nbsp <a href="./assets/CV_YiranLei.pdf">CV</a> (Sep. 2022) &nbsp  <a href="/calendar"><i class="fas fa-calendar-star"></i></a>
         </div>
 
       </div>
@@ -149,6 +149,21 @@
         }
     }
     
+    var tag_line = new Vue({
+      el: 'div.tagline',
+      data(){
+        return {
+          seen: true,
+        }
+      },
+      methods:{
+        mounted() {
+            if (window.location.pathname != '/'){
+              this.seen = false
+            }
+        }
+      }
+    })
     
      var slide_bar = new Vue({
       el: 'div.slide_bar',
