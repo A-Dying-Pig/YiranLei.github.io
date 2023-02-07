@@ -98,11 +98,14 @@
       // console.log(window.location.pathname)
       if (window.location.pathname === '/'){
         document.querySelector("h1.title").innerHTML = ""
+        document.querySelector("div.tagline").style.display = "flex"
       }else if (window.location.pathname === '/calendar'){
         document.querySelector("h1.title").innerHTML = "Yiran's Calendar"
+        document.querySelector("div.tagline").style.display = "none"
       }else{
         //blogs
         document.querySelector("h1.title").innerHTML = "Yiran's Blog"
+        document.querySelector("div.tagline").style.display = "none"
       }
     
       var news_visible_num = 3
@@ -148,22 +151,6 @@
           geostats_state = 1
         }
     }
-    
-    var tag_line = new Vue({
-      el: 'div.tagline',
-      data(){
-        return {
-          seen: true,
-        }
-      },
-      methods:{
-        mounted() {
-            if (window.location.pathname != '/'){
-              this.seen = false
-            }
-        }
-      }
-    })
     
      var slide_bar = new Vue({
       el: 'div.slide_bar',
