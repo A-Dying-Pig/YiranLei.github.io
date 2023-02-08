@@ -14,7 +14,7 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 <div class="news_list">
   <div class="news_list_item" id="nli0">
     <div class="news_date">Feb. 2023</div>
-    <div class="news_content">Admitted to PhD program in Computer Science at CMU <img src="/assets/images/scslogo_no_outline_simple.gif" width=20></div>
+    <div class="news_content" style="display: flex">Admitted to PhD program in Computer Science at CMU <img src="/assets/images/scslogo_no_outline_simple.gif" width=20 style="margin-left: 5px"></div>
   </div>
   <div class="news_list_item" id="nli1">
     <div class="news_date">Oct. 2022</div>
