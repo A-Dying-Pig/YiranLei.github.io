@@ -60,6 +60,7 @@ a.paperlink {
     color: white;
     font-size: 12px;
     padding: 0px 5px 1px 5px;
+    margin-right: 4px;
     font-family: sans-serif;
     border-radius: 4px;
 }
@@ -83,11 +84,13 @@ a:hover {
 }
 
 code, pre {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: menlo, monospace;
 }
 
 code.language-plaintext{
-  background-color: #D4F2E7;
+  background-color: mistyrose;
+  padding: 1px 5px 1px 5px;
+  font-size: 0.8em;
 }
 
 h1 {
