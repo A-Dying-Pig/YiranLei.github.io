@@ -124,15 +124,16 @@ div.tagline {
   flex-direction: row;
   flex-wrap: wrap;
   align-content: center;
-  justify-content: center;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 div.tagline_right {
-  margin: 40px 0px 0px 40px; 
+  margin: 5px 0px 0px 30px; 
 }
 
 div.tagline_left {
-  padding: 15px 0px 0px 5px; 
+  padding: 10px 0px 0px 30px; 
 }
 
 div.tagline a {
@@ -144,7 +145,7 @@ div.tagline a:hover {
 }
 
 span#homepage_name{
-  font-size: 35px;
+  font-size: 30px;
   font-family: fantasy;
 }
 
