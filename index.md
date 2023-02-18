@@ -48,7 +48,7 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 * **PrintQueue: Performance Diagnosis via Queue Measurement in the Data Plane** <br />
   ***Yiran Lei***, <a href="https://liangchengyu.com/" class="paperauthor">Liangcheng Yu</a>, <a href="https://vincen.tl/index.html" class="paperauthor">Vincent Liu</a>, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu" class="paperauthor">Mingwei Xu</a> <br />
   [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/program.html), 55/279=19.7% <br />
-  <a href="https://dl.acm.org/doi/10.1145/3544216.3544257" class="paperlink">Paper</a> <a href="/assets/papers/PrintQueue/PrintQueue_v0.98.pdf" class="paperlink">Slides</a> <a href="https://github.com/A-Dying-Pig/PrintQueue" class="paperlink">Code</a> <br />
+  <a href="https://dl.acm.org/doi/10.1145/3544216.3544257" class="paperlink">paper</a> <a href="/assets/papers/PrintQueue/PrintQueue_v0.98.pdf" class="paperlink">slides</a> <a href="https://github.com/A-Dying-Pig/PrintQueue" class="paperlink">code</a> <br />
   <div style="float: left">
     <img style="float: left" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width=20><span style="float: left"><em>Artifacts Available</em></span>
   </div>
@@ -69,7 +69,7 @@ I am motivated to develop new mechanisms and systems in real networks for finer 
 * **DOVE: Diagnosis-driven SLO Violation Detection**<br />
   ***Yiran Lei***, <a href="https://zhouyu-sunny.github.io/" class="paperauthor">Yu Zhou</a>, Yunsenxiao Lin, <a href="http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu" class="paperauthor">Mingwei Xu</a>, Yangyang Wang <br />
   [ICNP 2021](https://icnp21.cs.ucr.edu/program.html), 38/154=24.7% <br />
-  <a href="https://ieeexplore.ieee.org/document/9651986" class="paperlink">Paper</a> <a href="/assets/papers/DOVE/DOVE.pdf" class="paperlink">Slides</a> <a href="https://gitlab.com/A-Dying-Pig/dove" class="paperlink">Code-Tofino</a> <a href="https://gitlab.com/A-Dying-Pig/dove-bmv2" class="paperlink">Code-BMv2</a>
+  <a href="https://ieeexplore.ieee.org/document/9651986" class="paperlink">paper</a> <a href="/assets/papers/DOVE/DOVE.pdf" class="paperlink">slides</a> <a href="https://gitlab.com/A-Dying-Pig/dove" class="paperlink">code-tofino</a> <a href="https://gitlab.com/A-Dying-Pig/dove-bmv2" class="paperlink">code-bmv2</a>
   <div class="embed-video-wrapper">
     <div class="embed-first">
         <p>Teaser Video</p>
