@@ -28,7 +28,7 @@
         <div slot="header" class="slide_bar_title">
         </div>
         <div v-for="(item, index) in display_text" :key="item.txt">
-            <el-link v-on:click="scroll_to_certain_position(index)">{|item.txt|}</el-link>
+            <a v-on:click="scroll_to_certain_position(index)">{|item.txt|}</a>
         </div>
     </el-card>
 </div>
@@ -235,8 +235,15 @@
       top: 130px;
       text-align: center;
   }
+  div.slide_bar a {
+    color: #606266;
+    text-decoration: none;
+    padding: 1px 5px 1px 5px;
+  }
+    
   div.slide_bar a:hover {
-    color: tomato;
+    color: white;
+    background: tomato;
     text-decoration: none;
   }
   html {
