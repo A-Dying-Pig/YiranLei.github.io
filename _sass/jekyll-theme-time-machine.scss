@@ -84,13 +84,13 @@ a:hover {
 }
 
 code, pre {
-  font-family: menlo, monospace;
+  font-family: 'IBM Plex Mono';
 }
 
 code.language-plaintext{
   background-color: mistyrose;
   padding: 1px 5px 1px 5px;
-  font-size: 0.8em;
+  font-size: 0.85em;
 }
 
 h1 {
@@ -99,10 +99,9 @@ h1 {
 
 h1.title {
   margin: 30px 20px 10px;
-  font-size: 35px;
+  font-size: 60px;
   font-weight: bold;
-//   font-style: italic;
-  font-family: fantasy, Avenir Light, Optima, Arial;
+  font-family: 'Caveat';
   text-align: center;
 }
 
@@ -155,7 +154,7 @@ div.info_text {
   width: 95%;
   font-size: 13px;
   background: mistyrose;
-  font-family: menlo, monospace;
+  font-family: 'IBM Plex Mono';
   border-left: 5px solid black;
 }
 
