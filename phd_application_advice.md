@@ -25,7 +25,7 @@ If applicants feel like not digging deep into one domain before application, it 
 # Application Materials
 The purpose of the application materials is to convince committee/professor of your research passion and ability. The materials should be related to the research experience as much as possible. 
 ## Select Schools
-Remember application deadline of different programs. Typically, applicants should submit applications in December for next year's admission. Note the required materials could vary among programs and schools. In CS area, applicants can learn about the publication-based school ranking at [CSRankings](https://csrankings.org/), [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/).
+Remember application deadline of different programs. Typically, applicants should submit applications in December for next year's admission. Note the required materials could vary among programs and schools. In CS area, applicants can learn about the publication-based school ranking at [CSRankings](https://csrankings.org/) and [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/) (Also [CS Stipend Rankings](https://csstipendrankings.org/)).
 
 ## Test Score
 In most cases, international applicants can use TOEFL iBT to prove English proficiency. Check out minimal-score requirements. Many programs no longer need GRE. Again, this depends on programs and schools.
