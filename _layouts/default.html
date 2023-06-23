@@ -19,7 +19,6 @@
   <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
   <script type="text/javascript"  src="{{ '/assets/js/2022_5_20.js' | relative_url }}"></script>
   <script src="https://kit.fontawesome.com/cded06a232.js" crossorigin="anonymous"></script>
-  <script src="https://d3js.org/d3.v3.min.js"></script>
   <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
    
 {% seo %}
@@ -198,29 +197,6 @@
 //         console.log(this.display_text)
       }
     })
-     
-  // add heart beat to homepage
-  var secret_input = [];
-  var secret_input_len = 0;
-  var secret_revealed = false;
-  $("body").keypress(function(e) {
-      secret_input[secret_input_len] = e.key;
-      secret_input_len += 1;
-      if (secret_input_len === 4 && !secret_revealed){
-          if (secret_input[0] === 'm' &&
-              secret_input[1] === 'i' &&
-              secret_input[2] === 'm' &&
-              secret_input[3] === 'i'){
-              console.log("You have found my secret! I love MiMi.");
-              $('div#main').hide();
-              $('div.tagline').hide();
-              $('div.slide_bar').hide();
-              secret_revealed = true;
-              heart_2022_5_20();
-              d3.selectAll("body").style("background","none");
-          }
-      }
-  }); 
   </script>
   <style>
   .el-card__header{
