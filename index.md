@@ -8,41 +8,45 @@ Prior to CMU, I earned BS and MS degree at Tsinghua University and was advised b
 
 <div class="info">
     <div class="info_text">
-        <p>Coming to Pittsburgh! New city, new life!</p>
+        <p>Stop by my office for a cup of Tea!</p>
     </div>
 </div>
 
 # News
 <div class="news_list">
-  <div class="news_list_item" id="nli0">
+   <div class="news_list_item" id="nli0">
+    <div class="news_date">Aug. 2023</div>
+    <div class="news_content" style="display: flex; align-items: center">Started my Ph.D. journey at CMU!</div>
+  </div>
+  <div class="news_list_item" id="nli1">
     <div class="news_date">Jun. 2023</div>
     <div class="news_content" style="display: flex; align-items: center">Graduated from Tsinghua University!</div>
   </div>
-  <div class="news_list_item" id="nli1">
+  <div class="news_list_item" id="nli2">
     <div class="news_date">Feb. 2023</div>
     <div class="news_content" style="display: flex; align-items: center">Admitted to PhD program in Computer Science at CMU <img src="/assets/images/scslogo_no_outline_simple.gif" width=20 height=20 style="margin-left: 5px"></div>
   </div>
-  <div class="news_list_item" id="nli2">
+  <div class="news_list_item" id="nli3">
     <div class="news_date">Oct. 2022</div>
     <div class="news_content">Awarded <em>China National Scholarship</em>.</div>
   </div>
-  <div class="news_list_item" id="nli3">
+  <div class="news_list_item" id="nli4">
     <div class="news_date">Sep. 2022</div>
     <div class="news_content">Visit Professor <a href="https://www.cs.washington.edu/people/faculty/arvind">Arvind Krishnamurthy</a> @ University of Washington.</div>
   </div>
-  <div class="news_list_item" id="nli4">
+  <div class="news_list_item" id="nli5">
     <div class="news_date">Aug. 2022</div>
     <div class="news_content">Attend SIGCOMM 2022 in person! </div>
   </div>
-  <div class="news_list_item" id="nli5">
+  <div class="news_list_item" id="nli6">
     <div class="news_date">May. 2022</div>
     <div class="news_content"> <em>PrintQueue</em> accepted in <a href="https://conferences.sigcomm.org/sigcomm/2022/program.html">SIGCOMM 2022</a>. </div>
   </div>
-  <div class="news_list_item" id="nli6">
+  <div class="news_list_item" id="nli7">
     <div class="news_date">Oct. 2021</div>
     <div class="news_content"> Awarded <em>Tsinghua Hefei Talent Scholarship</em>.</div>
   </div>
-  <div class="news_list_item" id="nli7">
+  <div class="news_list_item" id="nli8">
     <div class="news_date">Aug. 2021</div>
     <div class="news_content"> <em>DOVE</em> accepted in <a href="https://icnp21.cs.ucr.edu/program.html">ICNP 2021</a>.</div>
   </div>
