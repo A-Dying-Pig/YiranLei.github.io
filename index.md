@@ -16,7 +16,7 @@ Prior to CMU, I earned BS and MS degree at Tsinghua University and was advised b
   <div class="news_list">
    <div class="news_list_item" id="nli0">
     <div class="news_date">Apr. 2024</div>
-    <div class="news_content" style="display: flex; align-items: center">Mimi<i class="fa-solid fa-cat"></i> will start her Ph.D. journey at Cornell!</div>
+    <div class="news_content" style="display: flex; align-items: center">Mimi will start her Ph.D. journey at Cornell!</div>
   </div>
   <div class="news_list">
    <div class="news_list_item" id="nli1">
