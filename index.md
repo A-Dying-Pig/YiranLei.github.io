@@ -20,7 +20,7 @@ Prior to CMU, I earned BS and MS degree at Tsinghua University and was advised b
   </div>
   <div class="news_list_item" id="nli1">
     <div class="news_date">Aug. 2025</div>
-    <div class="news_content" style="display: flex; align-items: center">Wonderful summer internship @Microsoft Research. Thank you, <a href="https://scholar.google.com/citations?user=bQSkSmgAAAAJ&hl=en"> Michael</a>!</div>
+    <div class="news_content" style="display: flex; align-items: center">Wonderful summer internship @Microsoft. Thank you, <a href="https://scholar.google.com/citations?user=bQSkSmgAAAAJ&hl=en">Michael</a>!</div>
   </div>
   <div class="news_list_item" id="nli2">
     <div class="news_date">Apr. 2025</div>
