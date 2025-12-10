@@ -15,58 +15,62 @@ Prior to CMU, I earned BS and MS degree at Tsinghua University and was advised b
 # News
 <div class="news_list">
   <div class="news_list_item" id="nli0">
+    <div class="news_date">Dec. 2025</div>
+    <div class="news_content" style="display: flex; align-items: center">FAST accepted to NSDI 2026!!</div>
+  </div>
+  <div class="news_list_item" id="nli1">
     <div class="news_date">Sep. 2025</div>
     <div class="news_content" style="display: flex; align-items: center">SwitchNIC accepted to CoNEXT 2025!</div>
   </div>
-  <div class="news_list_item" id="nli1">
+  <div class="news_list_item" id="nli2">
     <div class="news_date">Aug. 2025</div>
     <div class="news_content" style="display: flex; align-items: center">Wonderful summer internship @ Microsoft Research. Thank you, <a href="https://scholar.google.com/citations?user=bQSkSmgAAAAJ&hl=en" style="display: contents;">Michael</a>!</div>
   </div>
-  <div class="news_list_item" id="nli2">
+  <div class="news_list_item" id="nli3">
     <div class="news_date">Apr. 2025</div>
     <div class="news_content" style="display: flex; align-items: center">Pass Speaking Skill Requirement in CSD</div>
   </div>
-  <div class="news_list_item" id="nli3">
+  <div class="news_list_item" id="nli4">
     <div class="news_date">Aug. 2024</div>
     <div class="news_content" style="display: flex; align-items: center">Wonderful summer internship @ MangoBoost!</div>
   </div>
-  <div class="news_list_item" id="nli4">
+  <div class="news_list_item" id="nli5">
     <div class="news_date">Apr. 2024</div>
     <div class="news_content" style="display: flex; align-items: center">Mimi will start her Ph.D. journey at Cornell!</div>
   </div>
-  <div class="news_list_item" id="nli5">
+  <div class="news_list_item" id="nli6">
     <div class="news_date">Aug. 2023</div>
     <div class="news_content" style="display: flex; align-items: center">Started my Ph.D. journey at CMU</div>
   </div>  
-  <div class="news_list_item" id="nli6">
+  <div class="news_list_item" id="nli7">
     <div class="news_date">Jun. 2023</div>
     <div class="news_content" style="display: flex; align-items: center">Graduated from Tsinghua University</div>
   </div>
-  <div class="news_list_item" id="nli7">
+  <div class="news_list_item" id="nli8">
     <div class="news_date">Feb. 2023</div>
     <div class="news_content" style="display: flex; align-items: center">Admitted to PhD program in Computer Science at CMU <img src="/assets/images/scslogo_no_outline_simple.gif" width=20 height=20 style="margin-left: 5px"></div>
   </div>
-  <div class="news_list_item" id="nli8">
+  <div class="news_list_item" id="nli9">
     <div class="news_date">Oct. 2022</div>
     <div class="news_content">Awarded <em>China National Scholarship</em></div>
   </div>
-  <div class="news_list_item" id="nli9">
+  <div class="news_list_item" id="nli10">
     <div class="news_date">Sep. 2022</div>
     <div class="news_content">Visit Professor <a href="https://www.cs.washington.edu/people/faculty/arvind">Arvind Krishnamurthy</a> @ University of Washington</div>
   </div>
-  <div class="news_list_item" id="nli10">
+  <div class="news_list_item" id="nli11">
     <div class="news_date">Aug. 2022</div>
     <div class="news_content">Attend SIGCOMM 2022 in person</div>
   </div>
-  <div class="news_list_item" id="nli11">
+  <div class="news_list_item" id="nli12">
     <div class="news_date">May. 2022</div>
     <div class="news_content"> <em>PrintQueue</em> accepted in <a href="https://conferences.sigcomm.org/sigcomm/2022/program.html">SIGCOMM 2022</a></div>
   </div>
-  <div class="news_list_item" id="nli12">
+  <div class="news_list_item" id="nli13">
     <div class="news_date">Oct. 2021</div>
     <div class="news_content"> Awarded <em>Tsinghua Hefei Talent Scholarship</em></div>
   </div>
-  <div class="news_list_item" id="nli13">
+  <div class="news_list_item" id="nli14">
     <div class="news_date">Aug. 2021</div>
     <div class="news_content"> <em>DOVE</em> accepted in <a href="https://icnp21.cs.ucr.edu/program.html">ICNP 2021</a></div>
   </div>
@@ -77,9 +81,17 @@ Prior to CMU, I earned BS and MS degree at Tsinghua University and was advised b
 
 # Publications
 
+* **FAST: An Efficient Scheduler for All-to-All GPU Communication** <br />
+    ***Yiran Lei***, Dongjoo Lee, Liangyu Zhao, Daniar Kurniawan, Chanmyeong Kim, Heetaek Jeong, Changsu Kim, Hyeonseong Choi, <a href="https://liangchengyu.com/" class="paperauthor"> Liangcheng Yu</a>, <a href="https://www.cs.washington.edu/people/faculty/arvind-krishnamurthy/" class="paperauthor">Arvind Krishnamurthy</a>, <a href="https://www.justinesherry.com/" class="paperauthor">Justine Sherry</a>, <a href="https://www.linkedin.com/in/nurvitadhi/" class="paperauthor">Eriko Nurvitadhi</a> <br />
+To appear in NSDI 2026 <br />
+
+<p style="clear: left; margin-bottom: 30px"></p>
+
 * **SwitchNIC: An Hybrid Architecture for Network Functions with Fast and Consistent Shared State** <br />
     ***Yiran Lei***, <a href="https://fchamicapereira.me/" class="paperauthor">Francisco Chamiça Pereira </a>, <a href="https://www.justinesherry.com/" class="paperauthor"> Justine Sherry </a>, <a href="https://www.cs.washington.edu/people/faculty/arvind-krishnamurthy/" class="paperauthor">Arvind Krishnamurthy</a> <br />
-To appear at CoNEXT 2025 <br />
+[CoNEXT 2025](https://conferences.sigcomm.org/co-next/2025/#!/program) <br />
+<a href="https://dl.acm.org/doi/10.1145/3768993" class="paperlink">paper</a> <a href="/assets/papers/SwitchNIC/SwitchNIC.pdf" class="paperlink">slides</a> <a href="https://github.com/A-Dying-Pig/SwitchNIC" class="paperlink">code</a> <br />
+
 
 <p style="clear: left; margin-bottom: 30px"></p>
 
