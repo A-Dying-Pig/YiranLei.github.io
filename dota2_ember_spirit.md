@@ -17,13 +17,11 @@ initiating, dodging, absorbing pressure, baiting spells, and escaping while enem
 * In the **late game**, you transform into a tanky assassin — deleting key heroes, cutting waves, forcing bad fights, and creating re-engage opportunities that win games.
 
 What makes Ember truly special is that player skill matters more than almost any other hero.
-
 * One second of hesitation.
 * One misplaced remnant.
 * One greedy Sleight.
 
 That single decision can decide:
-
 * your life or death
 * the outcome of a teamfight
 * sometimes, the entire game
@@ -36,7 +34,7 @@ And somehow, after all these years:
 * His spells have barely changed since **Dota 6.73** (year 2011)
 <ul>
   <li> His voice lines still hit hard
-    <ul>
+    <ul style="margin: 20px">
       <li>
         <!-- English button -->
         <button data-audio="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_ember_spirit_embr_levelup_02.mp3"
@@ -48,7 +46,7 @@ And somehow, after all these years:
         ▶️ "From knowledge comes skill"
         </button>
         <!-- Chinese button -->
-        <button data-audio="https://huiji-public.huijistatic.com/dota/uploads/8/87/Embr_levelup_02_zh.ogg"
+        <button data-audio="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-voiceline-v0/Embr_levelup_02_zh.ogg"
             style="border:none;background:none;cursor:pointer;"
                 onclick="
                 const a = new Audio(this.dataset.audio);
@@ -68,7 +66,7 @@ And somehow, after all these years:
         ▶️ "Prepare for a lesson"
         </button>
         <!-- Chinese button -->
-        <button data-audio="https://huiji-public.huijistatic.com/dota/uploads/0/05/Embr_attack_06_zh.ogg"
+        <button data-audio="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-voiceline-v0/Embr_attack_06_zh.ogg"
             style="border:none;background:none;cursor:pointer;"
                 onclick="
                 const a = new Audio(this.dataset.audio);
@@ -88,7 +86,7 @@ And somehow, after all these years:
         ▶️ "Through anger lies failure"
         </button>
         <!-- Chinese button -->
-        <button data-audio="https://huiji-public.huijistatic.com/dota/uploads/8/8a/Embr_rival_03_zh.ogg"
+        <button data-audio="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-voiceline-v0/Embr_rival_03_zh.ogg"
             style="border:none;background:none;cursor:pointer;"
                 onclick="
                 const a = new Audio(this.dataset.audio);
@@ -108,7 +106,7 @@ And somehow, after all these years:
         ▶️ "Even a master falters"
         </button>
         <!-- Chinese button -->
-        <button data-audio="https://huiji-public.huijistatic.com/dota/uploads/4/49/Embr_failure_02_zh.ogg"
+        <button data-audio="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-voiceline-v0/Embr_failure_02_zh.ogg"
             style="border:none;background:none;cursor:pointer;"
                 onclick="
                 const a = new Audio(this.dataset.audio);
@@ -128,13 +126,11 @@ And that’s why this guide exists.
 
 
 # 🧭 What This Blog Covers (High-Level Overview)
-
 This guide focuses on Ember Spirit as a midlaner, breaking the hero down from multiple angles — **how he thinks**, **how he moves**, and **how he wins**. We’ll cover skill builds, item choices, playstyle, and decision-making across the entire game.
 
 Each section is paired with **short, focused video clips** — not to flex, but to show how Ember actually works in real matches, where decisions are fast and mistakes are punished.
 
 **Roadmap**:
-
 * Ember Spirit’s core strengths
 * Play mindset at different stages of the game
 * Skill and item builds that cover Ember’s weaknesses
