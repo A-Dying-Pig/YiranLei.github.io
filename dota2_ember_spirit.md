@@ -1,3 +1,4 @@
+<br>
 # 🔥 How to Strike Like Fire in Dota 2
 
 If you want to be the fire — the kind that appears from nowhere, burns everything, and disappears before anyone can touch it — Ember Spirit is the hero you’re looking for.
@@ -46,7 +47,7 @@ And somehow, after all these years:
         ▶️ "From knowledge comes skill"
         </button>
         <!-- Chinese button -->
-        <button data-audio="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-voiceline-v0/Embr_levelup_02_zh.ogg"
+        <button data-audio="/assets/Dota2/Embr_levelup_02_zh.ogg"
             style="border:none;background:none;cursor:pointer;"
                 onclick="
                 const a = new Audio(this.dataset.audio);
@@ -66,7 +67,7 @@ And somehow, after all these years:
         ▶️ "Prepare for a lesson"
         </button>
         <!-- Chinese button -->
-        <button data-audio="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-voiceline-v0/Embr_attack_06_zh.ogg"
+        <button data-audio="/assets/Dota2/Embr_attack_06_zh.ogg"
             style="border:none;background:none;cursor:pointer;"
                 onclick="
                 const a = new Audio(this.dataset.audio);
@@ -86,7 +87,7 @@ And somehow, after all these years:
         ▶️ "Through anger lies failure"
         </button>
         <!-- Chinese button -->
-        <button data-audio="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-voiceline-v0/Embr_rival_03_zh.ogg"
+        <button data-audio="/assets/Dota2/Embr_rival_03_zh.ogg"
             style="border:none;background:none;cursor:pointer;"
                 onclick="
                 const a = new Audio(this.dataset.audio);
@@ -106,7 +107,7 @@ And somehow, after all these years:
         ▶️ "Even a master falters"
         </button>
         <!-- Chinese button -->
-        <button data-audio="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-voiceline-v0/Embr_failure_02_zh.ogg"
+        <button data-audio="/assets/Dota2/Embr_failure_02_zh.ogg"
             style="border:none;background:none;cursor:pointer;"
                 onclick="
                 const a = new Audio(this.dataset.audio);
@@ -190,7 +191,7 @@ A spell level 2–3 Flame Guard allows you to:
     margin-bottom: 0.5em;
     text-align: center;
   ">
-    🎮 Demo: Use Flame Guard in level 1
+    🎮 Demo: Use Flame Guard at hero level 1 - 3
   </div>
 
   <div style="text-align:center">
@@ -205,7 +206,7 @@ A spell level 2–3 Flame Guard allows you to:
     color: #555;
     text-align: center;
   ">
-    Ember Spirit secures XP and gold in early game
+    Succesfully secure XP and gold in early game
   </div>
 </div>
 
