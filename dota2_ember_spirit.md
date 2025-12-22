@@ -8,7 +8,7 @@ Before we go deep into mechanics and decisions, let’s start with why Ember fee
 (Intro video goes here: short, looped, clean clip)
 
 
-## ⚡ Why Ember Spirit Is Special (and Why I Keep Coming Back)
+# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Ember_Spirit_minimap_icon.png" width="32" style="vertical-align: middle;"> Why Ember Spirit Is Special (and Why I Keep Coming Back)
 
 Ember Spirit isn’t just a hero you play — **he’s a mindset**.
 * In the **early game**, you deal surprising damage with precise spell usage.
@@ -34,18 +34,100 @@ This is also a hero that shines on the **biggest stages in Dota history** — fr
 
 And somehow, after all these years:
 * His spells have barely changed since **Dota 6.73** (year 2011)
-* His voice lines still hit hard
-* * “Prepare for a lesson”  “快来受教” 
-* * “Even a master falters” “老马失蹄”
-* * “Through anger lies failure” “图有愤怒”
-* * “Ash upon the wind” “灰飞烟灭”
+<ul>
+  <li> His voice lines still hit hard
+    <ul>
+      <li>
+        <!-- English button -->
+        <button data-audio="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_ember_spirit_embr_levelup_02.mp3"
+            style="border:none;background:none;cursor:pointer;"
+                onclick="
+                const a = new Audio(this.dataset.audio);
+                a.play();
+                ">
+        ▶️ "From knowledge comes skill"
+        </button>
+        <!-- Chinese button -->
+        <button data-audio="https://huiji-public.huijistatic.com/dota/uploads/8/87/Embr_levelup_02_zh.ogg"
+            style="border:none;background:none;cursor:pointer;"
+                onclick="
+                const a = new Audio(this.dataset.audio);
+                a.play();
+                ">
+        ▶️ "熟能生巧"
+        </button>
+      </li>
+      <li>
+        <!-- English button -->
+        <button data-audio="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_ember_spirit_embr_attack_06.mp3"
+            style="border:none;background:none;cursor:pointer;"
+                onclick="
+                const a = new Audio(this.dataset.audio);
+                a.play();
+                ">
+        ▶️ "Prepare for a lesson"
+        </button>
+        <!-- Chinese button -->
+        <button data-audio="https://huiji-public.huijistatic.com/dota/uploads/0/05/Embr_attack_06_zh.ogg"
+            style="border:none;background:none;cursor:pointer;"
+                onclick="
+                const a = new Audio(this.dataset.audio);
+                a.play();
+                ">
+        ▶️ "快来受教"
+        </button>
+      </li>
+      <li>
+        <!-- English button -->
+        <button data-audio="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_ember_spirit_embr_rival_03.mp3"
+            style="border:none;background:none;cursor:pointer;"
+                onclick="
+                const a = new Audio(this.dataset.audio);
+                a.play();
+                ">
+        ▶️ "Through anger lies failure"
+        </button>
+        <!-- Chinese button -->
+        <button data-audio="https://huiji-public.huijistatic.com/dota/uploads/8/8a/Embr_rival_03_zh.ogg"
+            style="border:none;background:none;cursor:pointer;"
+                onclick="
+                const a = new Audio(this.dataset.audio);
+                a.play();
+                ">
+        ▶️ "徒有愤怒"
+        </button>
+      </li>
+      <li>
+        <!-- English button -->
+        <button data-audio="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_ember_spirit_embr_failure_02.mp3"
+            style="border:none;background:none;cursor:pointer;"
+                onclick="
+                const a = new Audio(this.dataset.audio);
+                a.play();
+                ">
+        ▶️ "Even a master falters"
+        </button>
+        <!-- Chinese button -->
+        <button data-audio="https://huiji-public.huijistatic.com/dota/uploads/4/49/Embr_failure_02_zh.ogg"
+            style="border:none;background:none;cursor:pointer;"
+                onclick="
+                const a = new Audio(this.dataset.audio);
+                a.play();
+                ">
+        ▶️ "老马失蹄"
+        </button>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 * His item builds can include the most Dota item of all time: Divine Rapier — the embodiment of never give up
 
 That’s why I keep playing Ember.
 And that’s why this guide exists.
 
 
-## 🧭 What This Blog Covers (High-Level Overview)
+# 🧭 What This Blog Covers (High-Level Overview)
 
 This guide focuses on Ember Spirit as a midlaner, breaking the hero down from multiple angles — **how he thinks**, **how he moves**, and **how he wins**. We’ll cover skill builds, item choices, playstyle, and decision-making across the entire game.
 
@@ -65,10 +147,10 @@ If you’re **new to Ember Spirit**, I recommend starting with the **Spells & Co
 And if you love this hero too — or have your own Ember stories to share — feel free to reach out. 🔥
 
 
-## ⏳ Play mindset at different stages of the game
+# ⏳ Play mindset at different stages of the game
 This section explains what your job is at each stage — not just what buttons to press.
 
-### 🟠 Laning Phase (0–12 min | Hero Level 1–10): Harass, Pressure, and Tempo
+## 🟠 Laning Phase (0–12 min | Hero Level 1–10): Harass, Pressure, and Tempo
 
 In the early game, think of Ember Spirit as a **fearless frontline general**, not a fragile assassin.
 
@@ -81,7 +163,7 @@ The high-level goal in this phase is simple:
 
 When played correctly, Ember can **dive towers**, jump into the middle of supports, secure a kill, and still escape cleanly using Fire Remnant.
 
-### 🔥 Secure XP First: Flame Guard for Wave Control
+## 🔥 Secure XP First: Flame Guard for Wave Control
 
 Ember Spirit is a **spell-dependent** hero, which makes **hero levels** extremely important.
 Unlike strong early lane bullies such as Lina or Shadow Fiend, Ember is **not** designed to dominate mid purely through early solo kills at hero level 3–4 (though it can happen in certain matchups).
@@ -99,14 +181,39 @@ A spell level 2–3 Flame Guard allows you to:
 * Secure most last hits
 * Maintain lane control without overcommitting
 
-<div style="text-align:left">
-  <video controls style="max-width:80%; height:auto">
-    <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-clip-v0/early_laning_1080p.mp4" type="video/mp4">
-  </video>
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+    🎮 Demo: Use Flame Guard in level 1
+  </div>
+
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-clip-v0/early_laning_1080p.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+    Ember Spirit secures XP and gold in early game
+  </div>
 </div>
 
-
-### 🔁 Trade HP → Reset → Come Back Stronger (Hero Level 5–6 Spike)
+## 🔁 Trade HP → Reset → Come Back Stronger (Hero Level 5–6 Spike)
 
 As you approach hero level 6, Ember gains one of his biggest early advantages.
 
@@ -127,7 +234,7 @@ This often:
 * Causes them to miss waves
 * Opens opportunities to rotate and gank side lanes
 
-### 💎 Rune Control (Hero Level 6+)
+## 💎 Rune Control (Hero Level 6+)
 
 When **power runes** are about to spawn (e.g., 5:50, 7:50):
 1. Place a Fire Remnant near one rune spot
@@ -139,7 +246,7 @@ This setup:
 * Preserves Remnant mobility -- easy to escape if enemy supports gank you on the one rune spot
 * Keeps lane XP flowing even while rotating 
 
-### 🚨 Ganking Side Lanes with Remnant Discipline
+## 🚨 Ganking Side Lanes with Remnant Discipline
 
 Runes dramatically increase gank success, but Ember can also gank **without committing Remnants recklessly**.
 
@@ -165,7 +272,7 @@ In that case:
 This timing-based deception is one of Ember’s strongest early-game tools.
 
 
-### 🌾 Farming Efficiently (Spell Level Matters)
+## 🌾 Farming Efficiently (Spell Level Matters)
 
 With Flame Guard at spell level 3–4, Ember can:
 * Clear mid waves
@@ -189,7 +296,7 @@ This lets you convert **spell cooldowns into gold and XP**, setting up a powerfu
 👉 Prioritize hero levels, use spell levels intentionally, and play around tempo and resets, not ego kills.
 
 
-### Mid game (12-30min, 10 - 17 lvl): teamfight conductor
+## Mid game (12-30min, 10 - 17 lvl): teamfight conductor
 
 **Watch and chain first**
 
@@ -197,7 +304,7 @@ This lets you convert **spell cooldowns into gold and XP**, setting up a powerfu
 
 **Be prepared to escape**
 
-### Late game (>30min, >18 lvl): opportunitu creater and support killer
+## Late game (>30min, >18 lvl): opportunitu creater and support killer
 
 **Push waves**: when your enemy tries to push one lane, you can remenant 
 
@@ -207,13 +314,13 @@ This lets you convert **spell cooldowns into gold and XP**, setting up a powerfu
 
 **Focus enemy support hero**
 
-### final note
+## final note
 
 **Always have a way out**
 
 **Damage comes from everything**
 
-## 📌 Notes & Context
+# 📌 Notes & Context
 
 * Written for Dota 2 patch 7.40
 
