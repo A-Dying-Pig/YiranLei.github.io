@@ -6,7 +6,7 @@ If you want to be the fire — the kind that appears from nowhere, burns everyth
 This blog is a love letter to Ember Spirit, written after years of joy, frustration, adrenaline, and clutch moments playing this hero in Dota 2.
 Before we go deep into mechanics and decisions, let’s start with why Ember feels different.
 
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Cosmetic_icon_Rekindled_Ashes.png" width="360" style="vertical-align: middle;">
+<img src="/assets/Dota2/Cosmetic_icon_Rekindled_Ashes.webp" width="360" style="vertical-align: middle;">
 
 (Intro video goes here: short, looped, clean clip)
 
@@ -156,7 +156,7 @@ This section explains what your job is at each stage — not just what buttons t
 
 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Emoticon_creepdance.gif" width="32" style="vertical-align: middle;"> Laning Phase (0–12 min | Hero Level 1–10): Harass, Pressure, and Tempo
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Emoticon_creepdance.gif" width="32" style="vertical-align: middle;"> Laning Phase (0–12 min | Hero Level 1–10): Farm, Harass, Rune, and Tempo
 
 In the early game, think of Ember Spirit as a **fearless frontline general**, not a fragile assassin.
 
@@ -438,7 +438,7 @@ This setup:
 
 Additional tips:
 * If the kill is straightforward (for example, you don’t need to use Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> at all, such as when an enemy is low HP under your tower), pre-place a Fire Remnant in mid. After the fight, fly back to midlane to collect wave XP and gold.
-* When enemies spot your movement and retreat under tower—or after you’ve killed them once and appear to leave—plant **a Fire Remnant near the side-lane**. Walk away to sell the disengage. Once they relax and reposition, fly back <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> in and attack from an unexpected angle.
+* When enemies spot your movement and retreat under tower—or after you’ve killed them once and appear to leave—plant **a Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> near the side-lane**. Walk away to sell the disengage. Once they relax and reposition, fly back <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> in and attack from an unexpected angle.
 
 <div style="
   margin: 2em 0;
