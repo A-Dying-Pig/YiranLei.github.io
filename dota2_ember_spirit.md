@@ -25,7 +25,7 @@ Before we go deep into mechanics and decisions, let’s start with why Ember fee
   </div>
   <div style="text-align:center">
     <video controls style="max-width:100%; height:auto; border-radius:6px">
-      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-intro-clip/intro_1080p.mp4" type="video/mp4"> 
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-intro-clip/intro2_1080p.mp4" type="video/mp4"> 
     </video>
   </div>
 
