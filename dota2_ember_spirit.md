@@ -8,7 +8,35 @@ Before we go deep into mechanics and decisions, let’s start with why Ember fee
 
 <img src="/assets/Dota2/Cosmetic_icon_Rekindled_Ashes.webp" width="360" style="vertical-align: middle;">
 
-(Intro video goes here: short, looped, clean clip)
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+   🎮 Intro Clip — Ember Spirit Rampage (5 kills) <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Emoticon_ember_shakefist.gif" width="20" style="vertical-align: middle;">
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-intro-clip/intro_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
 
 
 # <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Ember_Spirit_minimap_icon.png" width="32" style="vertical-align: middle;"> Why Ember Spirit Is Special (and Why I Keep Coming Back)
@@ -31,7 +59,7 @@ That single decision can decide:
 
 Ember rewards **instinct**, **map awareness**, and **tempo**. When played well, he feels untouchable. When played poorly, he punishes you instantly.
 
-This is also a hero that shines on the **biggest stages in Dota history** — from TI8 to TI10 finals — and continues to define high-skill midlane play.
+This is also a hero that shines on the **biggest stages in Dota history** — from TI8 <img src="/assets/Dota2/100px-The_International_2018_aegis_allmode.png" width="20" style="vertical-align: middle;"> to TI10 <img src="/assets/Dota2/100px-The_International_2021_aegis_allmode.png" width="20" style="vertical-align: middle;"> finals — and continues to define high-skill midlane play.
 
 And somehow, after all these years:
 * His spells have barely changed since **Dota 6.73** (year 2011)
