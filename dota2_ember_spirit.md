@@ -3,10 +3,10 @@
 
 If you want to be the fire — the kind that appears from nowhere, burns everything, and disappears before anyone can touch it — Ember Spirit is the hero you’re looking for.
 
+<img src="/assets/Dota2/Cosmetic_icon_Rekindled_Ashes.webp" width="360" style="vertical-align: middle;">
+
 This blog is a love letter to Ember Spirit, written after years of joy, frustration, adrenaline, and clutch moments playing this hero in Dota 2.
 Before we go deep into mechanics and decisions, let’s start with why Ember feels different.
-
-<img src="/assets/Dota2/Cosmetic_icon_Rekindled_Ashes.webp" width="360" style="vertical-align: middle;">
 
 <div style="
   margin: 2em 0;
