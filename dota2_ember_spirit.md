@@ -558,27 +558,28 @@ Reverse Pattern: Jungle → Lane (especially useful when the mid wave **still re
 > <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Prioritize hero levels, control power runes, and play around tempo and resets.
 
 
-## Mid game (12-30min, 10 - 17 lvl): teamfight conductor
+## Mid game (12-35min, 10 - 17 lvl): teamfight conductor
 
-**Watch and chain first**
+**Think and watch first**
 
-**Aggression after enemies' key spells**
+**Persistence**
+
+**Split the battlefield**
 
 **Be prepared to escape**
 
-## Late game (>30min, >18 lvl): opportunitu creater and support killer
+## Late game (>35min, >18 lvl): opportunitu creater and support killer
 
 **Push waves**: when your enemy tries to push one lane, you can remenant 
 
-**Engage twice**
+**Reach to every corner of the map**
 
-**Distracting and Splitting the battlefield**
+**Engage twice or multiple times**
 
-**Focus enemy support hero**
+**Vision and focus enemy support/key hero**
+
 
 ## final note
-
-**Always have a way out**
 
 **Damage comes from everything**
 
