@@ -322,13 +322,14 @@ As a result, a well-timed rotation can easily convert spell damage into early ki
     color: #555;
     text-align: center;
   ">
-  Despite being under-farmed, Ember Spirit rotates top and secures a double kill purely through high-level Sleight of Fist <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;"> damage.  </div>
+  Despite being under-farmed, Ember Spirit rotates top and secures a double kill through high-level Sleight of Fist <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;"> damage.  </div>
 </div>
 
 
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Emoticon_thinking.gif" width="32" style="vertical-align: middle;"> Trade HP → Reset → Come Back Stronger (Hero Level 5–6 Spike)
 
-As Ember Spirit approaches level 6, he unlocks one of his strongest advantages: the ability to instantly TP back to base and return to the fight using Fire Remnant.
+
+As Ember Spirit approaches level 6, he unlocks one of his strongest advantages: the ability to instantly TP <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Emoticon_tp.gif" width="20" style="vertical-align: middle;"> back to base and return to the fight using Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">.
 
 You can convert this into an early-game advantage over the enemy mid laner by following a simple pattern:
 1. Trade health aggressively with the enemy mid laner before level 6.
@@ -385,7 +386,7 @@ This often:
 
 When **power runes** (e.g., arcane <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Arcane_Rune_buff_icon.png" width="20" style="vertical-align: middle;"> , damage boost <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Double_Damage_Rune_buff_icon.png" width="20" style="vertical-align: middle;">) are about to spawn (e.g., game time 5:50, 7:50):
 1. Pre-place a Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> near one rune location.
-2. Use spells to quickly clear the mid wave, or aggro the creeps to follow you, ensuring you don’t miss XP.
+2. Use spells to quickly clear the mid wave, or aggro the creeps to follow you, ensuring you don’t miss lane XP.
 3. Walk toward the opposite rune spot and bottle the rune <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Bottle_%28Regeneration%29_icon.png" width="20" style="vertical-align: middle;"> if it spawns on the side you’re walking to.
 4. If the rune spawns on the other side—or if you’re in danger—snap back using Activate Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">.
 
@@ -464,7 +465,7 @@ This setup:
 
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Emoticon_snicker.gif" width="32" style="vertical-align: middle;"> Ganking Side Lanes with Power Runes
 
-**Power runes** massively increase gank success in the early game, especially when rotating to side lanes. Ember Spirit’s spell damage is extremely high at this stage—commit fully and use **all** of your spells. When executed correctly, this often secures a kill even against enemies who have more gold or XP.
+**Power runes** massively increase gank success in the early game, especially when rotating to side lanes. Ember Spirit’s spell damage is extremely high at this stage— when commiting fully and using **all** of your spells. This often secures a kill even against enemies who have more gold or XP.
 
 <div style="
   margin: 2em 0;
@@ -531,22 +532,20 @@ Additional tips:
     color: #555;
     text-align: center;
   ">
-    The first kill on Largo comes from a standard Haste rune gank. After TPing back to base to reset, Ember returns via a pre-placed remnant. With Drow Ranger
-    <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Drow_Ranger_minimap_icon.png" width="20" style="vertical-align: middle;">
+    The first kill on Largo comes from a standard Haste rune gank. After TPing back to base to reset, Ember returns via a pre-placed remnant. With Drow Ranger <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Drow_Ranger_minimap_icon.png" width="20" style="vertical-align: middle;">
     still positioned nearby, Ember re-engages and secures a second kill.
-  </div>
   </div>
 </div>
 
 
 
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Emoticon_money.gif" width="32" style="vertical-align: middle;"> Farming Efficiently
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Emoticon_money.gif" width="32" style="vertical-align: middle;"> Farming Efficiently
 
 Once **Flame Guard** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Flame_Guard_icon.png" width="20" style="vertical-align: middle;"> reaches level 3–4, Ember Spirit gains access to highly efficient farming patterns. At this point, Ember can:
 * Quickly clear midlane waves
 * Farm jungle camps with minimal HP loss
 * Chain lane and jungle together if with vision
-When gank opportunities are low, ** don’t force fights **. Instead, convert **Flame Guard uptime** into consistent gold and XP.
+When gank opportunities are low, **don’t force fights**. Instead, convert **Flame Guard uptime** into consistent gold and XP.
 
 **Core Pattern**: Lane → Jungle
 * Pre-place a Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> in a nearby jungle camp.
@@ -631,7 +630,7 @@ In the early game, Ember Spirit thrives as a fearless frontline general—tradin
 
 You **still deal significant damage**, but you can **no longer absorb everything the enemy throws at you**. Opponents now have more spells, higher burst, and multiple ways to quickly break Flame Guard, which only absorbs a fixed amount of damage. Walking directly into the enemy team and tanking spells is no longer viable.
 
-Instead, Ember becomes a **tactical leader**. Fight alongside your teammates rather than ahead of them. Let others absorb the initial wave of damage and spells, then enter the fight at the right moment—when cooldowns are committed and targets are exposed. Your goal is no longer to start fights, but to **control and finish them**.
+Instead, Ember becomes a **tactical leader**. Fight alongside your teammates rather than ahead of them. Let others absorb the initial wave of damage and spells, then enter the fight at the right moment—when cooldowns are committed and targets are exposed. Your goal is often not to start fights, but to **control and finish them**.
 
 Survivability becomes just as important as damage. The longer Ember stays alive in a fight, the more value he provides through repeated spell usage, mobility, and pressure. Dying early removes all of that potential.
 
@@ -671,7 +670,7 @@ Fight with your team—and lead them to victory through timing and positioning.
 </div>
 
 
-If you want to dismantle teamfights like the one shown above, understand this: a strong mid game on Ember Spirit isn’t about charging in—it’s about discipline. That means fighting with teammates, watching before committing, always having an escape plan, prioritizing survival to maximize damage, and splitting the battlefield so enemies can’t focus you down. The following sections break down these mid-game fundamentals in detail.
+If you want to dismantle teamfights like the one shown above, understand this: a strong mid game on Ember Spirit isn’t about charging in—it’s about discipline. That means fighting with teammates, watching before committing, always having an escape plan, prioritizing survival to maximize damage, and splitting the battlefield for better team fights. The following sections break down these mid-game fundamentals in detail.
 
 
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Smoke_of_Deceit_icon.png" width="36" style="vertical-align: middle;"> Fight with Your Team Using Smoke of Deceit
@@ -799,7 +798,7 @@ When the enemy team still has all their spells available, Ember can be instantly
 The flexibility of Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">—especially when paired with Aghanim’s Scepter <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png" width="20" style="vertical-align: middle;">, which grants longer range and faster travel—allows Ember Spirit to break large teamfights into smaller, favorable engagements.
 
 ### 1️⃣ Pick Off the Backline
-By remnant-jumping into the enemy backline, Ember can quickly eliminate fragile supports. This splits the enemy formation, leaving frontline heroes isolated and vulnerable to your teammates. This is especially powerful during high-ground defenses. When enemy cores dive deep under towers, Ember can wipe out their supports behind them—turning even strong diving heroes into helpless targets.
+By remnant-jumping into the enemy backline, Ember can quickly eliminate fragile supports. This splits the enemy formation, leaving frontline heroes **isolated and vulnerable to your teammates**. This is especially powerful during high-ground defenses. When enemy cores dive deep under towers, Ember can wipe out their supports behind them—turning even strong diving heroes into helpless targets.
 
 <div style="
   margin: 2em 0;
@@ -833,7 +832,7 @@ By remnant-jumping into the enemy backline, Ember can quickly eliminate fragile 
 
 
 ### 2️⃣ Become a Distraction
-At times, the correct play isn’t to kill—but to **distract**. Ember can fly directly at enemy cores (mid or carry), forcing them to respond. You don’t need to secure a kill; simply wasting their time while safely escaping is enough by using Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">.
+At times, the correct play **isn’t to kill—but to distract**. Ember can fly directly at enemy cores (mid or carry), forcing them to respond. You don’t need to secure a kill; simply wasting their time while safely escaping is enough by using Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">.
 
 **Every second spent chasing Ember is a second your team uses to win the fight elsewhere.**
 
@@ -869,7 +868,7 @@ At times, the correct play isn’t to kill—but to **distract**. Ember can fly 
 </div>
 
 
-Both approaches frustrate opponents—“Why won’t you fight me?”—but that confusion is exactly the point. Ember wins by splitting attention, isolating targets, and controlling the battlefield, not by fighting everyone at once.
+Both approaches frustrate opponents—“Why can't we fight together?”—but that confusion is exactly the point. Ember wins by splitting attention, isolating targets, and controlling the battlefield, not by fighting everyone at once.
 
 
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Emoticon_disappear.gif" width="36" style="vertical-align: middle;"> Survivability
@@ -882,7 +881,7 @@ The good news is that Ember has exceptional tools to stay alive— **if Fire Rem
 
 ### 1️⃣ Always Place a Fire Remnant Somewhere Safe
 
-Keeping a **Fire Remnant** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> in a safe location dramatically expands the parts of the map Ember can play. With an escape ready, Ember can push dangerous lanes and collect farm that most heroes cannot safely access.
+Keeping a **Fire Remnant** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> in a safe location **dramatically expands the parts of the map Ember can play**. With an escape ready, Ember can push dangerous lanes and collect farm that most heroes cannot safely access.
 
 When enemies initiate on you, even a brief window without being stunned is enough:
 * Use Sleight of Fist <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;">
@@ -966,7 +965,7 @@ This turns a risky kill into a safe disengage.
 
 Ember Spirit has short cooldowns and thrives on repetition. **Staying alive is not passive**—it is offensive. Every extra second you survive means more Sleights, more Chains, more Remnant pressure.
 
-Your persistence is damage.
+**Your persistence is damage.**
 And that persistence is often what wins fights.
 
 <div style="
@@ -989,7 +988,7 @@ And that persistence is often what wins fights.
       <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/midgame_harrass_hit_backline_1080p.mp4" type="video/mp4"> 
     </video>
   </div>
-  Over a two-minute high-ground defense—while the team’s carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Phantom_Lancer_minimap_icon.png" width="20" style="vertical-align: middle;"> is absent for 1 minute — Ember Spirit draws heavy enemy attention, absorbing and dodging repeated spell bursts to relieve pressure on teammates. Through disciplined disengage–re-engage cycles and low-cooldown spell usage, Ember gradually wears the enemy down and secures the defense.
+  Over a two-minute high-ground defense—while the team’s carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Phantom_Lancer_minimap_icon.png" width="20" style="vertical-align: middle;"> is absent for 1 minute — Ember Spirit draws heavy enemy attention, absorbing and dodging repeated spell bursts to relieve pressure on teammates. Through disciplined disengage–re-engage cycles and low-cooldown spell usage, Ember with his team gradually wears the enemy down and secures the defense.
   <div style="
     margin-top: 0.5em;
     font-size: 0.9em;
