@@ -751,11 +751,7 @@ you are **invulnerable and reposition**, making it the key tool for surviving mi
       <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/midgame_fight_1080p.mp4" type="video/mp4"> 
     </video>
   </div>
-  In a disadvantageous matchup, Ember Spirit survives heavy pressure by precisely using Sleight of Fist
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;">
-and Fire Remnant
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">
-to dodge enemy spells. While teammates provide control and absorb damage, Ember disengages, then re-engages at the right moment to wipe the enemy team and swing the fight.
+  In a disadvantageous matchup, Ember Spirit survives heavy pressure by precisely using Sleight of Fist <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;"> and Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> to dodge enemy spells. While teammates provide control and absorb damage, Ember disengages, then re-engages at the right moment to wipe the enemy team and swing the fight.
   <div style="
     margin-top: 0.5em;
     font-size: 0.9em;
@@ -800,10 +796,7 @@ When the enemy team still has all their spells available, Ember can be instantly
 
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Emoticon_bkb.gif" width="36" style="vertical-align: middle;"> Split the Battlefield: Kill Supports or Distract the Carry
 
-The flexibility of Fire Remnant
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">—especially when paired with Aghanim’s Scepter
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png" width="20" style="vertical-align: middle;">, which grants longer range and faster travel—allows Ember Spirit to break large teamfights into smaller, favorable engagements.
-
+The flexibility of Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">—especially when paired with Aghanim’s Scepter <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png" width="20" style="vertical-align: middle;">, which grants longer range and faster travel—allows Ember Spirit to break large teamfights into smaller, favorable engagements.
 
 ### 1️⃣ Pick Off the Backline
 By remnant-jumping into the enemy backline, Ember can quickly eliminate fragile supports. This splits the enemy formation, leaving frontline heroes isolated and vulnerable to your teammates. This is especially powerful during high-ground defenses. When enemy cores dive deep under towers, Ember can wipe out their supports behind them—turning even strong diving heroes into helpless targets.
@@ -865,11 +858,7 @@ At times, the correct play isn’t to kill—but to **distract**. Ember can fly 
     </video>
   </div>
   
-  Ember Spirit draws the attention of the enemy carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png" width="20" style="vertical-align: middle;"> and mid laner <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Void_Spirit_minimap_icon.png" width="20" style="vertical-align: middle;"> for several seconds, preventing them from contributing to the fight. During this window, Ember’s teammates eliminate the enemy supports
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Tiny_minimap_icon.png" width="20" style="vertical-align: middle;">
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Witch_Doctor_minimap_icon.png" width="20" style="vertical-align: middle;">.
-With the support gone, Ember re-joins the team to finish off the enemy carry twice, even through an Aegis of the Immortal
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Aegis_of_the_Immortal_icon.png" width="20" style="vertical-align: middle;">.
+  Ember Spirit draws the attention of the enemy carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png" width="20" style="vertical-align: middle;"> and mid laner <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Void_Spirit_minimap_icon.png" width="20" style="vertical-align: middle;"> for several seconds, preventing them from contributing to the fight. During this window, Ember’s teammates eliminate the enemy supports <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Tiny_minimap_icon.png" width="20" style="vertical-align: middle;"> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Witch_Doctor_minimap_icon.png" width="20" style="vertical-align: middle;">. With the support gone, Ember re-joins the team to finish off the enemy carry twice, even through an Aegis of the Immortal <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Aegis_of_the_Immortal_icon.png" width="20" style="vertical-align: middle;">.
   <div style="
     margin-top: 0.5em;
     font-size: 0.9em;
@@ -883,7 +872,7 @@ With the support gone, Ember re-joins the team to finish off the enemy carry twi
 Both approaches frustrate opponents—“Why won’t you fight me?”—but that confusion is exactly the point. Ember wins by splitting attention, isolating targets, and controlling the battlefield, not by fighting everyone at once.
 
 
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Emoticon_disappear.gif" width="36" style="vertical-align: middle;"> Survivability
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Emoticon_disappear.gif" width="36" style="vertical-align: middle;"> Survivability
 
 For Ember Spirit, survivability directly translates into **XP, gold, and impact**. Ember typically doesn’t build heavy farming items like Battle Fury
 <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Battle_Fury_icon.png" width="20" style="vertical-align: middle;">, nor does he always have the space to free-farm. Every death significantly delays item progression and sharply reduces Ember’s influence in the mid and late game.
@@ -896,12 +885,9 @@ The good news is that Ember has exceptional tools to stay alive— **if Fire Rem
 Keeping a **Fire Remnant** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> in a safe location dramatically expands the parts of the map Ember can play. With an escape ready, Ember can push dangerous lanes and collect farm that most heroes cannot safely access.
 
 When enemies initiate on you, even a brief window without being stunned is enough:
-* Use Sleight of Fist
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;">
+* Use Sleight of Fist <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;">
 to instantly dodge and buy time.
-* Before landing, activate Fire Remnant
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">
-to escape to safety.
+* Before landing, activate Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> to escape to safety.
 The same principle applies in teamfights. If some enemy heroes with dangerous spells are missing from vision, never commit without an escape. Always pre-place a Remnant nearby so you can disengage instantly if the fight turns.
 
 <div style="
@@ -924,7 +910,7 @@ The same principle applies in teamfights. If some enemy heroes with dangerous sp
       <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/wayout_1080p.mp4" type="video/mp4"> 
     </video>
   </div>
- Before the original Remnant expires, Ember places a new Remnant in a safe location. When enemies use stuns to delay him and let the old Remnant expire, Ember escapes using the newly placed Remnant.
+ Before the original Remnant expires, Ember places a new Remnant in a safe location. When enemies use stuns to delay him and the old Remnant expire, Ember escapes using the newly placed Remnant.
   <div style="
     margin-top: 0.5em;
     font-size: 0.9em;
@@ -1013,7 +999,7 @@ And that persistence is often what wins fights.
   </div>
 </div>
 
-## **Key takeaway for the mid game:**
+**Key takeaway for the mid game**
 > <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Lead your teammates -- but not ahead of it, keep an exit, and win through mobility and persistence — not brute force.
 
 
