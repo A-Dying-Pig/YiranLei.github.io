@@ -1,5 +1,5 @@
 <br>
-# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_fire_bc.gif" width="32" style="vertical-align: middle;"> How to Strike Like Fire in Dota 2
+# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_fire_bc.gif" width="36" style="vertical-align: middle;"> How to Strike Like Fire in Dota 2
 
 If you want to be the fire — the kind that appears from nowhere, burns everything, and disappears before anyone can touch it — Ember Spirit is the hero you’re looking for.
 
@@ -38,16 +38,17 @@ Before we go deep into mechanics and decisions, let’s start with why Ember fee
   </div>
 </div>
 
+👀 Views: <span data-goatcounter-count="path">—</span>
 
-# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_ember_angry.gif" width="20" style="vertical-align: middle;"> Why Ember Spirit Is Special (and Why I Keep Coming Back)
+# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_ember_angry.gif" width="36" style="vertical-align: middle;"> Why Ember Spirit Is Special (and Why I Keep Coming Back)
 
-Ember Spirit isn’t just a hero you play — **he’s a mindset**.
-* In the **early game**, you deal surprising damage with precise spell usage.
-* In the **mid game**, you become a teamfight conductor:
-initiating, dodging, absorbing pressure, baiting spells, and escaping while enemies desperately type “kill ember”.
-* In the **late game**, you transform into a tanky assassin — deleting key heroes, cutting waves, forcing bad fights, and creating re-engage opportunities that win games.
+Ember Spirit isn’t just a hero you play — he’s a way of thinking.
+* In the **early game**, you are a **frontline general**: tanky, aggressive, absorbing pressure while dealing explosive damage with high-level spells.
+* In the **mid game**, you evolve into a **tactical leader**. You’re no longer unkillable, but you control fights through timing, positioning, and coordination—entering at the right moment to finish what your team starts.
+* In the **late game**, you become a **strategic operator**. Your value shifts away from raw damage toward backline pressure, vision, disruption, and enabling your team to win fights that would otherwise be impossible.
+Ember’s role is always changing. If you don’t adapt with it, even a game full of kills can still slip away.
 
-What makes Ember truly special is that player skill matters more than almost any other hero.
+What truly sets Ember Spirit apart is that **player skill matters more than almost any other hero**.
 * One second of hesitation.
 * One misplaced remnant.
 * One greedy Sleight.
@@ -57,7 +58,7 @@ That single decision can decide:
 * the outcome of a teamfight
 * sometimes, the entire game
 
-Ember rewards **instinct**, **map awareness**, and **tempo**. When played well, he feels untouchable. When played poorly, he punishes you instantly.
+Ember rewards **instinct**, **map awareness**, and **tempo**. When played well, he feels untouchable—everywhere at once. When played poorly, he punishes you instantly.
 
 This is also a hero that shines on the **biggest stages in Dota history** — from TI8 <img src="/assets/Dota2/100px-The_International_2018_aegis_allmode.png" width="20" style="vertical-align: middle;"> to TI10 <img src="/assets/Dota2/100px-The_International_2021_aegis_allmode.png" width="20" style="vertical-align: middle;"> finals — and continues to define high-skill midlane play.
 
@@ -152,42 +153,42 @@ And somehow, after all these years:
 
 
 
-* His item builds can include the most Dota item of all time: Divine Rapier <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Divine_Rapier_icon.png" width="32" style="vertical-align: middle;"> — the embodiment of never give up
+* His item builds can include the most Dota item of all time: Divine Rapier <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Divine_Rapier_icon.png" width="20" style="vertical-align: middle;"> — the ultimate expression of *never give up*.
 
 That’s why I keep playing Ember.
 And that’s why this guide exists.
 
 
-#  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Emoticon_wiz_glhf.gif" width="32" style="vertical-align: middle;"> What This Blog Covers (High-Level Overview)
-This guide focuses on Ember Spirit as a midlaner, breaking the hero down from multiple angles — **how he thinks**, **how he moves**, and **how he wins**. We’ll cover skill builds, item choices, playstyle, and decision-making across the entire game.
+#  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Emoticon_wiz_glhf.gif" width="36" style="vertical-align: middle;"> What This Blog Covers
+This guide focuses on Ember Spirit as a **midlaner**, breaking the hero down from multiple perspectives—not just what to do, but **how Ember thinks, moves, and wins games**.
 
-Each section is accompanied by short, focused video clips—not to flex, but to demonstrate how Ember Spirit actually plays out in real matches, across both favorable and difficult matchups, where decisions are fast and mistakes are punished.
+We’ll walk through playstyles, skill and item choices, and—most importantly—**decision-making across every stage of the game**, from early pressure to late-game strategy.
+
+Each section is paired with **short, focused video clips**—not to flex, but to show how Ember actually functions in real matches. The examples include both favorable and difficult situations, where decisions are made quickly and mistakes are immediately punished.
 
 
 **Roadmap**:
-* Play mindset at different stages of the game
-* Skill and item builds that cover Ember’s weaknesses
+* [Play mindset at different stages of the game](#play_mindset_link)
+  * [Early game](#laning_phase_link)
+  * [Mid game](#mid_game_link)
+  * [Late game](#late_game_link) 
+* Skill and item builds
 * Matchups: heroes Ember excels against (and struggles against)
-* Spells, combos, and muscle memory
-* Notes & context
+* [Additional notes & context](#notes_link)
 
-If you’re **new to Ember Spirit**, I recommend starting with the **Spells & Combos** section to build a solid foundation before diving deeper.
-
-And if you love this hero too — or have your own Ember stories to share — feel free to reach out <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2e/Emoticon_davion_sexy.gif" width="32" style="vertical-align: middle;">.
+If you love this hero too — or have your own Ember stories to share — feel free to reach out <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2e/Emoticon_davion_sexy.gif" width="20" style="vertical-align: middle;">.
 
 
+<a id="play_mindset_link"></a>
+# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Emoticon_big_brain.gif" width="36" style="vertical-align: middle;"> Play mindset at different stages of the game
+This section breaks down Ember Spirit’s role at each stage of the game and introduces the key principles and tricks that help you—and your team—play stronger and more decisively.
 
-
-# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Emoticon_big_brain.gif" width="32" style="vertical-align: middle;"> Play mindset at different stages of the game
-This section explains what your job is at each stage — not just what buttons to press.
-
-
-
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Emoticon_creepdance.gif" width="32" style="vertical-align: middle;"> Laning Phase (0–12 min | Hero Level 1–10): Frontline General
+<a id="laning_phase_link"></a>
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Emoticon_creepdance.gif" width="36" style="vertical-align: middle;"> Laning Phase (0–12 min | Hero Level 1–10): Frontline General
 
 In the early game, think of Ember Spirit as a **fearless frontline general**—constantly stepping into the thick of the fight, soaking damage while dealing heavy burst in return.
 
-Ember’s early durability comes from two sources: strong base armor, which mitigates physical damage, and Flame Guard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Flame_Guard_icon.png" width="32" style="vertical-align: middle;">, which absorbs a large amount of magic damage. Together, these allow Ember to play aggressively without instantly collapsing.
+Ember’s early durability comes from two sources: strong base armor, which mitigates physical damage, and Flame Guard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Flame_Guard_icon.png" width="20" style="vertical-align: middle;">, which absorbs a large amount of magic damage. Together, these allow Ember to play aggressively without instantly collapsing.
 
 With higher early levels in Searing Chains <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Searing_Chains_icon.png" width="20" style="vertical-align: middle;"> or Sleight of Fist <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;">, Ember becomes especially lethal against low-HP side-laners. His ultimate, Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">, then provides unmatched flexibility—enabling rapid engagement, repositioning, and clean disengages.
 
@@ -229,7 +230,7 @@ Want to pull off plays like the ones in the demo? A strong early game on Ember S
 
 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Emoticon_midas.gif" width="32" style="vertical-align: middle;"> Secure XP and Gold First: Flame Guard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Flame_Guard_icon.png" width="32" style="vertical-align: middle;"> for Wave Control
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Emoticon_midas.gif" width="36" style="vertical-align: middle;"> Secure XP and Gold First: Flame Guard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Flame_Guard_icon.png" width="36" style="vertical-align: middle;"> for Wave Control
 
 
 Ember Spirit is a **spell-dependent** hero, which makes **hero levels** extremely important.
@@ -326,7 +327,7 @@ As a result, a well-timed rotation can easily convert spell damage into early ki
 </div>
 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Emoticon_thinking.gif" width="32" style="vertical-align: middle;"> Trade HP → Reset → Come Back Stronger (Hero Level 5–6 Spike)
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Emoticon_thinking.gif" width="36" style="vertical-align: middle;"> Trade HP → Reset → Come Back Stronger (Hero Level 5–6 Spike)
 
 
 As Ember Spirit approaches level 6, he unlocks one of his strongest advantages: the ability to instantly TP <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Emoticon_tp.gif" width="20" style="vertical-align: middle;"> back to base and return to the fight using Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Activate_Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">.
@@ -381,7 +382,7 @@ This often:
 </div>
 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_arcane_rune.gif" width="32" style="vertical-align: middle;"> Rune Control (Hero Level 6+)
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_arcane_rune.gif" width="36" style="vertical-align: middle;"> Rune Control (Hero Level 6+)
 
 
 When **power runes** (e.g., arcane <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Arcane_Rune_buff_icon.png" width="20" style="vertical-align: middle;"> , damage boost <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Double_Damage_Rune_buff_icon.png" width="20" style="vertical-align: middle;">) are about to spawn (e.g., game time 5:50, 7:50):
@@ -463,7 +464,7 @@ This setup:
 </div>
 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Emoticon_snicker.gif" width="32" style="vertical-align: middle;"> Ganking Side Lanes with Power Runes
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Emoticon_snicker.gif" width="36" style="vertical-align: middle;"> Ganking Side Lanes with Power Runes
 
 **Power runes** massively increase gank success in the early game, especially when rotating to side lanes. Ember Spirit’s spell damage is extremely high at this stage— when commiting fully and using **all** of your spells. This often secures a kill even against enemies who have more gold or XP.
 
@@ -539,7 +540,7 @@ Additional tips:
 
 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Emoticon_money.gif" width="32" style="vertical-align: middle;"> Farming Efficiently
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Emoticon_money.gif" width="36" style="vertical-align: middle;"> Farming Efficiently
 
 Once **Flame Guard** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Flame_Guard_icon.png" width="20" style="vertical-align: middle;"> reaches level 3–4, Ember Spirit gains access to highly efficient farming patterns. At this point, Ember can:
 * Quickly clear midlane waves
@@ -624,6 +625,7 @@ When gank opportunities are low, **don’t force fights**. Instead, convert **Fl
 > <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Prioritize hero levels, control power runes, and play around tempo and resets.
 
 
+<a id="mid_game_link"></a>
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Emoticon_nerd.gif" width="36" style="vertical-align: middle;"> Mid Game (12-35 min | Hero Level 10 - 20): From Frontline General to Tactical Leader
 
 In the early game, Ember Spirit thrives as a fearless frontline general—trading aggressively, absorbing pressure, and forcing kills with raw spell damage. As the game moves into the mid game, that role must evolve.
@@ -923,8 +925,7 @@ The same principle applies in teamfights. If some enemy heroes with dangerous sp
 ### 2️⃣ Treat Your Last Remnant as “All-In”
 If you use all your Remnants while still surrounded by enemies with stuns and spells, you are almost certainly dead. **Your final Remnant is your lifeline**—do not spend it casually.
 
-With Aghanim’s Shard
-<img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Aghanim%27s_Shard_-_Roshan_icon.png" width="20" style="vertical-align: middle;">, Ember gains a powerful safety trick: killing an enemy hero grants an additional Remnant charge. This allows a disciplined play pattern:
+With Aghanim’s Shard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Aghanim%27s_Shard_-_Roshan_icon.png" width="20" style="vertical-align: middle;">, Ember gains a powerful safety trick: killing an enemy hero grants an additional Remnant charge. This allows a disciplined play pattern:
 * Save your last Remnant.
 * Use it only to finish an extremely low-HP target.
 * Immediately use the refreshed Remnant to escape.
@@ -951,7 +952,7 @@ This turns a risky kill into a safe disengage.
       <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/use_final_remnant_for_kill_and_escapd_1080p.mp4" type="video/mp4"> 
     </video>
   </div>
-  Ember pre-places a Remnant as the fight begins. When enemies commit heavy burst, he disengages. Using his final Remnant, Ember finishes a low-HP target <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Tiny_minimap_icon.png" width="20" style="vertical-align: middle;">, then escapes with the newly refreshed Remnant.
+  Ember pre-places a Remnant as the fight begins. When enemies commit heavy burst, he disengages. Using his final Remnant, Ember finishes a low-HP target <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Primal_Beast_minimap_icon.png" width="20" style="vertical-align: middle;">, then escapes with the newly refreshed Remnant.
   <div style="
     margin-top: 0.5em;
     font-size: 0.9em;
@@ -961,7 +962,7 @@ This turns a risky kill into a safe disengage.
   </div>
 </div>
 
-### <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Emoticon_flex.gif" width="20" style="vertical-align: middle;"> Survivability = Damage
+### <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Emoticon_flex.gif" width="36" style="vertical-align: middle;"> Survivability = Damage
 
 Ember Spirit has short cooldowns and thrives on repetition. **Staying alive is not passive**—it is offensive. Every extra second you survive means more Sleights, more Chains, more Remnant pressure.
 
@@ -1001,23 +1002,359 @@ And that persistence is often what wins fights.
 **Key takeaway for the mid game**
 > <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Lead your teammates -- but not ahead of it, keep an exit, and win through mobility and persistence — not brute force.
 
+<a id="late_game_link"></a>
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/93/Emoticon_naga_song.gif" width="36" style="vertical-align: middle;"> Late Game (>35 min | Hero Level >20): Strategic Operator
 
-## Lategame Phase (> 35min | Hero Level >20): Evolve Further -- Strategic Operator
+In the late game, Ember Spirit’s direct threat to enemy cores naturally declines. With full items and levels online, opponents gain powerful tools to blunt Ember’s damage: Black King Bar <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png" width="20" style="vertical-align: middle;"> and Pipe of Insight <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Pipe_of_Insight_icon.png" width="20" style="vertical-align: middle;"> mitigate large amounts of magical damage, while Manta Style <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png" width="20" style="vertical-align: middle;"> and Lotus Orb <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Lotus_Orb_icon.png" width="20" style="vertical-align: middle;"> dispel Searing Chains <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Searing_Chains_icon.png" width="20" style="vertical-align: middle;">, making it much harder for Ember to reliably land full Remnant damage.
 
-**Push waves**: when your enemy tries to push one lane, you can remenant 
+At the same time, survivability becomes more challenging. Enemy cores now deal enough damage to kill Ember quickly, and late-game disables such as Scythe of Vyse <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Scythe_of_Vyse_icon.png" width="20" style="vertical-align: middle;"> and Abyssal Blade <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Abyssal_Blade_icon.png" width="20" style="vertical-align: middle;"> can lock Ember down before he has a chance to disengage.
 
-**Reach to every corner of the map**
+Does this mean Ember becomes useless in the late game? **Absolutely not—if you understand his evolved role.**
 
-**Engage twice or multiple times**
+In the late game, Ember transitions once more: from frontline general, to mid-game leader, to a **Strategic Operator** whose value is measured by the success of the entire team. While solo kills and raw tankiness are no longer realistic goals, Ember excels at **making fights easier for teammates**—by controlling vision, splitting the map, forcing reactions, managing lanes, and repeatedly entering and exiting fights with perfect timing.
 
-**Vision and focus enemy support/key hero**
+With survivability prioritized and discipline maintained, Ember’s persistent presence creates constant pressure. He enables teammates to play at their best, stretches enemy attention thin, and turns chaotic late-game fights into winnable scenarios. **Alone, Ember may not dominate—but together with the team, his impact is decisive.**
+
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+  🎮 Demo: Late-Game High-Ground Fight: Forcing Three Enemy Buybacks and End Game
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/lategame_fight_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+  In this late-game high-ground fight, Ember Spirit plays patiently—starting at a safe distance and using Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> and Searing Chains <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Searing_Chains_icon.png" width="20" style="vertical-align: middle;"> to poke and control enemies while avoiding the initial burst. At the right moment, Ember commits with his team to eliminate the enemy carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Nature%27s_Prophet_minimap_icon.png" width="20" style="vertical-align: middle;"> and support <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Ogre_Magi_minimap_icon.png" width="20" style="vertical-align: middle;">. When the carry buys back and the enemy attempts to chase, Ember disengages—using Remnant and Chains to halt pursuit. After chaining four enemy heroes, Ember re-engages to kill the buybacked enemy carry. With very limited mana remaining, he uses his final resources to land a long-range Remnant + Chains combo on the enemy mid laner <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Queen_of_Pain_minimap_icon.png" width="20" style="vertical-align: middle;">. Recognizing that the mid laner still has buyback, Ember TPs back to base to reset, then returns via Remnant to secure the final kill and end the game.
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
 
 
-## final note
+To contribute to late-game victories like the one shown above, Ember must build on mid-game fundamentals while mastering a few additional principles: engaging more than once per fight, respecting vision control, abusing extreme mobility to manipulate the map, and understanding the strategic power of lane pressure. These concepts define strong late-game Ember play—and the sections below break them down in detail.
 
-**Damage comes from everything**
 
-# 📌 Notes & Context
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Emoticon_four.gif" width="36" style="vertical-align: middle;"> Engage More Than Once
+
+When the enemy has their full defensive toolkit online—such as Black King Bar <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png" width="20" style="vertical-align: middle;"> and Pipe of Insight <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Pipe_of_Insight_icon.png" width="20" style="vertical-align: middle;">—Ember Spirit’s primarily magical damage is heavily mitigated.
+
+Because of this, **do not fully commit all your resources at the start of the fight**. Avoid spending every Remnant or item immediately. In the first round of a late-game fight, your objective is not to kill heroes—it’s often unrealistic while enemy dispels and defensive items are available.
+
+Instead, focus on survival and **trading**:
+* Absorb and dodge damage without dying
+* Force key items like BKB <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png" width="20" style="vertical-align: middle;">, Pipe <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Pipe_of_Insight_icon.png" width="20" style="vertical-align: middle;">, and Manta Style <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png" width="20" style="vertical-align: middle;">
+* Identify enemy positioning and cooldown usage
+* **Maintain the mindset that fights are won over multiple rounds**
+
+Once those key items are committed, the fight enters its **second round**—this is where Ember shines. With BKBs and dispels on cooldown, Searing Chains <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Searing_Chains_icon.png" width="20" style="vertical-align: middle;"> and sustained magical damage become lethal, allowing Ember and his team to decisively clean up the fight.
+
+**A critical signal to disengage is mana**. When Ember runs low, his damage and survivability drop sharply. If the fight is still ongoing, leave a Remnant on the battlefield, walk or TP back to base, reset, and return at full strength to finish the fight.
+Always remember: Ember’s power comes from his spells. **No mana means no spells means no fight.**
+
+> Never overestimate Ember’s power when enemies have all their items and spells available. But never underestimate Ember’s impact once those key cooldowns are gone.
+
+
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+  🎮 Demo: 67-Minute Fight: Multi-Round Engage, Reset, and Cleanup
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/lategame_start_fight_engage_twice_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+In this 60-minute fight, Ember Spirit plays for cooldown trading and repetition, not a single all-in. The first engagement forces the enemy carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Ursa_minimap_icon.png" width="20" style="vertical-align: middle;">
+to activate Black King Bar <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png" width="20" style="vertical-align: middle;"> and draws out the enemy support’s ultimate <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Crystal_Maiden_minimap_icon.png" width="20" style="vertical-align: middle;">. Ember then disengages. As the fight resets, an enemy hero <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Earthshaker_minimap_icon.png" width="20" style="vertical-align: middle;"> overcommits by diving deep and is punished by Ember’s teammates. With HP and mana running low and enemy heroes buying back, Ember TPs to base to reset. On re-entry, Ember maintains distance and waits patiently. When the same enemy hero <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Earthshaker_minimap_icon.png" width="20" style="vertical-align: middle;"> attempts to retreat from Roshan pit, Ember chases him down. With the enemy carry’s BKB still on cooldown, Ember chains him in the center of the fight, eliminates the remaining support <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Dazzle_minimap_icon.png" width="20" style="vertical-align: middle;">, and finishes the carry to decisively win the fight.
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
+
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif" width="36" style="vertical-align: middle;"> Create Vision for Your Team — or Force the Enemy to Reveal Themselves
+
+Vision is often the deciding factor in late-game teamfights. At this stage, Ember Spirit should take on the role of a mobile vision provider—not by placing wards, but by **actively revealing enemy positions through movement and pressure**.
+
+By stepping forward and playing close to enemy heroes—even briefly drawing their attention—Ember Spirit can reveal crucial information for the team. With items like Shiva’s Guard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Shiva%27s_Guard_icon.png" width="20" style="vertical-align: middle;">, Ember can activate Arctic Blast to gain high-ground vision, exposing enemy positions even when they are hidden in the jungle.
+
+This often forces reactions. Enemies may respond by casting spells or attacking Ember—instantly revealing their positions. If they instead disengage using tools like Glimmer Cape <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ce/Glimmer_Cape_icon.png" width="20" style="vertical-align: middle;">, Ember still gains valuable information by tracking the direction and timing of their retreat, allowing the team to prepare for the next engagement.
+
+In this sense, Ember functions like a moving torchlight—similar to how Night Stalker <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Night_Stalker_minimap_icon.png" width="20" style="vertical-align: middle;"> provides vision during nighttime—but with far greater mobility and control. Importantly, this role **does not require Ember to secure kills himself**. You may have already spent Remnants to scout, or the enemy may still have defensive items available.
+
+**That’s fine.**
+
+By revealing enemy positioning, Ember enables teammates to choose better angles, safer positioning, and more decisive engagement timing. Even without dealing damage, providing vision **makes the entire team stronger—and often turns fights in your favor.**
+
+
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+  🎮 Demo: Creating Vision with Shiva’s Guard to Enable the Carry
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/lategame_vision_backline1_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+  After enemy heroes briefly appear on the minimap, Ember Spirit moves in to scout and activates Shiva’s Guard, providing crucial vision and forcing immediate enemy reactions. As spells are committed onto Ember, his BKB absorbs magical damage while Shiva’s armor mitigates physical hits, allowing him to stay close and maintain pressure. With enemy positions fully revealed, Ember’s carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Drow_Ranger_minimap_icon.png" width="20" style="vertical-align: middle;">  engages confidently and secures the kills.
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
+
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Emoticon_dac15_face.gif" width="36" style="vertical-align: middle;"> Use Extreme Mobility to Control the Map
+
+Once Ember Spirit acquires Aghanim’s Scepter <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png" width="20" style="vertical-align: middle;">, his mobility reaches an entirely new level—and that mobility can be directly converted into map control, especially when Ember is ahead in gold and XP.
+
+With long-distance Fire Remnant mobility <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">, Ember can instantly join skirmishes that are far too distant for most heroes to reach in time. When teammates take small fights across the map, Ember’s ability to appear immediately often turns those engagements in the team’s favor.
+
+**This constant presence effectively allows the team to contest more areas of the map at once**, translating into additional gold, XP, and momentum. As these small fights are won, enemy movement becomes increasingly restricted, while Ember’s teammates grow stronger and more confident.
+
+Over time, this compression of enemy space—combined with a farmed and coordinated team—dramatically increases the likelihood of closing out the game.
+
+
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+  🎮 Demo: Long-Distance Remnant Rotation to Secure the Kill
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/lategame_quick_support_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+  Using Fire Remnant’s long-range mobility, Ember Spirit crosses half the map to support a teammate already in a fight. By cutting off the enemy mid laner <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Storm_Spirit_minimap_icon.png" width="20" style="vertical-align: middle;"> ’s escape and holding pressure until reinforcements arrive, Ember helps secure the kill on a heavily farmed core.
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
+
+
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ce/Emoticon_aaaah.gif" width="36" style="vertical-align: middle;"> Apply or Relieve Lane Pressure
+
+Fire Remnant <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;"> allows Ember Spirit to effectively **exist in two places at once**. While Ember is physically present in one area, he can instantly return to a second location by activating a pre-placed Remnant. This unique property makes Ember exceptionally strong at both **applying lane pressure** and **relieving** it.
+
+### 1️⃣ Apply Lane Pressure
+
+By pushing lanes deep, Ember forces the enemy team to respond. When enemies TP to defend, Ember can safely disengage to a pre-placed Remnant.
+
+The real value comes from what happens next. Once enemies commit TPs, they are temporarily removed from the map. Ember and his teammates can **immediately pressure the opposite side**, creating a numbers advantage. Even if a straight 5-on-5 fight is unfavorable, turning it into a 5-on-3 or 5-on-4 often makes the fight winnable.
+
+This **“bait TPs, then strike elsewhere**” pattern is especially powerful when your team is behind and cannot win a full engagement head-on.
+
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+  🎮 Demo: Applying Lane Pressure to Create a 5v3 Fight
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/lategame_push_lane_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+  Ember Spirit pushes a side lane deep, forcing two enemy heroes  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Terrorblade_minimap_icon.png" width="20" style="vertical-align: middle;">  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Legion_Commander_minimap_icon.png" width="20" style="vertical-align: middle;">  to commit their TPs. He then immediately regroups with his team and pressures mid, turning the fight into a favorable 5v3. By the time the TPed enemies arrive, their teammates have already been eliminated—leaving them isolated and easy to clean up.
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
+
+
+### 2️⃣ Mitigate Lane Pressure
+
+The reverse scenario is just as important. While Ember’s team is grouped to attack—pushing Tier-2 towers or high ground—the enemy may attempt to apply pressure on a different lane to slow the push.
+
+If multiple teammates TP back to defend, they may be unable to rejoin the fight in time. Ember solves this problem cleanly. He can push or clear the threatening lane, then immediately return to the main objective using Fire Remnant—allowing the team to maintain pressure without losing numbers.
+
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+  🎮 Demo: Relieving Side-Lane Pressure During a Team Push
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/lategame_defend_while_attack_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+  While the team commits to a high-ground push, Ember Spirit clears a threatening side lane and escapes an enemy ambush. Using Fire Remnant, he then safely returns to the main fight—allowing the team to maintain pressure.
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Emoticon_stunned.gif" width="36" style="vertical-align: middle;"> Act as a Disabler and Protector
+
+In the late game, Ember Spirit can also function as a powerful **disabler**, helping control enemy heroes and protect teammates. This role comes from two key mechanics:
+* **Long-range rooting with Searing Chains**
+With the Chain Gang Facet, Ember can apply Searing Chains <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Searing_Chains_icon.png" width="20" style="vertical-align: middle;"> around Fire Remnants <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Fire_Remnant_icon.png" width="20" style="vertical-align: middle;">. Combined with Aghanim’s Scepter <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png" width="20" style="vertical-align: middle;">, this allows Ember to root enemies from long range—especially effective when opponents try to chase or initiate onto your teammates.
+* **Preventing Blink-based initiations**
+With Aghanim’s Shard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Aghanim%27s_Shard_-_Roshan_icon.png" width="20" style="vertical-align: middle;">, Fire Remnant deals magical damage to nearby enemies. Ember can use this to continuously break Blink Dagger <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Blink_Dagger_icon.png" width="20" style="vertical-align: middle;">, shutting down initiators that rely on Blink—such as Axe <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Axe_minimap_icon.png" width="20" style="vertical-align: middle;"> and Magnus <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Magnus_minimap_icon.png" width="20" style="vertical-align: middle;">.
+By placing Remnants along common approach paths, Ember can deny clean initiations before they even begin.
+
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+  🎮 Demo: Long-Range Rooting to Burn Enemy Core Ultimates
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/lategame_chain_disabler_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+  Ember Spirit uses long-range Searing Chains <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Searing_Chains_icon.png" width="20" style="vertical-align: middle;"> to halt enemies as they chase his teammates, forcing a core to commit their ultimate with no payoff. Once the ultimate is wasted, Ember re-engages with his team and closes out the game.
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
+
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Emoticon_headshot.gif" width="36" style="vertical-align: middle;"> Prioritize the Enemy Backline
+
+In the late game, Ember Spirit’s damage becomes less reliable against fully itemized cores that can dispel or dodge his spells when the items are ready. However, Ember remains highly lethal to enemy supports, who typically have fewer defensive items and lower survivability.
+
+Look for opportunities to **pick off the backline whenever possible**. Eliminating supports creates immediate value: it protects your team during key objectives such as high-ground pushes or core-focused fights, and **it disrupts the enemy’s overall tempo**. Supports are often responsible for vision control, warding, and smoking—removing one or two of them can significantly delay coordinated enemy movements and map plays.
+By consistently threatening enemy supports, Ember forces the opposing team to play cautiously and gives your teammates more space and preparation time for the next engagement.
+
+<div style="
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+">
+  <div style="
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+  ">
+  🎮 Demo: Late-Game Backline Pickoff: Removing the Enemy Support <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Crystal_Maiden_minimap_icon.png" width="20" style="vertical-align: middle;">
+  </div>
+  <div style="text-align:center">
+    <video controls style="max-width:100%; height:auto; border-radius:6px">
+      <source src="https://github.com/A-Dying-Pig/YiranLei.github.io/releases/download/dota2-mid%2Flategame-clip/lategame_backline2_1080p.mp4" type="video/mp4"> 
+    </video>
+  </div>
+  With full items online, Ember Spirit dives deep to eliminate the enemy support <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Crystal_Maiden_minimap_icon.png" width="20" style="vertical-align: middle;">, forcing a death timer of over 100 seconds. This long absence creates a decisive window, making the following fight heavily favorable for Ember’s team.  
+  <div style="
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  ">
+  </div>
+</div>
+
+
+
+**Key takeaway for the late game**
+> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Think in rounds, not all-ins, and **enable the team** to win the game.
+
+
+<a id="notes_link"></a>
+# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Emoticon_earth_grin.gif" width="36" style="vertical-align: middle;">  Additional Notes & Context
 
 * Written for Dota 2 patch 7.40
 
@@ -1028,4 +1365,5 @@ And that persistence is often what wins fights.
 
 * Below are my personal Ember Spirit career stats for reference
 
-<img src=stats.jpg width="50%">
+<img src="/assets/Dota2/stats.jpg" width="50%">
+<script data-goatcounter="https://yiranleidota2blog.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
