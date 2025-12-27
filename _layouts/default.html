@@ -66,7 +66,7 @@
           {{ content }}
           <a class="geostats_button" onclick='geostats_click()'>Page Visits</a>
           <div class="geostats" style="display:none">
-            <div>Visitor#: <span id="vistor_stats"></span> since Dec.26 2025</div>
+            <div class="visit_number_stats">Visit#: <span id="vistor_stats"></span> since Dec.26 2025</div>
             <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=Hpt1jDuMbmsrCTIAzl-l8fpjRqP0DsXoAB_3sAzKqAA&co=87cefa" />
           </div>
         </article>
@@ -103,6 +103,22 @@
 <script src="https://unpkg.com/element-ui/lib/index.js"></script>
   
   <script>  
+      // vistor counter
+      let r = new XMLHttpRequest();
+      r.addEventListener('load', function() {
+          document.querySelector('#vistor_stats').innerText = JSON.parse(this.responseText).count
+      })
+      // Should be exact (encoded) path as it appears in the UI. This uses
+      // GoatCounter's count.js
+      let path = window.goatcounter.get_data()['p']
+  
+      // Or alternatively, do it manually. Will return HTTP status 404 if the
+      // path is not found).
+      //let path = location.pathname
+  
+      r.open('GET', 'https://yiranlei.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+      r.send()
+    
       // console.log(window.location.pathname)
       if (window.location.pathname === '/'){
         document.querySelector("h1.title").innerHTML = ""
@@ -159,22 +175,6 @@
           $('div.geostats').toggle('fast')
           document.querySelector("a.geostats_button").innerHTML = "Hide"
           geostats_state = 1
-          
-          // vistor counter
-          let r = new XMLHttpRequest();
-          r.addEventListener('load', function() {
-              document.querySelector('#vistor_stats').innerText = JSON.parse(this.responseText).count
-          })
-          // Should be exact (encoded) path as it appears in the UI. This uses
-          // GoatCounter's count.js
-          let path = window.goatcounter.get_data()['p']
-      
-          // Or alternatively, do it manually. Will return HTTP status 404 if the
-          // path is not found).
-          //let path = location.pathname
-      
-          r.open('GET', 'https://yiranlei.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
-          r.send()
         }
     }
     
