@@ -64,8 +64,7 @@
       <div id="main" role="main">
         <article class="markdown-body">
           {{ content }}
-          Visitor#: <span data-goatcounter-count="https://yiranlei.goatcounter.com">—</span> since Dec.26 2025.
-          <a class="geostats_button" onclick='geostats_click()'>Visitor Geolocation</a>
+          <a class="geostats_button" onclick='geostats_click()'>Page Visits</a>
           <div class="geostats" style="display:none">
             <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=Hpt1jDuMbmsrCTIAzl-l8fpjRqP0DsXoAB_3sAzKqAA&co=87cefa" />
           </div>
@@ -159,6 +158,7 @@
           $('div.geostats').toggle('fast')
           document.querySelector("a.geostats_button").innerHTML = "Hide"
           geostats_state = 1
+          window.goatcounter.visit_count({append: 'div.geostats'})
         }
     }
     
