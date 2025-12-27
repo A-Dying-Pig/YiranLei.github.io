@@ -38,8 +38,6 @@ Before we go deep into mechanics and decisions, let’s start with why Ember fee
   </div>
 </div>
 
-👀 Views: <span data-goatcounter-count="path">—</span>
-
 # <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_ember_angry.gif" width="36" style="vertical-align: middle;"> Why Ember Spirit Is Special (and Why I Keep Coming Back)
 
 Ember Spirit isn’t just a hero you play — he’s a way of thinking.
@@ -168,10 +166,7 @@ Each section is paired with **short, focused video clips**—not to flex, but to
 
 
 **Roadmap**:
-* [Play mindset at different stages of the game](#play_mindset_link)
-  * [Early game](#laning_phase_link)
-  * [Mid game](#mid_game_link)
-  * [Late game](#late_game_link) 
+* [Play mindset at different stages of the game](#play_mindset_link) ([1. Early game](#laning_phase_link), [2. Mid game](#mid_game_link), [3. Late game](#late_game_link))
 * Skill and item builds
 * Matchups: heroes Ember excels against (and struggles against)
 * [Additional notes & context](#notes_link)
@@ -1363,7 +1358,8 @@ By consistently threatening enemy supports, Ember forces the opposing team to pl
 * Clips from Divine / Immortal ranked games
 (some footage may be from 7.38–7.39)
 
+* I want to express my deepest gratitude to my partner, whose thoughtful reading and constant encouragement made this blog possible.
+
 * Below are my personal Ember Spirit career stats for reference
 
 <img src="/assets/Dota2/stats.jpg" width="50%">
-<script data-goatcounter="https://yiranleidota2blog.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
