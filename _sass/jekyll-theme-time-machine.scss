@@ -1,6 +1,14 @@
 @import "normalize";
 
 /* Style */
+div.visit_number_stats {
+  font-family: monospace, courier new;
+  font-size: 12px;
+}
+
+span#vistor_stats {
+  background-color: lawngreen;
+}
 
 body {
   font-size: 15px;
