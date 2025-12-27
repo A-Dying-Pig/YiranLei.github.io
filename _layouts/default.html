@@ -147,22 +147,6 @@
           switch_state = 1;
         }
       }
-
-    // vistor counter
-    let r = new XMLHttpRequest();
-    r.addEventListener('load', function() {
-        document.querySelector('#vistor_stats').innerText = JSON.parse(this.responseText).count
-    })
-    // Should be exact (encoded) path as it appears in the UI. This uses
-    // GoatCounter's count.js
-    let path = window.goatcounter.get_data()['p']
-
-    // Or alternatively, do it manually. Will return HTTP status 404 if the
-    // path is not found).
-    //let path = location.pathname
-
-    r.open('GET', 'https://yiranlei.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
-    r.send()
     
     var geostats_state = 0
     
@@ -175,6 +159,21 @@
           $('div.geostats').toggle('fast')
           document.querySelector("a.geostats_button").innerHTML = "Hide"
           geostats_state = 1
+          // vistor counter
+          let r = new XMLHttpRequest();
+          r.addEventListener('load', function() {
+              document.querySelector('#vistor_stats').innerText = JSON.parse(this.responseText).count
+          })
+          // Should be exact (encoded) path as it appears in the UI. This uses
+          // GoatCounter's count.js
+          let path = window.goatcounter.get_data()['p']
+      
+          // Or alternatively, do it manually. Will return HTTP status 404 if the
+          // path is not found).
+          //let path = location.pathname
+      
+          r.open('GET', 'https://yiranlei.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+          r.send()
         }
     }
     
