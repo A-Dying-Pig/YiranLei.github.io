@@ -66,6 +66,7 @@
           {{ content }}
           <a class="geostats_button" onclick='geostats_click()'>Page Visits</a>
           <div class="geostats" style="display:none">
+            <div>Visitor#: <span id="vistor_stats"></span> since Dec.26 2025</div>
             <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=Hpt1jDuMbmsrCTIAzl-l8fpjRqP0DsXoAB_3sAzKqAA&co=87cefa" />
           </div>
         </article>
@@ -158,7 +159,22 @@
           $('div.geostats').toggle('fast')
           document.querySelector("a.geostats_button").innerHTML = "Hide"
           geostats_state = 1
-          window.goatcounter.visit_count({append: 'div.geostats'})
+          
+          // vistor counter
+          let r = new XMLHttpRequest();
+          r.addEventListener('load', function() {
+              document.querySelector('#vistor_stats').innerText = JSON.parse(this.responseText).count
+          })
+          // Should be exact (encoded) path as it appears in the UI. This uses
+          // GoatCounter's count.js
+          let path = window.goatcounter.get_data()['p']
+      
+          // Or alternatively, do it manually. Will return HTTP status 404 if the
+          // path is not found).
+          //let path = location.pathname
+      
+          r.open('GET', 'https://yiranlei.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+          r.send()
         }
     }
     
