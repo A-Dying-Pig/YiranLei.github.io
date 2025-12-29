@@ -1,6 +1,9 @@
 <br>
 # <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_fire_bc.gif" width="36" style="vertical-align: middle;"> How to Strike Like Fire in Dota 2
 
+<button id="like_btn"> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Emoticon_luna_love.gif" width="24" style="vertical-align: middle;"> likes: <strong id="like_count">-</strong></button>
+
+
 If you want to be the fire — the kind that appears from nowhere, burns everything, and disappears before anyone can touch it — Ember Spirit is the hero you’re looking for.
 
 <img src="/assets/Dota2/Cosmetic_icon_Rekindled_Ashes.webp" width="360" style="vertical-align: middle;">
@@ -44,6 +47,7 @@ Ember Spirit isn’t just a hero you play — he’s a way of thinking.
 * In the **early game**, you are a **frontline general**: tanky, aggressive, absorbing pressure while dealing explosive damage with high-level spells.
 * In the **mid game**, you evolve into a **tactical leader**. You’re no longer unkillable, but you control fights through timing, positioning, and coordination—entering at the right moment to finish what your team starts.
 * In the **late game**, you become a **strategic operator**. Your value shifts away from raw damage toward backline pressure, vision, disruption, and enabling your team to win fights that would otherwise be impossible.
+
 Ember’s role is always changing. If you don’t adapt with it, even a game full of kills can still slip away.
 
 What truly sets Ember Spirit apart is that **player skill matters more than almost any other hero**.
@@ -541,6 +545,7 @@ Once **Flame Guard** <img src="https://static.wikia.nocookie.net/dota2_gamepedia
 * Quickly clear midlane waves
 * Farm jungle camps with minimal HP loss
 * Chain lane and jungle together if with vision
+
 When gank opportunities are low, **don’t force fights**. Instead, convert **Flame Guard uptime** into consistent gold and XP.
 
 **Core Pattern**: Lane → Jungle
@@ -854,7 +859,7 @@ At times, the correct play **isn’t to kill—but to distract**. Ember can fly 
     </video>
   </div>
   
-  Ember Spirit draws the attention of the enemy carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png" width="20" style="vertical-align: middle;"> and mid laner <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Void_Spirit_minimap_icon.png" width="20" style="vertical-align: middle;"> for several seconds, preventing them from contributing to the fight. During this window, Ember’s teammates eliminate the enemy supports <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Tiny_minimap_icon.png" width="20" style="vertical-align: middle;"> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Witch_Doctor_minimap_icon.png" width="20" style="vertical-align: middle;">. With the support gone, Ember re-joins the team to finish off the enemy carry twice, even through an Aegis of the Immortal <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Aegis_of_the_Immortal_icon.png" width="20" style="vertical-align: middle;">.
+  Ember Spirit draws the attention of the enemy carry <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png" width="20" style="vertical-align: middle;"> and mid laner <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Void_Spirit_minimap_icon.png" width="20" style="vertical-align: middle;"> for several seconds, preventing them from contributing to the fight. During this window, Ember’s teammates eliminate the enemy supports <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Tiny_minimap_icon.png" width="20" style="vertical-align: middle;"> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Witch_Doctor_minimap_icon.png" width="20" style="vertical-align: middle;">. With the support gone, Ember re-joins the team to finish off the enemy carry twice, even through an Aegis of Immortal <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Aegis_of_the_Immortal_icon.png" width="20" style="vertical-align: middle;">.
   <div style="
     margin-top: 0.5em;
     font-size: 0.9em;
@@ -1346,6 +1351,11 @@ By consistently threatening enemy supports, Ember forces the opposing team to pl
 
 **Key takeaway for the late game**
 > <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Think in rounds, not all-ins, and **enable the team** to win the game.
+
+
+
+# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Emoticon_dagon.gif" width="36" style="vertical-align: middle;"> Skill and Item Builds
+
 
 
 <a id="notes_link"></a>
