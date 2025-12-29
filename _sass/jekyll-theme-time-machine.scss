@@ -1,6 +1,18 @@
 @import "normalize";
 
 /* Style */
+button#return_btn{
+    font-family: monospace, courier new;
+    font-size: 14px;
+    border: none; 
+    background: none; 
+    color: lightgrey;
+}
+
+button#return_btn:hover {
+    text-decoration: underline;
+    color: white;
+}
 
 button#like_btn {
     font-family: monospace, courier new;
