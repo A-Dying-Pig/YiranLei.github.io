@@ -1,6 +1,24 @@
 @import "normalize";
 
 /* Style */
+
+button#like_btn {
+    font-family: monospace, courier new;
+    font-size: 12px;
+}
+button#like_btn:disabled {
+  background: #f3e8ff;          /* soft lavender */
+  border-color: #c4b5fd;
+  color: #6b21a8;               /* muted purple */
+  cursor: not-allowed;
+  opacity: 0.85;                /* NOT greyed out */
+}
+
+button#like_btn:disabled img {
+  filter: saturate(70%);
+  opacity: 0.85;
+}
+
 div.visit_number_stats {
   font-family: monospace, courier new;
   font-size: 12px;
