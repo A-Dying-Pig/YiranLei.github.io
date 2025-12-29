@@ -60,8 +60,10 @@
           <a href="mailto:yiranlei@cs.cmu.edu"><i class="far fa-envelope"></i></a> yiranlei<i class="fas fa-at"></i>cs.cmu.edu &nbsp <a href="https://github.com/A-Dying-Pig"><i class="fab fa-github"></i></a> &nbsp <a href="./assets/CV_YiranLei.pdf">CV</a>
 <!--           &nbsp <a href="/calendar"><i class="fas fa-calendar"></i></a> -->
         </div>
-
       </div>
+      <div id="div_return_btn"> 
+          <button id="return_btn" onclick="location.href='/'" style="font-family: monospace, courier new; font-size: 12px;"> ⬅ Back </button>
+      <div>
       <div id="main" role="main">
         <article class="markdown-body">
           {{ content }}
@@ -108,15 +110,18 @@
       if (window.location.pathname === '/'){
         document.querySelector("h1.title").innerHTML = ""
         document.querySelector("div.tagline").style.display = "flex"
+        document.querySelector("div#div_return_btn").style.display = "none"
       }else if (window.location.pathname === '/calendar'){
         document.querySelector("h1.title").innerHTML = "Yiran's Calendar"
         document.querySelector("div.tagline").style.display = "none"
         document.querySelector("a.geostats_button").style.display = "none"
+        document.querySelector("div#div_return_btn").style.display = "flex"
       }else{
         //blogs
         document.querySelector("h1.title").innerHTML = "Yiran's Blog"
         document.querySelector("div.tagline").style.display = "none"
         document.querySelector("a.geostats_button").style.display = "none"
+        document.querySelector("div#div_return_btn").style.display = "flex"
       }
     
       var news_visible_num = 3
