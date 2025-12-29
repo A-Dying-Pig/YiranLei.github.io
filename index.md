@@ -139,6 +139,7 @@ To appear in NSDI 2026 <br />
 * *The Principle of Computer Network*, 2021 Fall, Department of Computer Science and Technology, Tsinghua University
 
 # Blogs
+* How to [play Ember Spirit](/dota2_ember_spirit) in Dota2 <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/79/Emoticon_wiz_bringit.gif" width="20" style="vertical-align: middle;">? (Still in progress)
 * A [tutorial](/P4_Installation_Tutorial) to install P4 and its dependencies step by step.
 * A [tutorial](/DPDK_Installation_Tutorial) to install DPDK and DPDK-Pktgen, highlighting steps that need extra attention.
 * Ph.D. application [tips](/phd_application_advice).
