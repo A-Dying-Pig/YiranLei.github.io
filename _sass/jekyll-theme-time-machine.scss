@@ -1,6 +1,25 @@
 @import "normalize";
 
 /* Style */
+.mermaid-scroll {
+  width: 100%;                 /* responsive */
+  max-width: 100vw;            /* never overflow viewport */
+  overflow-x: auto;
+  overflow-y: hidden;
+
+  /* mobile UX */
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-x pan-y;
+
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+/* IMPORTANT: let the SVG be as wide as it wants */
+.mermaid-scroll svg {
+  min-width: max-content;
+}
+
 button#return_btn{
     font-family: monospace, courier new;
     font-size: 14px;
