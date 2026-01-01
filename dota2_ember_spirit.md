@@ -1367,10 +1367,10 @@ With these principles in mind, this section first introduces **three common item
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Emoticon_heart.gif" width="36" style="vertical-align: middle;"> Most Common Item Builds
 
 The following builds strike a balance between survivability, mana sustain, and damage across all stages of the game.
-The full item build sequence is shown below (scroll to view the entire chart).
+The full item build sequence is shown below (**scroll** to view the entire chart).
 
 <div class="mermaid-scroll">
-<div class="mermaid" style="width: 1000px;">
+<div class="mermaid" style="width: 800px;">
 %%{init: {
   "theme": "dark",
   "themeVariables": {
@@ -1529,17 +1529,151 @@ In some games, Ember should prioritize **utility over damage**:
 
 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Emoticon_zipper.gif" width="36" style="vertical-align: middle;"> Item Builds Under Pressure
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Emoticon_zipper.gif" width="36" style="vertical-align: middle;"> Item Builds Under Heavy Pressure
+
+When facing heavy pressure—such as enemy drafts with multiple stuns, silences, or strong catch—Ember Spirit must adapt his itemization to **preserve momentum and survivability**. This is especially important when Ember is expected to stand forward in mid-game fights to absorb spells and create space for the team.
+
+In these scenarios, the early–mid game items **remain the same as the standard builds**, since Ember still needs early impact. 
+However, **the next major item should prioritize survivability**.
+The item sequence is shown as below (scroll):
+<div class="mermaid-scroll">
+<div class="mermaid" style="width: 1000px;">
+%%{init: {
+  "theme": "dark",
+  "themeVariables": {
+  }
+}}%%
+    flowchart LR
+    %% Left: starting items
+
+    I1[123] ---> O1
+    O1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png"> Phase <br> Boots</div>] ---> O3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png"> Spirit <br> Vessel</div>]
+
+    I2 ---> P1
+    P1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png"> Phase <br> Boots</div>] ---> P2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Mage_Slayer_icon.png"> Mage <br> Slayer</div>]
+
+    I3 ---> Q1
+    Q1[<div style="width: 30px; font-size: 8px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Power_Treads_icon.png"> Power <br>Threads</div>] ---> Q2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Blade_Mail_icon.png"> Blade <br> Mail</div>]
+
+    O3 ---> C0
+    P2 ---> C0
+    Q2 ---> C0
+
+    C0 ---> C1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Aghanim%27s_Shard_-_Roshan_icon.png"> Shard</div>]
+    C1 ---> C2
+    C0 ---> C2
+    C2 ---> D3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Eul%27s_Scepter_of_Divinity_icon.png"> Eul</div>]
+    C2 ---> D0[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png"> BKB</div>]
+    C2 ---> D1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Linken%27s_Sphere_icon.png"> Linken</div>]
+    C2 ---> D2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png"> Manta</div>]
+
+    D0 ---> E0
+    D1 ---> E0
+    D2 ---> E0
+    D3 ---> E0
+
+    E0 ---> E1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png"> Scepter</div>]
+    E1 ---> E2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Shiva%27s_Guard_icon.png"> Shiva's <br> Guard</div>]
+
+    E0 ---> E3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Shiva%27s_Guard_icon.png"> Shiva's <br> Guard</div>]
+    E3 ---> E4[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png"> Scepter</div>]
+
+    E2 ---> E5
+    E4 ---> E5
+    E5 ---> E6
+
+    E6[" "]:::hidden
+    E5[" "]:::hidden
+    E0[" "]:::hidden
+    I1[" "]:::hidden
+    I2[" "]:::hidden
+    I3[" "]:::hidden
+    C0[" "]:::hidden
+    C2[" "]:::hidden
+    classDef hidden fill:none,stroke:none;
+</div>
+</div>
+
+Defensive Item Choices:
+* **Black King Bar**  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png" width="20" style="vertical-align: middle;">
+Best against lineups with multiple stuns or chain disables (e.g., Earthshaker, Lion, Chaos Knight). BKB allows Ember to continue fighting and repositioning without being instantly locked down.
+
+* **Linken’s Sphere**  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Linken%27s_Sphere_icon.png" width="20" style="vertical-align: middle;">
+Effective against single-target, high-impact control spells such as Legion Commander’s Duel or similar point-click disables.
+
+* **Manta Style  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png" width="20" style="vertical-align: middle;"> or Eul’s Scepter  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Eul%27s_Scepter_of_Divinity_icon.png" width="20" style="vertical-align: middle;">** 
+Ideal against heavy silence or debuff-based lineups (e.g., Skywrath Mage, Silencer, Orchid carriers, Disruptor, or heroes like Kunkka and Slardar).
+
+In most cases, Manta Style is preferred over Eul’s:
+* Provides HP, mana, and damage
+* Scales better into the late game
+
+However, Eul’s Scepter has unique value:
+* Cheaper and faster to build
+* Grants brief invulnerability
+* Especially useful against specific heroes such as Puck or Kunkka
+
+Choose based on enemy composition, available gold, and your role in upcoming fights.
+
+The following items largely follow the same mid-to-late game progression outlined earlier.
 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Emoticon_kiss2.gif" width="36" style="vertical-align: middle;"> Item Builds With Late-Game Damage
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Emoticon_kiss2.gif" width="36" style="vertical-align: middle;"> Late-Game Damage–Focused Item Builds
+If you want to take on a larger share of the team’s damage output, this build path, shown as follows, prioritizes **maximum late-game damage**, trading some mobility and mana efficiency for raw impact. 
+
+<div class="mermaid-scroll">
+<div class="mermaid" style="width: 1000px;">
+%%{init: {
+  "theme": "dark",
+  "themeVariables": {
+  }
+}}%%
+    flowchart LR
+    %% Left: starting items
+
+    I1 ---> O1
+    O1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png"> Phase <br> Boots</div>] ---> O3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png"> Spirit <br> Vessel</div>]
+
+    I2 ---> P1
+    P1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png"> Phase <br> Boots</div>] ---> P2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Mage_Slayer_icon.png"> Mage <br> Slayer</div>]
+
+    I3 ---> Q1
+    Q1[<div style="width: 30px; font-size: 8px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Power_Treads_icon.png"> Power <br>Threads</div>] ---> Q2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Blade_Mail_icon.png"> Blade <br> Mail</div>]
+
+    O3 ---> C0[<div style="width: 30px; font-size: 7.5px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Radiance_%28Active%29_icon.png"> Radiance</div>]
+    P2 ---> C0
+    Q2 ---> C0
+
+    C0 ---> C1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png"> BKB</div>]
+
+    C1 ---> C2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Shiva%27s_Guard_icon.png"> Shiva's <br> Guard</div>]
+
+    C2 ---> C3
+    C1 ---> C3
+
+    C3 ---> A2[<div style="width: 30px; font-size: 7px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Daedalus_icon.png"> Daedalus</div>]
+    C3 ---> A3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Monkey_King_Bar_icon.png"> MKB</div>]
+    C3 ---> A4[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Mjollnir_icon.png"> Mjollnir</div>]
+    C3 ---> A6[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Divine_Rapier_icon.png"> Divine <br> Rapier</div>]
+
+    C3[" "]:::hidden
+    I1[" "]:::hidden
+    I2[" "]:::hidden
+    I3[" "]:::hidden
+    classDef hidden fill:none,stroke:none;
+</div>
+</div>
+
+The early–mid game items **remain the same as the standard builds**. Ember still needs an inexpensive early item to secure lane influence, win early skirmishes, and create enough space to farm his first major damage item—Radiance <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Radiance_%28Active%29_icon.png" width="20" style="vertical-align: middle;">.
+
+Radiance should be built as your **second major item**, not rushed first. Your initial item should enhance Ember’s spell-based strengths—tankiness, mana, and early pressure—so you can build a resource advantage and farm Radiance faster and more safely. Rushing Radiance too early sacrifices survivability and spell impact, and slows your timing due to Ember’s weaker early farming speed.
+
+A key power spike comes from completing **Black King Bar** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png" width="20" style="vertical-align: middle;"> shortly after Radiance. With BKB active, Ember can confidently enter the center of fights, dealing sustained AoE damage through Radiance while freely casting his spells.
+
+From there, Shiva’s Guard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Shiva%27s_Guard_icon.png" width="20" style="vertical-align: middle;"> further amplifies Ember’s teamfight presence—adding survivability against physical damage, burst through Arctic Blast, and utility via vision and slow. If the enemy lineup lacks significant physical damage, **Shiva’s Guard can be skipped** in favor of additional damage items such as Daedalus  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Daedalus_icon.png" width="20" style="vertical-align: middle;"> or Monkey King Bar <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Monkey_King_Bar_icon.png" width="20" style="vertical-align: middle;">.
 
 
-
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Emoticon_dizzy.gif" width="36" style="vertical-align: middle;"> Item FAQ
-
-
-
+##  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Emoticon_lick.gif" width="36" style="vertical-align: middle;"> Ability and Talent Builds
 
 <a id="notes_link"></a>
 # <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Emoticon_earth_grin.gif" width="36" style="vertical-align: middle;">  Additional Notes & Context
