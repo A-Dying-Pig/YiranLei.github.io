@@ -1367,8 +1367,9 @@ With these principles in mind, this section first introduces **three common item
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Emoticon_heart.gif" width="36" style="vertical-align: middle;"> Most Common Item Builds
 
 The following builds strike a balance between survivability, mana sustain, and damage across all stages of the game.
-The build sequence is shown as follows:
+The full item build sequence is shown below (scroll to view the entire chart).
 
+<div class="mermaid-scroll">
 <div class="mermaid" style="width: 1000px;">
 %%{init: {
   "theme": "dark",
@@ -1435,7 +1436,7 @@ The build sequence is shown as follows:
     B0[" "]:::hidden
     classDef hidden fill:none,stroke:none;
 </div>
-
+</div>
 ### Early Game (Mostly Fixed)
 
 Ember’s early-game items are largely standardized:
@@ -1519,7 +1520,7 @@ To scale damage further:
 
 
 In some games, Ember should prioritize **utility over damage**:
-* **Scythe of Vyse** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Scythe_of_Vyse_icon.png" width="20" style="vertical-align: middle;"> or **Nullifier** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Nullifier_icon.png" width="20" style="vertical-align: middle;">can be game-winning when the team needs control rather than raw DPS.
+* **Scythe of Vyse** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Scythe_of_Vyse_icon.png" width="20" style="vertical-align: middle;"> or **Nullifier** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Nullifier_icon.png" width="20" style="vertical-align: middle;"> can be game-winning when the team needs control rather than raw DPS.
 
 
 ### Final Pieces
