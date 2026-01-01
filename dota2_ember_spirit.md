@@ -171,7 +171,7 @@ Each section is paired with **short, focused video clips**—not to flex, but to
 
 **Roadmap**:
 * [Play mindset at different stages of the game](#play_mindset_link) ([1. Early game](#laning_phase_link), [2. Mid game](#mid_game_link), [3. Late game](#late_game_link))
-* Skill and item builds
+* [Ability and item builds](#builds_link)
 * Matchups: heroes Ember excels against (and struggles against)
 * [Additional notes & context](#notes_link)
 
@@ -1353,8 +1353,190 @@ By consistently threatening enemy supports, Ember forces the opposing team to pl
 > <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Think in rounds, not all-ins, and **enable the team** to win the game.
 
 
+<a id="builds_link"></a>
+# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Emoticon_dagon.gif" width="36" style="vertical-align: middle;"> Ability and Item Builds
 
-# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Emoticon_dagon.gif" width="36" style="vertical-align: middle;"> Skill and Item Builds
+Ability and item builds are critical to maximizing Ember Spirit’s impact throughout the game. In general, Ember’s itemization focuses on three core attributes:
+* **Tankiness** – Allows Ember to absorb damage and tolerate small mistakes. As long as Ember survives until stuns expire, he can escape with Sleight of Fist and Fire Remnant. Higher HP makes it much harder for enemies to burst him down at the start of fights.
+* **Mana** – Ember has four low-cooldown active abilities that consume large amounts of mana. As an Agility hero, he has poor base mana and growth, making mana sustain essential.
+* **Damage** – Ability damage alone does not scale well into the mid and late game. Ember relies on items to amplify and extend his damage output as the game progresses.
+
+With these principles in mind, this section first introduces **three common item paths**, followed by **ability and talent builds**.
+
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Emoticon_heart.gif" width="36" style="vertical-align: middle;"> Most Common Item Builds
+
+The following builds strike a balance between survivability, mana sustain, and damage across all stages of the game.
+The build sequence is shown as follows:
+
+<div class="mermaid" style="width: 1000px;">
+%%{init: {
+  "theme": "dark",
+  "themeVariables": {
+  }
+}}%%
+    flowchart LR
+    %% Left: starting items
+    S1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Tango_icon.png"> Tango</div>] --> M0[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Bottle_%28Full%29_icon.png"> Bottle</div>]
+    S2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a3/Iron_Branch_icon.png"> Branch</div>] --> M0
+    S3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Faerie_Fire_icon.png"> Faerie <br> Fire</div>] --> M0
+    M0 ---> M1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Magic_Wand_icon.png"> Magic <br> Wand</div>]
+    M1 ---> M2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Blight_Stone_icon.png"> Blight <br> Stone</div>]
+    M2 ---> M3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Boots_of_Speed_icon.png"> Boot</div>]
+    M1 ---> M3
+
+
+    M3 ---> O1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png"> Phase <br> Boots</div>]
+    O1 ---> O3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png"> Spirit <br> Vessel</div>]
+
+    M3 ---> P1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png"> Phase <br> Boots</div>]
+    P1 ---> P2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Mage_Slayer_icon.png"> Mage <br> Slayer</div>]
+
+    M3 ---> Q1[<div style="width: 30px; font-size: 8px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Power_Treads_icon.png"> Power <br>Threads</div>]
+    Q1 ---> Q2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Blade_Mail_icon.png"> Blade <br> Mail</div>]
+
+    O3 ---> C0[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Aghanim%27s_Shard_-_Roshan_icon.png"> Shard</div>]
+    P2 ---> C0
+    Q2 ---> C0
+
+    C0 ---> C1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png"> Scepter</div>]
+    C1 ---> C2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Shiva%27s_Guard_icon.png"> Shiva's <br> Guard</div>]
+
+    C2 --->D0[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png"> BKB</div>]
+    C2 --->D1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Linken%27s_Sphere_icon.png"> Linken</div>]
+    C2 --->D2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png"> Manta</div>]
+
+
+    C2 ---> A0
+    D0 ---> A0
+    D1 ---> A0
+    D2 ---> A0
+
+    A0 ---> A1[<div style="width: 30px; font-size: 7.5px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Radiance_%28Active%29_icon.png"> Radiance</div>]
+    A0 ---> A2[<div style="width: 30px; font-size: 7px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Daedalus_icon.png"> Daedalus</div>]
+    A0 ---> A3[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Monkey_King_Bar_icon.png"> MKB</div>]
+    A0 ---> A4[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Mjollnir_icon.png"> Mjollnir</div>]
+    A0 ---> A5[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Scythe_of_Vyse_icon.png"> Vyse</div>]
+    A0 ---> A6[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Divine_Rapier_icon.png"> Divine <br> Rapier</div>]
+    
+    A1 ---> B0 
+    A2 ---> B0
+    A3 ---> B0
+    A4 ---> B0
+    A5 ---> B0
+    A6 ---> B0
+    B0 ---> A0
+
+    B0 ---> B1[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Boots_of_Travel_1_icon.png"> Boots <br> Travel</div>]
+    B0 ---> B2[<div style="width: 30px; font-size: 9px;"><img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Refresher_Orb_icon.png"> Refresh</div>]
+
+
+    A0[" "]:::hidden
+    B0[" "]:::hidden
+    classDef hidden fill:none,stroke:none;
+</div>
+
+### Early Game (Mostly Fixed)
+
+Ember’s early-game items are largely standardized:
+* **Bottle** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Bottle_%28Full%29_icon.png" width="24" style="vertical-align: middle;">, **Magic Wand** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Magic_Wand_icon.png" width="24" style="vertical-align: middle;">, and **Boots** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Boots_of_Speed_icon.png" width="24" style="vertical-align: middle;">
+* These provide rune control and—most importantly—mana regeneration, enabling Ember to cast spells frequently and maintain early-game pressure.
+
+Neutral items should generally reinforce these same attributes: survivability, mana, or damage.
+
+### Early–Mid Game Item Sets (Choose One)
+
+After the basic setup, Ember should commit to **one** of the following early–mid game item paths, depending on the enemy draft:
+
+* **Phase Boots <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png" width="24" style="vertical-align: middle;"> + Spirit Vessel <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png" width="24" style="vertical-align: middle;">**
+Best against heroes with strong HP regeneration or high durability (e.g., Necrophos, Centaur). Vessel provides damage, HP, mana, and much-needed mana regeneration—making it applicable in most games.
+* **Phase Boots <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png" width="24" style="vertical-align: middle;"> + Mage Slayer <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Mage_Slayer_icon.png" width="24" style="vertical-align: middle;">**
+Effective against high magical damage, low-HP heroes (e.g., Crystal Maiden). Reducing enemy spell damage improves Ember’s survivability in fights.
+* **Power Treads <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Power_Treads_icon.png" width="24" style="vertical-align: middle;">  + Blade Mail <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Blade_Mail_icon.png" width="24" style="vertical-align: middle;">**
+Strong against heavy physical damage cores (e.g., Sniper). Blade Mail provides armor early, allowing Ember to frontline more safely with Flame Guard.
+
+> In most games, Spirit Vessel <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png" width="24" style="vertical-align: middle;"> is the default choice due to its balance of damage, survivability, and mana sustain.
+
+
+### Phase Boots <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png" width="24" style="vertical-align: middle;"> vs Power Treads <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Power_Treads_icon.png" width="24" style="vertical-align: middle;">
+Early Ember thrives on aggression, which favors **Phase Boots**:
+* Extra armor reduces physical damage from heroes and towers.
+* Bonus attack damage converts efficiently into real damage through Sleight of Fist <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Sleight_of_Fist_icon.png" width="20" style="vertical-align: middle;">.
+
+However, if Ember already has armor from another item (e.g., **Blade Mail** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Blade_Mail_icon.png" width="24" style="vertical-align: middle;">), the armor from Phase Boots has diminishing returns. In these cases, **Power Treads** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Power_Treads_icon.png" width="24" style="vertical-align: middle;"> become superior—offering more HP, mana, and farming speed.
+
+### Mid Game Core Items
+
+The mid-game core revolves around:
+* **Aghanim’s Shard** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Aghanim%27s_Shard_-_Roshan_icon.png" width="24" style="vertical-align: middle;"> 
+* **Aghanim’s Scepter** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png" width="24" style="vertical-align: middle;">
+
+If you have the gold, buy **Shard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Aghanim%27s_Shard_-_Roshan_icon.png" width="24" style="vertical-align: middle;"> immediately** once it becomes available. It dramatically boosts both farming and fighting:
+* Ember’s innate damage now applies around himself and his Fire Remnants, enabling efficient jungle farming—even when Ember is elsewhere.
+* Killing heroes restores a Fire Remnant, increasing both damage and survivability.
+* Fire Remnants can continuously break **Blink Daggers** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Blink_Dagger_icon.png" width="24" style="vertical-align: middle;">, disrupting enemy initiations.
+
+**Aghanim’s Scepter** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png" width="24" style="vertical-align: middle;"> provides everything Ember wants:
+* HP, mana, and damage
+* Additional Fire Remnants for nuking
+* Long-distance initiation, escape, and map rotation
+
+### Why Not Kaya & Sange <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Kaya_and_Sange_icon.png" width="24" style="vertical-align: middle;">?
+In my opinion, **Kaya and Sange** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Kaya_and_Sange_icon.png" width="24" style="vertical-align: middle;"> is inferior to Scepter <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Aghanim%27s_Scepter_icon.png" width="24" style="vertical-align: middle;">:
+* Similar HP and mana, but less damage and mobility
+* No armor or dispel
+
+Slows down essential follow-up items like **BKB** and **Shiva’s Guard**.
+
+If choosing between the two, **build Scepter**.
+
+### Late Game Core and Defensive Items
+
+**Core Late Game Item**: Shiva’s Guard <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Shiva%27s_Guard_icon.png" width="24" style="vertical-align: middle;">
+
+Almost universally strong:
+* High armor against physical damage
+* HP and mana
+* Reduces enemy magic resistance (boosting Ember’s nukes)
+* Provides high-ground vision—crucial in late-game fights
+
+
+**Defensive Options (Situational)**
+To against heavy disables (e.g., Hex, Bloodthorn), Ember may need one defensive item:
+* Black King Bar <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Black_King_Bar_icon.png" width="20" style="vertical-align: middle;">
+* Linken’s Sphere <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Linken%27s_Sphere_icon.png" width="20" style="vertical-align: middle;">
+* Manta Style <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png" width="20" style="vertical-align: middle;">
+
+This slot is optional—skip it if unnecessary.
+
+### Late Game Damage Scaling
+To scale damage further:
+* **Radiance** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Radiance_%28Active%29_icon.png" width="20" style="vertical-align: middle;"> – Strong AoE magical damage and miss chance; synergizes well with Sleight of Fist.
+* **Mjollnir** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Mjollnir_icon.png" width="20" style="vertical-align: middle;"> – Excellent against illusions and in frontline-heavy fights where Static Charge procs frequently.
+* **Daedalus <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Daedalus_icon.png" width="20" style="vertical-align: middle;">  / Monkey King Bar** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Monkey_King_Bar_icon.png" width="20" style="vertical-align: middle;"> – Reliable physical damage scaling.
+* **Divine Rapier** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Divine_Rapier_icon.png" width="20" style="vertical-align: middle;">– High-risk, high-reward option; turns Sleight of Fist into a support-deleting weapon.
+
+
+
+In some games, Ember should prioritize **utility over damage**:
+* **Scythe of Vyse** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Scythe_of_Vyse_icon.png" width="20" style="vertical-align: middle;"> or **Nullifier** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Nullifier_icon.png" width="20" style="vertical-align: middle;">can be game-winning when the team needs control rather than raw DPS.
+
+
+### Final Pieces
+* **Boots of Travel** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Boots_of_Travel_1_icon.png" width="20" style="vertical-align: middle;"> – Essential for managing lane pressure, especially after losing objectives.
+* **Refresher Orb**  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Refresher_Orb_icon.png" width="20" style="vertical-align: middle;"> – A **true late-game finisher**. With double BKB and up to 10 Remnants, Ember can absorb massive pressure while dealing overwhelming damage.
+
+
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Emoticon_zipper.gif" width="36" style="vertical-align: middle;"> Item Builds Under Pressure
+
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Emoticon_kiss2.gif" width="36" style="vertical-align: middle;"> Item Builds With Late-Game Damage
+
+
+
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Emoticon_dizzy.gif" width="36" style="vertical-align: middle;"> Item FAQ
+
 
 
 
