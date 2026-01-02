@@ -1450,11 +1450,11 @@ Neutral items should generally reinforce these same attributes: survivability, m
 After the basic setup, Ember should commit to **one** of the following early–mid game item paths, depending on the enemy draft:
 
 * **Phase Boots <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png" width="20" style="vertical-align: middle;"> + Spirit Vessel <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png" width="20" style="vertical-align: middle;">**
-Best against heroes with strong HP regeneration or high durability (e.g., Necrophos, Centaur). Vessel provides damage, HP, mana, and much-needed mana regeneration—making it applicable in most games.
+Best against heroes with strong HP regeneration or high durability (e.g., Necrophos <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Necrophos_minimap_icon.png" width="20" style="vertical-align: middle;">, Dragon Knight <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Dragon_Knight_minimap_icon.png" width="20" style="vertical-align: middle;">, Centaur <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Centaur_Warrunner_minimap_icon.png" width="20" style="vertical-align: middle;">). Vessel provides damage, HP, mana, and much-needed mana regeneration—making it applicable in most games.
 * **Phase Boots <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Phase_Boots_icon.png" width="20" style="vertical-align: middle;"> + Mage Slayer <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Mage_Slayer_icon.png" width="20" style="vertical-align: middle;">**
-Effective against high magical damage, low-HP heroes (e.g., Crystal Maiden). Reducing enemy spell damage improves Ember’s survivability in fights.
+Effective against high magical damage, low-HP heroes (e.g., Storm Spirit <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Storm_Spirit_minimap_icon.png" width="20" style="vertical-align: middle;">, Crystal Maiden <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Crystal_Maiden_minimap_icon.png" width="20" style="vertical-align: middle;">). Reducing enemy spell damage improves Ember’s survivability in fights.
 * **Power Treads <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Power_Treads_icon.png" width="20" style="vertical-align: middle;">  + Blade Mail <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Blade_Mail_icon.png" width="20" style="vertical-align: middle;">**
-Strong against heavy physical damage cores (e.g., Sniper). Blade Mail provides armor early, allowing Ember to frontline more safely with Flame Guard.
+Strong against heavy physical damage cores (e.g., Sniper <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Sniper_minimap_icon.png" width="20" style="vertical-align: middle;">, Windranger <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Windranger_minimap_icon.png" width="20" style="vertical-align: middle;">, Riki <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Riki_minimap_icon.png" width="20" style="vertical-align: middle;">, Phantom Assassin <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Phantom_Assassin_minimap_icon.png" width="20" style="vertical-align: middle;">) or nukes (e.g., Leshrac). Blade Mail provides armor early, allowing Ember to frontline more safely with Flame Guard.
 
 > In most games, Spirit Vessel <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png" width="20" style="vertical-align: middle;"> is the default choice due to its balance of damage, survivability, and mana sustain.
 
@@ -1622,7 +1622,7 @@ The following items largely follow the same mid-to-late game progression outline
 If you want to take on a larger share of the team’s damage output, this build path, shown as follows, prioritizes **maximum late-game damage**, trading some mobility and mana efficiency for raw impact. 
 
 <div class="mermaid-scroll">
-<div class="mermaid" style="width: 650px;">
+<div class="mermaid" style="width: 400px;">
 %%{init: {
   "theme": "dark",
   "themeVariables": {
@@ -1673,6 +1673,10 @@ A major power spike comes from completing a defensive item—such as Black King 
 These defensive items can be skipped if your teammates are able to create a consistently safe environment for you to deal damage.
 
 From there, Ember can transition into additional damage items to further amplify his teamfight impact. For physical damage scaling, Daedalus <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Daedalus_icon.png" width="20" style="vertical-align: middle;"> or Monkey King Bar <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Monkey_King_Bar_icon.png" width="20" style="vertical-align: middle;"> are strong choices. To enhance magical and mixed damage output, Mjollnir <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Mjollnir_icon.png" width="20" style="vertical-align: middle;"> is an effective option.
+
+
+**Key takeaway**
+> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> The best item builds let you absorb pressure, stay alive, and still threaten the enemy through multiple rounds of spells.
 
 
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Emoticon_lick.gif" width="36" style="vertical-align: middle;"> Ability and Talent Builds
@@ -1805,44 +1809,98 @@ Phase Boots amplify Sleight’s physical damage, while Sleight’s AoE applicati
 ### Talent Builds
 Ember Spirit’s talent choices should always be adapted to the enemy draft, as well as your ability build and item progression. There is no single “correct” talent tree—each tier rewards different game states and playstyles.
 
-#### Level 10: *+165 Flame Guard Barrier Amount* vs *+12 Damage*
+#### Level 10: *"+165 Flame Guard Barrier Amount"* vs *"+12 Damage"*
 
-The default choice is *+165 Flame Guard Barrier Amount*, which significantly improves Ember’s early survivability and tolerance for mistakes.
+The default choice is *"+165 Flame Guard Barrier Amount"*, which significantly improves Ember’s early survivability and tolerance for mistakes.
 
-Consider *+12 Damage* only if:
+Consider *"+12 Damage"* only if:
 * The enemy can consistently dispel Flame Guard, or
 * You are running a Sleight of Fist–focused build, where the bonus damage meaningfully increases your early impact.
 
-#### Level 15: *+0.8s  Searing Chains Duration*	vs	*+100%  Flame Guard DPS*
-In most games, *+100% Flame Guard DPS* is the stronger option—when farming and Ember can enter fights with BKB, dealing massive AoE damage while standing in the middle of engagements.
+#### Level 15: *"+0.8s  Searing Chains Duration"*	vs	*"+100%  Flame Guard DPS"*
+In most games, *"+100% Flame Guard DPS"* is the stronger option—when farming and Ember can enter fights with BKB, dealing massive AoE damage while standing in the middle of engagements.
 
-Choose *+0.8s Searing Chains Duration* if:
+Choose *"+0.8s Searing Chains Duration"* if:
 * You cannot safely approach enemies due to heavy burst or long-range nukes,
 * Flame Guard is easily dispelled, or
 * Your team lacks reliable control and desperately needs the extra root duration.
 
-#### Level 20: *+50  Sleight of Fist Damage*	vs *+50  Searing Chains Damage*
-The standard choice is *+50 Sleight of Fist Damage*. In the mid to late game, Chains damage is often unreliable due to dispels, while Sleight damage consistently converts into real impact.
+#### Level 20: *"+50  Sleight of Fist Damage"*	vs *"+50  Searing Chains Damage"*
+The standard choice is *"+50 Sleight of Fist Damage"*. In the mid to late game, Chains damage is often unreliable due to dispels, while Sleight damage consistently converts into real impact.
 
-However, if the enemy has **very limited dispels**, combining *+50 Searing Chains Damage* with the level 15 *+0.8s Chains Duration* can also be very strong.
+However, if the enemy has **very limited dispels**, combining *"+50 Searing Chains Damage"* with the level 15 *"+0.8s Chains Duration"* can also be very strong.
 
-#### Level 25: *-12s  Remnant Charge Restore Time*	vs *2 Sleight of Fist Charges*
-My personal preference is *−12s Fire Remnant Charge Restore Time*. This allows Ember to consistently have **up to five Remnants per fight**, greatly enhancing damage, survivability, and re-engagement potential in late-game teamfights.
+#### Level 25: *"-12s  Remnant Charge Restore Time"*	vs *"2 Sleight of Fist Charges"*
+My personal preference is *"−12s Fire Remnant Charge Restore Time"*. This allows Ember to consistently have **up to five Remnants per fight**, greatly enhancing damage, survivability, and re-engagement potential in late-game teamfights.
 
-Choose *+2 Sleight of Fist Charges* if:
+Choose *"2 Sleight of Fist Charges"* if:
 * Your item build heavily favors physical damage, or
-* You plan to build Refresher Orb, which can compensate for Remnant availability.
+* You have Refresher Orb, which can compensate for Remnant availability.
 
+
+**Key takeaway**
+> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Convert your ability and talent choices into consistent, reliable damage by aligning them with the draft and your item build.
 
 <a id="matchup_link"></a>
-# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Emoticon_puckchamp.gif" width="36" style="vertical-align: middle;"> Advantageous and Hard Matchups
+# <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Emoticon_puckchamp.gif" width="36" style="vertical-align: middle;"> Advantageous and Difficult Matchups
 
+### Mid Lane Matchups
+As a midlaner, Ember Spirit performs best against heroes with **moderate damage output or low armor**, where his spells can reliably pressure and trade.
+
+#### Favorable matchups
+* Flame Guard absorbs sustained or moderate damage from heroes such as Void Spirit <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Void_Spirit_minimap_icon.png" width="20" style="vertical-align: middle;">, Earth Spirit <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Earth_Spirit_minimap_icon.png" width="20" style="vertical-align: middle;">, Primal Beast <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Primal_Beast_minimap_icon.png" width="20" style="vertical-align: middle;">, and Sand King <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Sand_King_minimap_icon.png" width="20" style="vertical-align: middle;">.
+* Ember trades health efficiently against melee midlaners like Kunkka <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Kunkka_minimap_icon.png" width="20" style="vertical-align: middle;"> and Pangolier <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Pangolier_minimap_icon.png" width="20" style="vertical-align: middle;">, where repeated spell usage and positioning favor him.
+* Sleight of Fist applies heavy pressure to low-armor, spell-reliant heroes like Puck <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Puck_minimap_icon.png" width="20" style="vertical-align: middle;"> , Skywrath Mage <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Skywrath_Mage_minimap_icon.png" width="20" style="vertical-align: middle;">, and Invoker <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Invoker_minimap_icon.png" width="20" style="vertical-align: middle;">.
+
+
+
+#### Difficult matchups
+Ember struggles against heroes that either:
+* Overwhelm Flame Guard with burst magic damage, such as Lina <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Lina_minimap_icon.png" width="20" style="vertical-align: middle;">, Shadow Fiend <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Shadow_Fiend_minimap_icon.png" width="20" style="vertical-align: middle;">, and Queen of Pain <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Queen_of_Pain_minimap_icon.png" width="20" style="vertical-align: middle;">.
+* Out-sustain Ember’s damage through regeneration, making trades ineffective—examples include Dragon Knight <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Dragon_Knight_minimap_icon.png" width="20" style="vertical-align: middle;">, Necrophos <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Necrophos_minimap_icon.png" width="20" style="vertical-align: middle;">, Monkey King <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Monkey_King_minimap_icon.png" width="20" style="vertical-align: middle;">, and Timbersaw <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Timbersaw_minimap_icon.png" width="20" style="vertical-align: middle;">.
+
+
+Ember is also weak against strong lane bullies that dominate early levels and deny space, such as Meepo <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Meepo_minimap_icon.png" width="20" style="vertical-align: middle;">, Viper <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Viper_minimap_icon.png" width="20" style="vertical-align: middle;">, Huskar <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Huskar_minimap_icon.png" width="20" style="vertical-align: middle;">, and Lone Druid <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lone_Druid_minimap_icon.png" width="20" style="vertical-align: middle;">.
+
+### Draft Synergy and Team Composition
+
+#### Ideal Teammates
+
+Ember performs best in drafts that provide:
+* **Tanky frontliners** who can absorb damage and initiate fights. Examples: Tidehunter <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Tidehunter_minimap_icon.png" width="20" style="vertical-align: middle;">, Clockwerk <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Clockwerk_minimap_icon.png" width="20" style="vertical-align: middle;">, Tusk <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Tusk_minimap_icon.png" width="20" style="vertical-align: middle;">, Mars <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Mars_minimap_icon.png" width="20" style="vertical-align: middle;">.
+* **Physical-damage carries** who can close out games once Ember creates space. Examples: Drow Ranger <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Drow_Ranger_minimap_icon.png" width="20" style="vertical-align: middle;">, Juggernaut <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png" width="20" style="vertical-align: middle;">, Ursa <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Ursa_minimap_icon.png" width="20" style="vertical-align: middle;">, Terrorblade <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Terrorblade_minimap_icon.png" width="20" style="vertical-align: middle;">.
+
+Ember also benefits greatly from specific synergies:
+* **Pudge** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Pudge_minimap_icon.png" width="20" style="vertical-align: middle;">: Chains into Hook setups
+* **Keeper of the Light** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Keeper_of_the_Light_minimap_icon.png" width="20" style="vertical-align: middle;"> : Mana sustain and cooldown reduction for higher tempo
+* **Oracle** <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Oracle_minimap_icon.png" width="20" style="vertical-align: middle;">: Rune control and defensive utility
+
+In general, Ember thrives with teammates who have **low cooldown abilities and are willing to fight frequently** during the mid game.
+
+#### Matchups Across the Game
+
+#### Heroes Ember excels against
+* High-armor but low-HP carries in the early–mid game (e.g., Terrorblade <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Terrorblade_minimap_icon.png" width="20" style="vertical-align: middle;">, Drow Ranger <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Drow_Ranger_minimap_icon.png" width="20" style="vertical-align: middle;">), where Ember’s magic damage is most effective.
+* Illusion-based heroes like Chaos Knight <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Chaos_Knight_minimap_icon.png" width="20" style="vertical-align: middle;"> and Phantom Lancer <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Phantom_Lancer_minimap_icon.png" width="20" style="vertical-align: middle;">.
+* Ranged carries such as Windrunner <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Windranger_minimap_icon.png" width="20" style="vertical-align: middle;"> and Muerta, whom Ember can quickly close the gap on.
+* Low HP supports such as Ancient Apparition <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Ancient_Apparition_minimap_icon.png" width="20" style="vertical-align: middle;"> and Rubick <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Rubick_minimap_icon.png" width="20" style="vertical-align: middle;">.
+
+
+#### Heroes Ember struggles against
+* Heroes that dodge or mitigate magic damage in the late game, such as Lifestealer <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Lifestealer_minimap_icon.png" width="20" style="vertical-align: middle;">, Juggernaut <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png" width="20" style="vertical-align: middle;">, and Anti-Mage <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Anti-Mage_minimap_icon.png" width="20" style="vertical-align: middle;">.
+* Long-duration lockdown like Legion Commander <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Legion_Commander_minimap_icon.png" width="20" style="vertical-align: middle;">’s Duel and Axe <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Axe_minimap_icon.png" width="20" style="vertical-align: middle;">’s Call, which can kill Ember before he can react.
+* Strong dispel and magic immunity supports, such as Omniknight <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Omniknight_minimap_icon.png" width="20" style="vertical-align: middle;">, Abaddon <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Abaddon_minimap_icon.png" width="20" style="vertical-align: middle;">, and especially Oracle <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Oracle_minimap_icon.png" width="20" style="vertical-align: middle;">, who can fully negate Ember’s magical damage.
+* Heavy stun or silence drafts—Ember can tolerate one or two disables, but games become very difficult when enemies have three or more stuns or silences, or long-duration control like Bane.
+* High-burst or counter-stun heroes like Earthshaker <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Earthshaker_minimap_icon.png" width="20" style="vertical-align: middle;"> and Nyx Assassin  <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Nyx_Assassin_minimap_icon.png" width="20" style="vertical-align: middle;">, who can punish Ember via Spiked Carapace against Flame Guard or Radiance.
+* AoE or global silences that are hard to dodge, such as Silencer <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Silencer_minimap_icon.png" width="20" style="vertical-align: middle;">’s and Disruptor <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Disruptor_minimap_icon.png" width="20" style="vertical-align: middle;">’s ultimates.
+
+
+**Key takeaway**
+> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Emoticon_dac15_cool.gif" width="20" style="vertical-align: middle;"> Know which heroes to avoid engaging early, apply pressure to heroes Ember struggle to handle in the late game during Ember’s early–mid game power window, and itemize correctly to survive enemy disables.
 
 
 <a id="notes_link"></a>
 # <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Emoticon_earth_grin.gif" width="36" style="vertical-align: middle;">  Additional Notes & Context
-
-
 
 * Written for Dota 2 patch 7.40
 
