@@ -2,9 +2,9 @@
 # About Me
 I am a 3rd-year PhD student in the Computer Science Department ([CSD](https://www.csd.cs.cmu.edu/)) at Carnegie Mellon University (CMU).
 I am fortunate to be advised by Prof. [Justine Sherry](https://www.justinesherry.com/) and work with Prof. [Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind) and [Vincent Liu](https://vincen.tl/).
-My research interests include GPU communication efficiency and programmable networks.
 Prior to CMU, I earned BS and MS degree at Tsinghua University and was advised by Prof. [Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu).
 
+My current research interests include GPU communication efficiency and energy efficiency.
 
 <div class="info">
     <div class="info_text">
@@ -93,7 +93,7 @@ Prior to CMU, I earned BS and MS degree at Tsinghua University and was advised b
 * **FAST: An Efficient Scheduler for All-to-All GPU Communication** <br />
     ***Yiran Lei***, Dongjoo Lee, <a href="https://liangyuzhao.me/" class="paperauthor">Liangyu Zhao</a>, Daniar Kurniawan, Chanmyeong Kim, Heetaek Jeong, Changsu Kim, Hyeonseong Choi, <a href="https://liangchengyu.com/" class="paperauthor"> Liangcheng Yu</a>, <a href="https://www.cs.washington.edu/people/faculty/arvind-krishnamurthy/" class="paperauthor">Arvind Krishnamurthy</a>, <a href="https://www.justinesherry.com/" class="paperauthor">Justine Sherry</a>, <a href="https://www.linkedin.com/in/nurvitadhi/" class="paperauthor">Eriko Nurvitadhi</a> <br />
 [NSDI 2026](https://www.usenix.org/conference/nsdi26/technical-sessions) <br />
-<a href="https://www.usenix.org/conference/nsdi26/presentation/lei-yiran" class="paperlink">paper</a> <a class="paperlink">slides</a> <a href="https://github.com/MangoBoost/FAST">code</a> <br />
+<a href="https://www.usenix.org/conference/nsdi26/presentation/lei-yiran" class="paperlink">paper</a> <a class="paperlink">slides</a> <a href="https://github.com/MangoBoost/FAST" class="paperlink">code</a> <br />
 
 <p style="clear: left; margin-bottom: 30px"></p>
 
