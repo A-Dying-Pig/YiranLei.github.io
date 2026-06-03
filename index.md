@@ -94,6 +94,10 @@ My current research interests include GPU communication efficiency and energy ef
     ***Yiran Lei***, Dongjoo Lee, <a href="https://liangyuzhao.me/" class="paperauthor">Liangyu Zhao</a>, Daniar Kurniawan, Chanmyeong Kim, Heetaek Jeong, Changsu Kim, Hyeonseong Choi, <a href="https://liangchengyu.com/" class="paperauthor"> Liangcheng Yu</a>, <a href="https://www.cs.washington.edu/people/faculty/arvind-krishnamurthy/" class="paperauthor">Arvind Krishnamurthy</a>, <a href="https://www.justinesherry.com/" class="paperauthor">Justine Sherry</a>, <a href="https://www.linkedin.com/in/nurvitadhi/" class="paperauthor">Eriko Nurvitadhi</a> <br />
 [NSDI 2026](https://www.usenix.org/conference/nsdi26/technical-sessions) <br />
 <a href="https://www.usenix.org/conference/nsdi26/presentation/lei-yiran" class="paperlink">paper</a> <a href="/assets/papers/FAST/FAST_NSDI.pdf" class="paperlink">slides</a> <a href="https://github.com/MangoBoost/FAST" class="paperlink">code</a> <br />
+<div class="embed-first" style="margin-top: -17px">
+    <p>Talk @ NSDI 2026</p>
+    <iframe src="https://www.youtube.com/embed/IfSgD5PwdDc" frameborder="0" allowfullscreen style="margin-top: -10px"></iframe>
+</div> 
 
 <p style="clear: left; margin-bottom: 30px"></p>
 
