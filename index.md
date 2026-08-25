@@ -1,10 +1,10 @@
 <br>
 # About Me
-I am a 3rd-year PhD student in the Computer Science Department ([CSD](https://www.csd.cs.cmu.edu/)) at Carnegie Mellon University (CMU).
+I am a 4th-year PhD student in the Computer Science Department ([CSD](https://www.csd.cs.cmu.edu/)) at Carnegie Mellon University (CMU).
 I am fortunate to be advised by Prof. [Justine Sherry](https://www.justinesherry.com/) and work with Prof. [Arvind Krishnamurthy](https://www.cs.washington.edu/people/faculty/arvind) and [Vincent Liu](https://vincen.tl/).
 Prior to CMU, I earned BS and MS degree at Tsinghua University and was advised by Prof. [Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu).
 
-My current research interests include GPU communication efficiency and energy efficiency.
+My current research interests include communication efficiency and energy efficiency in GPU systems.
 
 <div class="info">
     <div class="info_text">
@@ -153,6 +153,7 @@ My current research interests include GPU communication efficiency and energy ef
 <br />
 # Teaching
 ### Teaching Assistant
+* *Computer Networks and the Internet (15-441/641)*, 2026 Fall, Carnegie Mellon University
 * *Computer Networks and the Internet (15-441/641)*, 2025 Fall, Carnegie Mellon University
 * *The Principle of Computer Network*, 2021 Fall, Department of Computer Science and Technology, Tsinghua University
 
