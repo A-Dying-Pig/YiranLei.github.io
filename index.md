@@ -15,7 +15,7 @@ My current research interests include communication efficiency and energy effici
 # News
 <div class="news_list">
   <div class="news_list_item" id="nli0">
-    <div class="news_date">Sept. 2026</div>
+    <div class="news_date">Sep. 2026</div>
     <div class="news_content" style="display: flex; align-items: center">Our paper accepted to HotNets 2026!</div>
   </div>
   <div class="news_list_item" id="nli1">
