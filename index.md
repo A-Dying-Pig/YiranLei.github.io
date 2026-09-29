@@ -163,9 +163,9 @@ My current research interests include communication efficiency and energy effici
 <br />
 # Teaching
 ### Teaching Assistant
-* *[Computer Networks and the Internet (15-441/641)](https://computer-networks.github.io/15-441-fa26-website/)*, 2026 Fall, Carnegie Mellon University
-* *[Computer Networks and the Internet (15-441/641)](https://computer-networks.github.io/15-441-fa25/)*, 2025 Fall, Carnegie Mellon University
-* *The Principle of Computer Network*, 2021 Fall, Department of Computer Science and Technology, Tsinghua University
+* [Computer Networks and the Internet (15-441/641)](https://computer-networks.github.io/15-441-fa26-website/), 2026 Fall, Carnegie Mellon University
+* [Computer Networks and the Internet (15-441/641)](https://computer-networks.github.io/15-441-fa25/), 2025 Fall, Carnegie Mellon University
+* The Principle of Computer Network, 2021 Fall, Department of Computer Science and Technology, Tsinghua University
 
 # Blogs
 * How to [play Ember Spirit](/dota2_ember_spirit) in Dota2 <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/79/Emoticon_wiz_bringit.gif" width="20" style="vertical-align: middle;">?
