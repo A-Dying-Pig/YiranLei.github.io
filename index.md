@@ -96,11 +96,6 @@ My current research interests include communication efficiency and energy effici
 
 
 # Publications
-* **The Network Should Wake the GPU** <br />
-    ***Yiran Lei***, <a href="https://www.jaredfern.com/" class="paperauthor">Jared Fernandez</a>, <a href="https://csd.cmu.edu/people/doctoral-student/vasileios-kypriotis" class="paperauthor">Vasilis Kypriotis</a>, <a href="https://www.cs.cmu.edu/~dskarlat/" class="paperauthor">Dimitrios Skarlatos</a>, <a href="https://strubell.github.io/" class="paperauthor">Emma Strubell</a>, <a href="https://www.justinesherry.com/" class="paperauthor">Justine Sherry</a>, <a href="https://www.lti.cs.cmu.edu/people/staff/vosler-daniel.html" class="paperauthor">Daniel Vosler</a> <br />
-    To appear in HotNets 2026
-
-<p style="clear: left; margin-bottom: 30px"></p>
     
 * **The Energy Cost of Execution-Idle in GPU Clusters** <br />
     ***Yiran Lei***, <a href="https://www.jaredfern.com/" class="paperauthor">Jared Fernandez</a>, <a href="https://csd.cmu.edu/people/doctoral-student/vasileios-kypriotis" class="paperauthor">Vasilis Kypriotis</a>, <a href="https://www.cs.cmu.edu/~dskarlat/" class="paperauthor">Dimitrios Skarlatos</a>, <a href="https://strubell.github.io/" class="paperauthor">Emma Strubell</a>, <a href="https://www.justinesherry.com/" class="paperauthor">Justine Sherry</a>, <a href="https://www.lti.cs.cmu.edu/people/staff/vosler-daniel.html" class="paperauthor">Daniel Vosler</a> <br />
